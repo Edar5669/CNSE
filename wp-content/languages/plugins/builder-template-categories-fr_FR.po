@@ -1,0 +1,410 @@
+# Translation of Plugins - Builder Template Categories &#8211; for WordPress Page Builders - Stable (latest release) in French (France)
+# This file is distributed under the same license as the Plugins - Builder Template Categories &#8211; for WordPress Page Builders - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-08-22 13:32:19+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: fr\n"
+"Project-Id-Version: Plugins - Builder Template Categories &#8211; for WordPress Page Builders - Stable (latest release)\n"
+
+#. Plugin URI of the plugin/theme
+msgid "https://github.com/deckerweb/builder-template-categories"
+msgstr "https://github.com/deckerweb/builder-template-categories"
+
+#: includes/string-switcher.php:63
+msgid "Layout %s"
+msgstr "Mise en page %s"
+
+#: includes/string-switcher.php:27
+msgid "Categories"
+msgstr "Catégories"
+
+#: includes/run-integrations.php:104
+msgid "All %s"
+msgstr "Toutes %s"
+
+#: includes/register-taxonomy.php:128
+msgctxt "Taxonomy term title"
+msgid "Testing"
+msgstr "Test"
+
+#: includes/register-taxonomy.php:123
+msgctxt "Taxonomy term title"
+msgid "Hooks"
+msgstr "Crochets"
+
+#: includes/register-taxonomy.php:119
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "sections"
+msgstr "sections"
+
+#: includes/register-taxonomy.php:118
+msgctxt "Taxonomy term title"
+msgid "Sections"
+msgstr "Sections"
+
+#: includes/register-taxonomy.php:113
+msgctxt "Taxonomy term title"
+msgid "Landing Pages"
+msgstr "Pages d’atterrissage"
+
+#: includes/register-taxonomy.php:109
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "pages"
+msgstr "pages"
+
+#: includes/register-taxonomy.php:108
+msgctxt "Taxonomy term title"
+msgid "Pages"
+msgstr "Pages"
+
+#: includes/register-taxonomy.php:104
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "frontpage"
+msgstr "page de garde"
+
+#: includes/register-taxonomy.php:103
+msgctxt "Taxonomy term title"
+msgid "Frontpage"
+msgstr "Page de garde"
+
+#: includes/register-taxonomy.php:99
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "general"
+msgstr "général"
+
+#: includes/register-taxonomy.php:98
+msgctxt "Taxonomy term title"
+msgid "General"
+msgstr "Général"
+
+#: includes/register-taxonomy.php:43
+msgid "Popular Categories"
+msgstr "Catégories populaires"
+
+#: includes/register-taxonomy.php:42
+msgid "Choose from the most used"
+msgstr "Choisissez parmi les plus utilisées"
+
+#: includes/register-taxonomy.php:41
+msgid "Add or remove categories"
+msgstr "Ajouter ou supprimer des catégories"
+
+#: includes/register-taxonomy.php:31
+msgid "Taxonomy"
+msgstr "Taxonomie"
+
+#: includes/register-taxonomy.php:30
+msgctxt "Taxonomy Singular Name"
+msgid "Template Category"
+msgstr "Catégorie de modèle"
+
+#: includes/integrations/integration-oceanwp.php:27
+msgid "OceanWP"
+msgstr "OceanWP"
+
+#. translators: Plugins page listing
+#: includes/admin/admin-extras.php:96
+msgctxt "Plugins page listing"
+msgid "Donate"
+msgstr "Faire un don"
+
+#. translators: Plugins page listing
+#: includes/admin/admin-extras.php:93
+msgctxt "Plugins page listing"
+msgid "Code Snippets"
+msgstr "Extraits de code"
+
+#. translators: Plugins page listing
+#: includes/admin/admin-extras.php:90
+msgctxt "Plugins page listing"
+msgid "Translations"
+msgstr "Traductions"
+
+#. translators: Plugins page listing
+#: includes/admin/admin-extras.php:87
+msgctxt "Plugins page listing"
+msgid "Support"
+msgstr "Support"
+
+#: includes/string-switcher.php:166
+msgid "for Post Types, Taxonomies, Fields"
+msgstr "pour les types de publication, taxonomies, champs"
+
+#: includes/string-switcher.php:143
+msgid "for WooCommerce"
+msgstr "pour WooCommerce"
+
+#: includes/string-switcher.php:98
+msgid "Listing %s"
+msgstr "Liste %s"
+
+#: includes/string-switcher.php:91
+msgid "Lightbox %s"
+msgstr "Visionneuse %s"
+
+#: includes/string-switcher.php:84
+msgid "Popup %s"
+msgstr "Fenêtre surgissante %s"
+
+#: includes/string-switcher.php:77
+msgid "Block %s"
+msgstr "Bloc %s"
+
+#: includes/string-switcher.php:70
+msgid "Element %s"
+msgstr "Élément %s"
+
+#: includes/string-switcher.php:56
+msgid "Library %s"
+msgstr "Bibliothèque %s"
+
+#: includes/string-switcher.php:49 includes/string-switcher.php:112
+msgid "Template %s"
+msgstr "Modèle %s"
+
+#: includes/register-taxonomy.php:130
+msgctxt "Taxonomy term description"
+msgid "Templates just for testing purposes"
+msgstr "Modèles uniquement à des fins de test"
+
+#: includes/register-taxonomy.php:129
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "testing"
+msgstr "test"
+
+#: includes/register-taxonomy.php:125
+msgctxt "Taxonomy term description"
+msgid "Templates for Action Hooks"
+msgstr "Modèles pour crochets d’action"
+
+#: includes/register-taxonomy.php:124
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "hooks"
+msgstr "crochets"
+
+#: includes/register-taxonomy.php:120
+msgctxt "Taxonomy term description"
+msgid "Templates for Sections/ Content Blocks"
+msgstr "Modèles pour sections/blocs de contenu"
+
+#: includes/register-taxonomy.php:115
+msgctxt "Taxonomy term description"
+msgid "Templates for Landing Pages"
+msgstr "Modèles pour pages d’atterrissage"
+
+#: includes/register-taxonomy.php:114
+msgctxt "Taxonomy term slug - only lowercase, a-z, 0-9, hyphens!"
+msgid "landing-pages"
+msgstr "pages d’atterrissage"
+
+#: includes/register-taxonomy.php:110
+msgctxt "Taxonomy term description"
+msgid "Templates for Pages"
+msgstr "Modèles pour pages"
+
+#: includes/register-taxonomy.php:105
+msgctxt "Taxonomy term description"
+msgid "Templates for the Frontpage/ Homepage"
+msgstr "Modèles pour page de garde/d’accueil"
+
+#: includes/register-taxonomy.php:100
+msgctxt "Taxonomy term description"
+msgid "General templates"
+msgstr "Modèles généraux"
+
+#: includes/register-taxonomy.php:64
+msgid "Template Categories for templates of Page Builders or similar libraries"
+msgstr "Catégories de modèle pour modèles de constructeurs de page ou bibliothèques similaires"
+
+#: includes/register-taxonomy.php:46
+msgid "No Template Categories"
+msgstr "Aucune catégorie de modèle"
+
+#: includes/register-taxonomy.php:45
+msgid "No Template Categories found."
+msgstr "Aucune catégorie de modèle trouvée."
+
+#: includes/register-taxonomy.php:44
+msgid "Search Template Categories"
+msgstr "Rechercher des catégories de modèle"
+
+#: includes/register-taxonomy.php:40
+msgid "Separate Template Categories with commas"
+msgstr "Séparez les catégories de modèle avec des virgules"
+
+#: includes/register-taxonomy.php:39
+msgid "View Template Category"
+msgstr "Voir la catégorie de modèle"
+
+#: includes/register-taxonomy.php:38
+msgid "Update Template Category"
+msgstr "Mettre à jour la catégorie de modèle"
+
+#: includes/register-taxonomy.php:37
+msgid "Edit Template Category"
+msgstr "Modifier la catégorie de modèle"
+
+#: includes/register-taxonomy.php:36
+msgid "Add New Template Category"
+msgstr "Ajouter une nouvelle catégorie de modèle"
+
+#: includes/register-taxonomy.php:35
+msgid "New Template Category Name"
+msgstr "Nom de nouvelle catégorie de modèle"
+
+#: includes/register-taxonomy.php:34
+msgid "Parent Template Category:"
+msgstr "Catégorie de modèle parente :"
+
+#: includes/register-taxonomy.php:33
+msgid "Parent Template Category"
+msgstr "Catégorie de modèle parente"
+
+#: includes/register-taxonomy.php:32
+msgid "All Template Categories"
+msgstr "Toutes les catégories de modèle"
+
+#: includes/register-taxonomy.php:29
+msgctxt "Taxonomy General Name"
+msgid "Template Categories"
+msgstr "Catégories de modèle"
+
+#: includes/integrations/integration-wpshowposts.php:66
+#: includes/integrations/integration-wpshowposts.php:73
+msgid "Listing Categories"
+msgstr "Liste des catégories"
+
+#: includes/integrations/integration-wpshowposts.php:27
+msgid "WP Show Posts Listings"
+msgstr "Listes WP Show Posts"
+
+#: includes/integrations/integration-wpbakery-templatera.php:27
+msgid "WPBakery Page Builder Templates"
+msgstr "Modèles du constructeur de page WPBakery"
+
+#: includes/integrations/integration-thrive-lightboxes.php:27
+msgid "Thrive Lightbox Templates"
+msgstr "Modèles de visionneuse Thrive"
+
+#: includes/integrations/integration-popup-maker.php:27
+msgid "Popup Maker Templates"
+msgstr "Modèles Popup Maker"
+
+#: includes/integrations/integration-popboxes.php:27
+msgid "PopBox Popup Templates"
+msgstr "Modèles de fenêtre surgissante PopBox"
+
+#: includes/integrations/integration-pods.php:27
+msgid "Pods Templates"
+msgstr "Modèles Pods"
+
+#: includes/integrations/integration-oxygen-builder.php:27
+msgid "Oxygen Builder Templates"
+msgstr "Modèles Oxygen Builder"
+
+#: includes/integrations/integration-jetwoobuilder.php:27
+msgid "JetWooBuilder Product Templates"
+msgstr "Modèles de produit JetWooBuilder"
+
+#: includes/integrations/integration-jetthemecore.php:27
+msgid "JetThemeCore My Library"
+msgstr "Ma bibliothèque JetThemeCore"
+
+#: includes/integrations/integration-jetengine.php:27
+msgid "JetEngine Listing Templates"
+msgstr "Modèles de liste JetEngine"
+
+#: includes/integrations/integration-hf-elementor.php:27
+msgid "Header &amp; Footer Templates for Elementor"
+msgstr "Modèles d’en-tête & pied de page pour Elementor"
+
+#: includes/integrations/integration-genesis-blox.php:56
+msgid "Block Categories"
+msgstr "Catégories de bloc"
+
+#: includes/integrations/integration-genesis-blox.php:27
+msgid "Blox Global Blocks (for Genesis)"
+msgstr "Blocs Blox Global (for Genesis)"
+
+#: includes/integrations/integration-generatepress.php:27
+msgid "GeneratePress Elements"
+msgstr "Éléments GeneratePress"
+
+#: includes/integrations/integration-elementor.php:27
+msgid "Elementor My Templates"
+msgstr "Mes modèles Elementor"
+
+#: includes/integrations/integration-dhwc-elementor.php:27
+msgid "DHWC Elementor Product Templates"
+msgstr "Modèles de produit DHWC Elementor"
+
+#: includes/integrations/integration-cornerstone-global-blocks.php:27
+msgid "Global Content Blocks for Cornerstone Page Builder"
+msgstr "Blocs de contenu global pour le constructeur de page Cornerstone"
+
+#: includes/integrations/integration-boldgrid.php:27
+msgid "BoldGrid Blocks"
+msgstr "Blocs BoldGrid"
+
+#: includes/integrations/integration-astra.php:27
+msgid "Astra Custom Layouts"
+msgstr "Mises en page personnalisées Astra"
+
+#: includes/integrations/integration-anywhere-elementor.php:27
+msgid "AnyWhere Elementor Global Templates"
+msgstr "Modèles globaux AnyWhere Elementor"
+
+#. #-#-#-#-#  builder-template-categories-code.pot (Builder Template Categories
+#. 1.0.1)  #-#-#-#-#
+#. Author URI of the plugin/theme
+#: includes/functions-global.php:111
+msgid "https://deckerweb.de/"
+msgstr "https://deckerweb.de/"
+
+#. #-#-#-#-#  builder-template-categories-code.pot (Builder Template Categories
+#. 1.0.1)  #-#-#-#-#
+#. Author of the plugin/theme
+#: includes/functions-global.php:110
+msgid "David Decker - DECKERWEB"
+msgstr "David Decker - DECKERWEB"
+
+#: includes/functions-global.php:49
+msgid "No Integration registered"
+msgstr "Aucune intégration enregistrée"
+
+#: includes/admin/admin-extras.php:151
+msgid "These Template Categories are globally available for Administrators within the Admin Dashboard and can be used to organize the template libraries for the following active Plugins and/or Themes"
+msgstr "Ces catégories de modèles sont globalement disponibles pour les administrateurs dans le tableau de bord d’administration et peuvent être utilisées pour organiser les bibliothèques de modèles pour les extensions et/ou thèmes actifs suivants"
+
+#. translators: 1 - Builder Template Categories / 2 - Link to plugin review
+#: includes/admin/admin-extras.php:128
+msgid "Enjoyed %1$s? Please leave us a %2$s rating. We really appreciate your support!"
+msgstr "Vous avez aimé %1$s ? Veuillez nous laisser une note de %2$s. Nous apprécions vraiment votre soutien !"
+
+#: includes/admin/admin-extras.php:36
+msgctxt "For Builder Template Categories Plugin"
+msgid "Template Categories"
+msgstr "Catégories de modèle"
+
+#. #-#-#-#-#  builder-template-categories-code.pot (Builder Template Categories
+#. 1.0.1)  #-#-#-#-#
+#. translators: Title attribute for Builder Template Categories taxonomy link
+#. #-#-#-#-#  builder-template-categories-code.pot (Builder Template Categories
+#. 1.0.1)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: includes/admin/admin-extras.php:35 includes/admin/admin-extras.php:129
+msgid "Builder Template Categories"
+msgstr "Builder Template Categories"
+
+#: includes/string-switcher.php:105
+msgid "EL HF %s"
+msgstr "EL HF %s"
+
+#. Description of the plugin/theme
+msgid "This plugin adds a Taxonomy \"Template Category\" for categorizing templates to make the life of site builders a little bit easier. It integrates with Elementor My Templates, OceanWP My Library, Astra Custom Layouts, GeneratePress Elements, Blox for Genesis, AnyWhere Elementor Global Templates and JetThemeCore My Library (Kava Pro/ CrocoBlock). These categories only appear in the WP-Admin Dashboard and only for the administrator user role (capability 'edit_theme_options')."
+msgstr "Cette extension ajoute une taxonomie « Catégorie de modèle » pour catégoriser les modèles afin de rendre la vie des créateurs de site un peu plus facile. Cela s’intègre avec les modèles Elementor, la bibilothèque OceanWP, les mises en page personnalisés Astra, les éléments GeneratePress, Blox for Genesis, les modèles globaux AnyWhere Elementor et la bibliothèque JetThemeCore (Kava Pro/ CrocoBlock). Ces catégories apparaissent uniquement dans le tableau de bord WP-Admin et uniquement pour le rôle utilisateur administrateur (capacité 'edit_theme_options')."

@@ -1,0 +1,1491 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Vietnamese
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-21 03:38:29+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: vi_VN\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: languages/texts.php:416
+msgid "remove this block"
+msgstr "xóa khối này"
+
+#: languages/texts.php:415
+msgid "or"
+msgstr "hoặc"
+
+#: languages/texts.php:412
+msgid "An error happened while trying to display this block"
+msgstr "Đã xảy ra lỗi trong quá trình hiển thị khối này"
+
+#: languages/texts.php:413
+msgid "You can"
+msgstr "Bạn có thể"
+
+#: languages/texts.php:414
+msgid "open an issue"
+msgstr "báo cáo vấn đề"
+
+#: languages/texts.php:411
+msgid "Enter Search Keyword"
+msgstr "Nhập từ khóa tìm kiếm"
+
+#: languages/texts.php:408
+msgid "Saved"
+msgstr "Đã lưu"
+
+#: languages/texts.php:407
+msgid "Save"
+msgstr "Lưu"
+
+#: languages/texts.php:405
+msgid "Block"
+msgstr "Khối"
+
+#: languages/texts.php:404
+msgid "Filter By"
+msgstr "Lọc bởi"
+
+#: languages/texts.php:319
+msgid "Message sent"
+msgstr "Đã gửi thông điệp"
+
+#: languages/texts.php:318
+msgid "Error"
+msgstr "Lỗi"
+
+#: languages/texts.php:406
+msgid "Make it Global"
+msgstr "Đặt làm khối dùng chung"
+
+#: languages/texts.php:409
+msgid "Global"
+msgstr "Chung"
+
+#: languages/texts.php:410
+msgid "All Categories"
+msgstr "Tất cả thể loại"
+
+#: languages/texts.php:380
+msgid "Random"
+msgstr "Ngẫu nhiên"
+
+#: languages/texts.php:398
+msgid "Inherit"
+msgstr "Kế thừa"
+
+#: languages/texts.php:396
+msgid "Trash"
+msgstr "Thùng rác"
+
+#: languages/texts.php:394
+msgid "Pending"
+msgstr "Đang chờ duyệt"
+
+#: languages/texts.php:403
+msgid "Comment count"
+msgstr "Số lượng bình luận"
+
+#: languages/texts.php:402
+msgid "Parent"
+msgstr "Cha"
+
+#: languages/texts.php:401
+msgid "Modified"
+msgstr "Đã chỉnh sửa"
+
+#: languages/texts.php:392
+msgid "Future"
+msgstr "Tương lai"
+
+#: languages/texts.php:391
+msgid "Status"
+msgstr "Trạng thái"
+
+#: languages/texts.php:390
+msgid "Exclude"
+msgstr "Ngoại trừ"
+
+#: languages/texts.php:389
+msgid "Include"
+msgstr "Bao gồm"
+
+#: languages/texts.php:397
+msgid "Auto-Draft"
+msgstr "Bản nháp tự động lưu"
+
+#: languages/texts.php:395
+msgid "Private"
+msgstr "Riêng tư"
+
+#: languages/texts.php:393
+msgid "Draft"
+msgstr "Bản nháp"
+
+#: languages/texts.php:388
+msgid "Author"
+msgstr "Tác giả"
+
+#: languages/texts.php:387
+msgid "Category"
+msgstr "Chuyên mục"
+
+#: languages/texts.php:386
+msgid "Number posts"
+msgstr "Số lượng bài viết"
+
+#: languages/texts.php:385
+msgid "Post"
+msgstr "Bài viết"
+
+#: languages/texts.php:382
+msgid "Paste your wordpress shortcode here..."
+msgstr "Dán shortcode của bạn vào đây..."
+
+#: languages/texts.php:378
+msgid "Popularity"
+msgstr "Độ phổ biến"
+
+#: languages/texts.php:377
+msgid "Rating"
+msgstr "Đánh giá"
+
+#: languages/texts.php:376
+msgid "Title"
+msgstr "Tiêu đề"
+
+#: languages/texts.php:375
+msgid "Filter"
+msgstr "Bộ lọc"
+
+#: languages/texts.php:374
+msgid "Order Tracking"
+msgstr "Theo dõi đơn hàng"
+
+#: languages/texts.php:373
+msgid "My Account"
+msgstr "Tài khoản"
+
+#: languages/texts.php:372
+msgid "Checkout"
+msgstr "Thanh toán"
+
+#: languages/texts.php:371
+msgid "Cart"
+msgstr "Giỏ hàng"
+
+#: languages/texts.php:370
+msgid "Page"
+msgstr "Trang"
+
+#: languages/texts.php:369
+msgid "Count"
+msgstr "Số lượng"
+
+#: languages/texts.php:368
+msgid "Description"
+msgstr "Mô tả"
+
+#: languages/texts.php:366
+msgid "Name"
+msgstr "Tên"
+
+#: languages/texts.php:365
+msgid "Order By"
+msgstr "Sắp xếp theo"
+
+#: languages/texts.php:364
+msgid "Desc"
+msgstr "Giảm dần"
+
+#: languages/texts.php:363
+msgid "Asc"
+msgstr "Tăng dần"
+
+#: languages/texts.php:362
+msgid "Order"
+msgstr "Đơn hàng"
+
+#: languages/texts.php:361
+msgid "Categories Count"
+msgstr "Số lượng chuyên mục"
+
+#: languages/texts.php:360
+msgid "Columns"
+msgstr "Cột"
+
+#: languages/texts.php:358
+msgid "Layout"
+msgstr "Bố cục"
+
+#: languages/texts.php:357
+msgid "Products Count"
+msgstr "Số lượng sản phẩm"
+
+#: languages/texts.php:356
+msgid "Product ID or SKU"
+msgstr "ID hoặc SKU sản phẩm"
+
+#: languages/texts.php:355
+msgid "Product ID"
+msgstr "ID sản phẩm"
+
+#: languages/texts.php:354
+msgid "Query"
+msgstr "Truy vấn"
+
+#: languages/texts.php:351
+msgid "MultiPage"
+msgstr "Nhiều trang"
+
+#: languages/texts.php:350
+msgid "Footer"
+msgstr "Chân trang"
+
+#: languages/texts.php:347
+msgid "Play"
+msgstr "Chạy"
+
+#: languages/texts.php:381
+msgid "ID"
+msgstr "ID"
+
+#: languages/texts.php:346
+msgid "Cover"
+msgstr "Bìa"
+
+#: languages/texts.php:345
+msgid "Controls"
+msgstr "Nút điều khiển"
+
+#: languages/texts.php:344
+msgid "Ratio"
+msgstr "Tỉ lệ"
+
+#: languages/texts.php:343
+msgid "Video Link"
+msgstr "Đường dẫn video"
+
+#: languages/texts.php:341
+msgid "SoundCloud Link"
+msgstr "Đường dẫn SoundCloud"
+
+#: languages/texts.php:340
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:337
+msgid "Show Percentage"
+msgstr "Hiển thị phần trăm"
+
+#: languages/texts.php:336
+msgid "Percentage"
+msgstr "Phần trăm"
+
+#: languages/texts.php:334
+msgid "Satur.."
+msgstr "Độ bão hòa.."
+
+#: languages/texts.php:379
+msgid "Menu Order"
+msgstr "Trật tự Menu"
+
+#: languages/texts.php:384
+msgid "Post Type"
+msgstr "Kiểu nội dung"
+
+#: languages/texts.php:367
+msgid "Slug"
+msgstr "Chuỗi rút gọn"
+
+#: languages/texts.php:359
+msgid "Style Add to Cart"
+msgstr "Hình thức nút Thêm vào giỏ"
+
+#: languages/texts.php:333
+msgid "Brigh.."
+msgstr "Độ sáng.."
+
+#: languages/texts.php:332
+msgid "Hue"
+msgstr "Hue"
+
+#: languages/texts.php:331
+msgid "Opacity"
+msgstr "Độ trong suốt"
+
+#: languages/texts.php:330
+msgid "Style"
+msgstr "Hình thức"
+
+#: languages/texts.php:327
+msgid "Select"
+msgstr "Chọn"
+
+#: languages/texts.php:326
+msgid "Paragraph"
+msgstr "Đoạn văn"
+
+#: languages/texts.php:325
+msgid "Number"
+msgstr "Số"
+
+#: languages/texts.php:324
+msgid "Email"
+msgstr "Email"
+
+#: languages/texts.php:323
+msgid "Required"
+msgstr "Bắt buộc"
+
+#: languages/texts.php:322
+msgid "Go to"
+msgstr "Đi đến"
+
+#: languages/texts.php:321
+msgid "Redirect"
+msgstr "Chuyển hướng"
+
+#: languages/texts.php:317
+msgid "Success"
+msgstr "Thành công"
+
+#: languages/texts.php:316
+msgid "Message"
+msgstr "Thông điệp"
+
+#: languages/texts.php:315
+msgid "Label"
+msgstr "Nhãn"
+
+#: languages/texts.php:314
+msgid "Field Type"
+msgstr "Kiểu dữ liệu"
+
+#: languages/texts.php:313
+msgid "Field"
+msgstr "Trường dữ liệu"
+
+#: languages/texts.php:311
+msgid "Paste your code here..."
+msgstr "Dán mã của bạn vào đây..."
+
+#: languages/texts.php:309
+msgid "End"
+msgstr "Kết thúc"
+
+#: languages/texts.php:308
+msgid "Start"
+msgstr "Bắt đầu"
+
+#: languages/texts.php:306
+msgid "Russian"
+msgstr "Tiếng Nga"
+
+#: languages/texts.php:305
+msgid "Dutch"
+msgstr "Tiếng Hà Lan"
+
+#: languages/texts.php:304
+msgid "Italian"
+msgstr "Tiếng Ý"
+
+#: languages/texts.php:303
+msgid "French"
+msgstr "Tiếng Pháp"
+
+#: languages/texts.php:302
+msgid "Spanish"
+msgstr "Tiếng Tây Ban Nha"
+
+#: languages/texts.php:301
+msgid "English"
+msgstr "Tiếng Anh"
+
+#: languages/texts.php:300
+msgid "German"
+msgstr "Tiếng Đức"
+
+#: languages/texts.php:299
+msgid "Language"
+msgstr "Ngôn ngữ"
+
+#: languages/texts.php:298
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: languages/texts.php:297
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: languages/texts.php:296
+msgid "+ 10:00 (Sidney, Melbourne)"
+msgstr "+ 10:00 (Sidney, Melbourne)"
+
+#: languages/texts.php:295
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: languages/texts.php:294
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapore, Beijing)"
+
+#: languages/texts.php:293
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: languages/texts.php:292
+msgid "+ 6:00 (Astana)"
+msgstr "+ 6:00 (Astana)"
+
+#: languages/texts.php:291
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg)"
+
+#: languages/texts.php:290
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: languages/texts.php:289
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moscow, Baghdad)"
+
+#: languages/texts.php:288
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Athens, Istanbul)"
+
+#: languages/texts.php:287
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: languages/texts.php:286
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: languages/texts.php:285
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Cape Verde)"
+
+#: languages/texts.php:284
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: languages/texts.php:283
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: languages/texts.php:282
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: languages/texts.php:281
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: languages/texts.php:280
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: languages/texts.php:279
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: languages/texts.php:278
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: languages/texts.php:277
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: languages/texts.php:276
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: languages/texts.php:275
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: languages/texts.php:274
+msgid "Time Zone"
+msgstr "Múi giờ"
+
+#: languages/texts.php:273
+msgid "Minutes"
+msgstr "Phút"
+
+#: languages/texts.php:272
+msgid "Hour"
+msgstr "Giờ"
+
+#: languages/texts.php:271
+msgid "Date"
+msgstr "Ngày"
+
+#: languages/texts.php:267
+msgid "Hover"
+msgstr "Di chuột qua"
+
+#: languages/texts.php:266
+msgid "Normal"
+msgstr "Bình thường"
+
+#: languages/texts.php:263
+msgid "Spacing"
+msgstr "Khoảng cách"
+
+#: languages/texts.php:262
+msgid "Fill"
+msgstr "Màu nền"
+
+#: languages/texts.php:261
+msgid "Corner"
+msgstr "Bo góc"
+
+#: languages/texts.php:260
+msgid "Margin"
+msgstr "Margin"
+
+#: languages/texts.php:258
+msgid "Padding"
+msgstr "Padding"
+
+#: languages/texts.php:254 languages/texts.php:255
+msgid "Open In New Tab"
+msgstr "Mở trong tab mới"
+
+#: languages/texts.php:253
+msgid "Link to"
+msgstr "Liên kết tới"
+
+#: languages/texts.php:252
+msgid "Anchor"
+msgstr "Điểm mốc"
+
+#: languages/texts.php:251
+msgid "Link"
+msgstr "Đường dẫn"
+
+#: languages/texts.php:249
+msgid "Editable Text"
+msgstr "Văn bản có thể chỉnh sửa"
+
+#: languages/texts.php:248
+msgid "PRE"
+msgstr "PRE"
+
+#: languages/texts.php:247
+msgid "H6"
+msgstr "H6"
+
+#: languages/texts.php:246
+msgid "H5"
+msgstr "H5"
+
+#: languages/texts.php:245
+msgid "H4"
+msgstr "H4"
+
+#: languages/texts.php:244
+msgid "H3"
+msgstr "H3"
+
+#: languages/texts.php:243
+msgid "H2"
+msgstr "H2"
+
+#: languages/texts.php:242
+msgid "H1"
+msgstr "H1"
+
+#: languages/texts.php:241
+msgid "P"
+msgstr "P"
+
+#: languages/texts.php:240
+msgid "HTML Tag"
+msgstr "Thẻ HTML"
+
+#: languages/texts.php:239
+msgid "Gap Below"
+msgstr "Khoảng cách dưới"
+
+#: languages/texts.php:237
+msgid "Italic"
+msgstr "Nghiêng"
+
+#: languages/texts.php:236
+msgid "Bold"
+msgstr "Đậm"
+
+#: languages/texts.php:235
+msgid "List"
+msgstr "Danh sách"
+
+#: languages/texts.php:234
+msgid "Letter Spc."
+msgstr "Khoảng cách kí tự"
+
+#: languages/texts.php:233
+msgid "Line Hgt."
+msgstr "Chiều cao dòng"
+
+#: languages/texts.php:232
+msgid "Size"
+msgstr "Kích thước"
+
+#: languages/texts.php:231
+msgid "Font Family"
+msgstr "Font chữ"
+
+#: languages/texts.php:228
+msgid "Position"
+msgstr "Vị trí"
+
+#: languages/texts.php:227
+msgid "Align"
+msgstr "Căn chỉnh"
+
+#: languages/texts.php:224
+msgid "RollOut"
+msgstr "Lăn Ra"
+
+#: languages/texts.php:223
+msgid "RollIn"
+msgstr "Lăn Vào"
+
+#: languages/texts.php:222
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: languages/texts.php:221
+msgid "Hinge"
+msgstr "Bản lề"
+
+#: languages/texts.php:220
+msgid "ZoomOutUp"
+msgstr "PhóngNhỏLên"
+
+#: languages/texts.php:219
+msgid "ZoomOutRight"
+msgstr "PhóngNhỏPhải"
+
+#: languages/texts.php:218
+msgid "ZoomOutLeft"
+msgstr "PhóngNhỏTrái"
+
+#: languages/texts.php:217
+msgid "ZoomOutDown"
+msgstr "PhóngNhỏXuống"
+
+#: languages/texts.php:216
+msgid "ZoomOut"
+msgstr "PhóngNhỏ"
+
+#: languages/texts.php:215
+msgid "ZoomInUp"
+msgstr "PhóngLớnLên"
+
+#: languages/texts.php:214
+msgid "ZoomInRight"
+msgstr "PhóngLớnPhải"
+
+#: languages/texts.php:213
+msgid "ZoomInLeft"
+msgstr "PhóngLớnTrái"
+
+#: languages/texts.php:212
+msgid "ZoomInDown"
+msgstr "PhóngLớnXuống"
+
+#: languages/texts.php:211
+msgid "ZoomIn"
+msgstr "PhóngLớn"
+
+#: languages/texts.php:210
+msgid "SlideOutRight"
+msgstr "TrượtRaPhải"
+
+#: languages/texts.php:209
+msgid "SlideOutLeft"
+msgstr "TrượtRaTrái"
+
+#: languages/texts.php:208
+msgid "SlideOutDown"
+msgstr "TrượtRaXuống"
+
+#: languages/texts.php:207
+msgid "SlideOutUp"
+msgstr "TrượtRaLên"
+
+#: languages/texts.php:206
+msgid "SlideInRight"
+msgstr "TrượtVàoBênPhải"
+
+#: languages/texts.php:205
+msgid "SlideInLeft"
+msgstr "TrượtVàoBênTrái"
+
+#: languages/texts.php:204
+msgid "SlideInDown"
+msgstr "TrượtVàoTừDưới"
+
+#: languages/texts.php:203
+msgid "SlideInUp"
+msgstr "TrượtVàoTừTrên"
+
+#: languages/texts.php:202
+msgid "RotateOutUpRight"
+msgstr "XoayRaTrênPhải"
+
+#: languages/texts.php:201
+msgid "RotateOutUpLeft"
+msgstr "XoayRaTrênTrái"
+
+#: languages/texts.php:200
+msgid "RotateOutDownRight"
+msgstr "XoayRaDướiPhải"
+
+#: languages/texts.php:199
+msgid "RotateOutDownLeft"
+msgstr "XoayRa Dưới Trái"
+
+#: languages/texts.php:198
+msgid "RotateOut"
+msgstr "XoayRa"
+
+#: languages/texts.php:197
+msgid "RotateInUpRight"
+msgstr "XoayVàoTrênPhải"
+
+#: languages/texts.php:196
+msgid "RotateInUpLeft"
+msgstr "XoayVàoTrênTrái"
+
+#: languages/texts.php:195
+msgid "RotateInDownRight"
+msgstr "XoayVàoDướiPhải"
+
+#: languages/texts.php:194
+msgid "RotateInDownLeft"
+msgstr "XoayVàoDướiTrái"
+
+#: languages/texts.php:193
+msgid "RotateIn"
+msgstr "XoayVào"
+
+#: languages/texts.php:192
+msgid "LightSpeedIn"
+msgstr "PhiVào"
+
+#: languages/texts.php:191
+msgid "FlipOutY"
+msgstr "LậtRaĐứng"
+
+#: languages/texts.php:190
+msgid "FlipOutX"
+msgstr "LậtRaNgang"
+
+#: languages/texts.php:189
+msgid "FlipInY"
+msgstr "LậtVàoNgang"
+
+#: languages/texts.php:188
+msgid "FlipInX"
+msgstr "LậtVàoDọc"
+
+#: languages/texts.php:187
+msgid "Flip"
+msgstr "Lật"
+
+#: languages/texts.php:186
+msgid "FadeOutUpBig"
+msgstr "MờDầnLênLớn"
+
+#: languages/texts.php:185
+msgid "FadeOutUp"
+msgstr "MờDầnLên"
+
+#: languages/texts.php:184
+msgid "FadeOutRightBig"
+msgstr "MờDầnPhảiLớn"
+
+#: languages/texts.php:183
+msgid "FadeOutRight"
+msgstr "MờDầnPhải"
+
+#: languages/texts.php:182
+msgid "FadeOutLeftBig"
+msgstr "MờDầnTráiLớn"
+
+#: languages/texts.php:181
+msgid "FadeOutLeft"
+msgstr "MờDầnTrái"
+
+#: languages/texts.php:180
+msgid "FadeOutDownBig"
+msgstr "MờDầnXuốngLớn"
+
+#: languages/texts.php:179
+msgid "FadeOutDown"
+msgstr "MờDầnXuống"
+
+#: languages/texts.php:178
+msgid "FadeOut"
+msgstr "MờDần"
+
+#: languages/texts.php:177
+msgid "FadeInUpBig"
+msgstr "HiệnDầnLớn"
+
+#: languages/texts.php:176
+msgid "FadeInUp"
+msgstr "HiệnDầnTrên"
+
+#: languages/texts.php:175
+msgid "FadeInRightBig"
+msgstr "HiệnDầnPhảiLớn"
+
+#: languages/texts.php:174
+msgid "FadeInRight"
+msgstr "HiệnDầnPhải"
+
+#: languages/texts.php:173
+msgid "FadeInLeftBig"
+msgstr "HiệnDầnTráiLớn"
+
+#: languages/texts.php:172
+msgid "FadeInLeft"
+msgstr "HiệnDầnTrái"
+
+#: languages/texts.php:171
+msgid "FadeInDownBig"
+msgstr "HiệnDầnXuốngLớn"
+
+#: languages/texts.php:170
+msgid "FadeInDown"
+msgstr "HiệnDầnXuống"
+
+#: languages/texts.php:169
+msgid "FadeIn"
+msgstr "HiệnDần"
+
+#: languages/texts.php:168
+msgid "BounceOutUp"
+msgstr "NảyRaLên"
+
+#: languages/texts.php:167
+msgid "BounceOutRight"
+msgstr "NảyRaPhải"
+
+#: languages/texts.php:166
+msgid "BounceOutLeft"
+msgstr "NảyRaTrái"
+
+#: languages/texts.php:165
+msgid "BounceOutDown"
+msgstr "NảyRaXuống"
+
+#: languages/texts.php:164
+msgid "BounceOut"
+msgstr "NảyRa"
+
+#: languages/texts.php:163
+msgid "BounceInUp"
+msgstr "NảyVàoLên"
+
+#: languages/texts.php:162
+msgid "BounceInRight"
+msgstr "NảyVàoPhải"
+
+#: languages/texts.php:161
+msgid "BounceInLeft"
+msgstr "NảyVàoTrái"
+
+#: languages/texts.php:160
+msgid "BounceInDown"
+msgstr "NảyVàoXuống"
+
+#: languages/texts.php:159
+msgid "BounceIn"
+msgstr "NảyVào"
+
+#: languages/texts.php:158
+msgid "Jello"
+msgstr "ThạchDẻo"
+
+#: languages/texts.php:157
+msgid "Wobble"
+msgstr "ĐuĐưa"
+
+#: languages/texts.php:156
+msgid "Tada"
+msgstr "Tada"
+
+#: languages/texts.php:155
+msgid "Swing"
+msgstr "LộnVòng"
+
+#: languages/texts.php:154
+msgid "Shake"
+msgstr "Lắc"
+
+#: languages/texts.php:152
+msgid "Pulse"
+msgstr "XungNhịp"
+
+#: languages/texts.php:151
+msgid "Flash"
+msgstr "Nhấp nháy"
+
+#: languages/texts.php:150
+msgid "Bounce"
+msgstr "Nảy lên"
+
+#: languages/texts.php:149
+msgid "Delay"
+msgstr "Độ trễ"
+
+#: languages/texts.php:148
+msgid "Duration"
+msgstr "Thời gian"
+
+#: languages/texts.php:147
+msgid "Animation"
+msgstr "Hiệu ứng"
+
+#: languages/texts.php:145
+msgid "Delete"
+msgstr "Xóa"
+
+#: languages/texts.php:144
+msgid "Duplicate"
+msgstr "Nhân đôi"
+
+#: languages/texts.php:139
+msgid "Overlay"
+msgstr "Lớp phủ"
+
+#: languages/texts.php:138
+msgid "Colors"
+msgstr "Màu sắc"
+
+#: languages/texts.php:136
+msgid "Zoom"
+msgstr "Độ phóng đại"
+
+#: languages/texts.php:135
+msgid "Enter address"
+msgstr "Nhập địa chỉ"
+
+#: languages/texts.php:134
+msgid "Address"
+msgstr "Địa chỉ"
+
+#: languages/texts.php:132
+msgid "Loop"
+msgstr "Lặp lại"
+
+#: languages/texts.php:131
+msgid "720p"
+msgstr "720p"
+
+#: languages/texts.php:130
+msgid "1080p"
+msgstr "1080p"
+
+#: languages/texts.php:129
+msgid "Quality"
+msgstr "Chất lượng"
+
+#: languages/texts.php:128
+msgid "YouTube or Vimeo"
+msgstr "YouTube hoặc Vimeo"
+
+#: languages/texts.php:127
+msgid "URL"
+msgstr "URL"
+
+#: languages/texts.php:125
+msgid "Animated"
+msgstr "Chuyển động"
+
+#: languages/texts.php:124
+msgid "Fixed"
+msgstr "Cố định"
+
+#: languages/texts.php:123
+msgid "Parallax"
+msgstr "Parallax"
+
+#: languages/texts.php:121
+msgid "Bg Size"
+msgstr "Cỡ lớn"
+
+#: languages/texts.php:120
+msgid "Background"
+msgstr "Nền"
+
+#: languages/texts.php:118
+msgid "Add new column"
+msgstr "Thêm cột mới"
+
+#: languages/texts.php:115
+msgid "component"
+msgstr "thành phần"
+
+#: languages/texts.php:114
+msgid "Could not find"
+msgstr "Không thể tìm thấy"
+
+#: languages/texts.php:113
+msgid "Missing Element"
+msgstr "Phần tử bị thiếu"
+
+#: languages/texts.php:109
+msgid "Custom"
+msgstr "Tùy biến"
+
+#: languages/texts.php:108
+msgid "Auto"
+msgstr "Tự động"
+
+#: languages/texts.php:106
+msgid "Height"
+msgstr "Chiều cao"
+
+#: languages/texts.php:104
+msgid "Full Height"
+msgstr "Toàn chiều cao"
+
+#: languages/texts.php:102
+msgid "Outline"
+msgstr "Hình rỗng"
+
+#: languages/texts.php:101
+msgid "Round"
+msgstr "Tròn"
+
+#: languages/texts.php:100
+msgid "Tail"
+msgstr "Tail"
+
+#: languages/texts.php:99
+msgid "Heavy"
+msgstr "Đậm"
+
+#: languages/texts.php:98
+msgid "Thin"
+msgstr "Mảnh"
+
+#: languages/texts.php:97
+msgid "Arrows"
+msgstr "Mũi tên"
+
+#: languages/texts.php:96
+msgid "Square"
+msgstr "Hình vuông"
+
+#: languages/texts.php:95
+msgid "Diamond"
+msgstr "Hình kim cương"
+
+#: languages/texts.php:94
+msgid "Circle"
+msgstr "Hình tròn"
+
+#: languages/texts.php:93
+msgid "None"
+msgstr "Không"
+
+#: languages/texts.php:92
+msgid "Dots"
+msgstr "Dấu chấm"
+
+#: languages/texts.php:91
+msgid "Navigation"
+msgstr "Điều hướng"
+
+#: languages/texts.php:90
+msgid "Speed"
+msgstr "Tốc độ"
+
+#: languages/texts.php:89
+msgid "Auto Play"
+msgstr "Tự động chạy"
+
+#: languages/texts.php:88
+msgid "Make it a Slider"
+msgstr "Chuyển qua dạng Slider"
+
+#: languages/texts.php:86
+msgid "Slider"
+msgstr "Slider"
+
+#: languages/texts.php:83
+msgid "CSS Class"
+msgstr "Lớp CSS"
+
+#: languages/texts.php:82
+msgid "Z-index"
+msgstr "Z-index"
+
+#: languages/texts.php:81
+msgid "Enable on Mobile"
+msgstr "Hiển thị trên di động"
+
+#: languages/texts.php:80
+msgid "Disable on Mobile"
+msgstr "Ẩn trên di động"
+
+#: languages/texts.php:79
+msgid "Show on Desktop"
+msgstr "Hiển thị trên máy tính"
+
+#: languages/texts.php:78
+msgid "Advanced"
+msgstr "Nâng cao"
+
+#: languages/texts.php:76
+msgid "More Settings"
+msgstr "Cài đặt khác"
+
+#: languages/texts.php:73
+msgid "Publish"
+msgstr "Đăng"
+
+#: languages/texts.php:72
+msgid "Update"
+msgstr "Cập nhật"
+
+#: languages/texts.php:71
+msgid "Save HTML"
+msgstr "Lưu HTML"
+
+#: languages/texts.php:68
+msgid "Back to WordPress"
+msgstr "Quay về WordPress"
+
+#: languages/texts.php:67
+msgid "Plugin Settings"
+msgstr "Cài đặt của Plugin"
+
+#: languages/texts.php:66
+msgid "Back to Brizy"
+msgstr "Quay lại Brizy"
+
+#: languages/texts.php:65
+msgid "About Brizy"
+msgstr "Giới thiệu Brizy"
+
+#: languages/texts.php:64
+msgid "More"
+msgstr "Thêm"
+
+#: languages/texts.php:62
+msgid "Mobile"
+msgstr "Di động"
+
+#: languages/texts.php:61
+msgid "Desktop"
+msgstr "Máy tính"
+
+#: languages/texts.php:60
+msgid "Mobile view"
+msgstr "Khung nhìn cho Di động"
+
+#: languages/texts.php:58
+msgid "New Style #%s"
+msgstr "Kiểu mới #%s"
+
+#: languages/texts.php:57
+msgid "Add New"
+msgstr "Thêm"
+
+#: languages/texts.php:56
+msgid "Add new option"
+msgstr "Thêm tùy chọn mới"
+
+#: languages/texts.php:55
+msgid "Type font name"
+msgstr "Gõ tên font"
+
+#: languages/texts.php:54
+msgid "Add New Google Font"
+msgstr "Thêm Google Font mới"
+
+#: languages/texts.php:53 languages/texts.php:77
+msgid "Styling"
+msgstr "Hình thức"
+
+#: languages/texts.php:51
+msgid "Drag to reorder"
+msgstr "Kéo thả để sắp xếp lại"
+
+#: languages/texts.php:50
+msgid "Reorder Blocks"
+msgstr "Sắp xếp các khối"
+
+#: languages/texts.php:47
+msgid "Posts"
+msgstr "Bài viết"
+
+#: languages/texts.php:46
+msgid "Menu"
+msgstr "Menu"
+
+#: languages/texts.php:45
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: languages/texts.php:44
+msgid "Products"
+msgstr "Sản phẩm"
+
+#: languages/texts.php:43
+msgid "Product"
+msgstr "Sản phẩm"
+
+#: languages/texts.php:42
+msgid "Pages"
+msgstr "Trang"
+
+#: languages/texts.php:41
+msgid "Categories"
+msgstr "Danh mục"
+
+#: languages/texts.php:40
+msgid "Add to cart"
+msgstr "Thêm vào giỏ"
+
+#: languages/texts.php:39
+msgid "Column"
+msgstr "Cột"
+
+#: languages/texts.php:38
+msgid "Row"
+msgstr "Hàng"
+
+#: languages/texts.php:36
+msgid "Progress"
+msgstr "Tiến trình"
+
+#: languages/texts.php:35
+msgid "Tabs"
+msgstr "Thẻ (tab)"
+
+#: languages/texts.php:32
+msgid "SndCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:31
+msgid "Icon Box"
+msgstr "Hộp Icon"
+
+#: languages/texts.php:30
+msgid "Form"
+msgstr "Liên hệ"
+
+#: languages/texts.php:29
+msgid "Embed"
+msgstr "Nhúng"
+
+#: languages/texts.php:28 languages/texts.php:133
+msgid "Map"
+msgstr "Bản đồ"
+
+#: languages/texts.php:26
+msgid "Spacer"
+msgstr "Khoảng cách"
+
+#: languages/texts.php:25 languages/texts.php:126
+msgid "Video"
+msgstr "Video"
+
+#: languages/texts.php:24 languages/texts.php:122
+msgid "Image"
+msgstr "Hình ảnh"
+
+#: languages/texts.php:23
+msgid "Icon"
+msgstr "Biểu tượng"
+
+#: languages/texts.php:22
+msgid "Button"
+msgstr "Nút nhấn"
+
+#: languages/texts.php:21 languages/texts.php:328
+msgid "Text"
+msgstr "Văn bản"
+
+#: languages/texts.php:20
+msgid "Add Elements"
+msgstr "Thêm phần tử"
+
+#: languages/texts.php:16
+msgid "Press the button to add blocks"
+msgstr "Bấm vào nút này để thêm các khối"
+
+#: languages/texts.php:15
+msgid "Add a new block"
+msgstr "Thêm một khối mới"
+
+#: languages/texts.php:12
+msgid "Switch to desktop to add blocks"
+msgstr "Quay về giao diện máy tính để thêm khối"
+
+#: languages/texts.php:11
+msgid "SWITCH TO DESKTOP"
+msgstr "QUAY VỀ MÁY TÍNH"
+
+#: languages/texts.php:10
+msgid "Press the button above to add blocks"
+msgstr "Nhấn nút trên để thêm khối"
+
+#: languages/texts.php:9
+msgid "START BUILDING YOUR PAGE"
+msgstr "BẮT ĐẦU XÂY DỰNG TRANG CỦA BẠN."
+
+#: languages/texts.php:320
+msgid "Message not sent"
+msgstr "Thông điệp chưa được gửi đi"
+
+#: languages/texts.php:338
+msgid "Bar"
+msgstr "Thanh"
+
+#: languages/texts.php:399
+msgid "Meta Key"
+msgstr "Tên Meta"
+
+#: languages/texts.php:400
+msgid "Meta Value"
+msgstr "Giá trị Meta"
+
+#: languages/texts.php:238
+msgid "Gap Above"
+msgstr "Khoảng cách trên"
+
+#: languages/texts.php:153
+msgid "RubberBand"
+msgstr "BăngCaoSu"
+
+#: languages/texts.php:37
+msgid "Accordion"
+msgstr "Khối co gọn"
+
+#: languages/texts.php:33
+msgid "Counter"
+msgstr "Bộ đếm"
+
+#: languages/texts.php:34
+msgid "Countdown"
+msgstr "Đếm ngược"
+
+#: languages/texts.php:48
+msgid "Sidebar"
+msgstr "Cột bên"
+
+#: languages/texts.php:110
+msgid "Full"
+msgstr "Tràn 2 bên"
+
+#: languages/texts.php:105
+msgid "Width"
+msgstr "Bề rộng"
+
+#: languages/texts.php:140 languages/texts.php:259
+msgid "Border"
+msgstr "Đường viền"
+
+#: languages/texts.php:107
+msgid "Boxed"
+msgstr "Đóng khung"
+
+#: languages/texts.php:383
+msgid "Weight"
+msgstr "Độ đậm nhạt"
+
+#: languages/texts.php:230
+msgid "Typography"
+msgstr "Kiểu chữ"
+
+#: languages/texts.php:226
+msgid "Content"
+msgstr "Vị trí nội dung"
+
+#: languages/texts.php:27
+msgid "Line"
+msgstr "Đường phân cách"
+
+#. Author of the plugin/theme
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin/theme
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Một trình xây dựng trang dạng kéo-thả miễn phí giúp bạn tạo các trang cho website WordPress một cách nhanh chóng. Thật dễ dàng với Brizy. "
+
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin/theme
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/views/error.php:10
+msgid "Go back"
+msgstr "Quay về"
+
+#: public/main.php:95
+msgid "View"
+msgstr "Xem"
+
+#: public/main.php:84
+msgid "Preview"
+msgstr "Xem trước"
+
+#: admin/views/settings/view.php:16
+msgid "Post Types"
+msgstr "Kiểu nội dung"
+
+#: public/hooks.php:34
+msgid "Brizy Template"
+msgstr "Trang mẫu Brizy"
+
+#: editor/post.php:400
+msgid "Default"
+msgstr "Mặc định"
+
+#: admin/views/settings/view.php:64
+msgid "Save Changes"
+msgstr "Lưu thay đổi"
+
+#: admin/views/settings/view.php:34
+msgid "Exclude for roles"
+msgstr "Loại bỏ những vai trò sau"
+
+#: admin/main.php:448
+msgid "Auto Draft"
+msgstr "Tự động lưu nháp"
+
+#: admin/main.php:352
+msgid "Edit with Brizy"
+msgstr "Chỉnh sửa với Brizy"
+
+#: admin/main.php:156 languages/texts.php:142
+msgid "Settings"
+msgstr "Cài đặt"
+
+#: admin/views/button.php:45 admin/views/editor.php:21
+msgid "Continue to edit with"
+msgstr "Tiếp tục chỉnh sửa với"

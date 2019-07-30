@@ -1,0 +1,1491 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Korean
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-09 01:29:28+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: ko_KR\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: languages/texts.php:412
+msgid "An error happened while trying to display this block"
+msgstr "이 블록을 표시하는 중 에러 발생"
+
+#: languages/texts.php:413
+msgid "You can"
+msgstr "다음이 가능합니다"
+
+#: languages/texts.php:414
+msgid "open an issue"
+msgstr "문제 보고"
+
+#: languages/texts.php:415
+msgid "or"
+msgstr "또는"
+
+#: languages/texts.php:416
+msgid "remove this block"
+msgstr "이 블록 제거"
+
+#: languages/texts.php:318
+msgid "Error"
+msgstr "오류"
+
+#: languages/texts.php:319
+msgid "Message sent"
+msgstr "메시지가 발송됐습니다"
+
+#: languages/texts.php:404
+msgid "Filter By"
+msgstr "필터"
+
+#: languages/texts.php:405
+msgid "Block"
+msgstr "블록"
+
+#: languages/texts.php:406
+msgid "Make it Global"
+msgstr "글로벌로 만들기"
+
+#: languages/texts.php:407
+msgid "Save"
+msgstr "저장하기"
+
+#: languages/texts.php:408
+msgid "Saved"
+msgstr "저장함"
+
+#: languages/texts.php:409
+msgid "Global"
+msgstr "글로벌"
+
+#: languages/texts.php:410
+msgid "All Categories"
+msgstr "모든 카테고리"
+
+#: languages/texts.php:411
+msgid "Enter Search Keyword"
+msgstr "검색 키워드 입력"
+
+#: languages/texts.php:9
+msgid "START BUILDING YOUR PAGE"
+msgstr "자신의 페이지를 만들기 시작하세요"
+
+#: languages/texts.php:10
+msgid "Press the button above to add blocks"
+msgstr "위 버튼을 눌러 블록 추가하기"
+
+#: languages/texts.php:11
+msgid "SWITCH TO DESKTOP"
+msgstr "데스크탑으로 전환"
+
+#: languages/texts.php:12
+msgid "Switch to desktop to add blocks"
+msgstr "데스크탑으로 전환해 블록 추가하기"
+
+#: languages/texts.php:15
+msgid "Add a new block"
+msgstr "새 블록 추가"
+
+#: languages/texts.php:16
+msgid "Press the button to add blocks"
+msgstr "버튼을 눌러 블록 추가하기"
+
+#: languages/texts.php:20
+msgid "Add Elements"
+msgstr "요소 추가"
+
+#: languages/texts.php:21 languages/texts.php:328
+msgid "Text"
+msgstr "텍스트"
+
+#: languages/texts.php:22
+msgid "Button"
+msgstr "버튼"
+
+#: languages/texts.php:23
+msgid "Icon"
+msgstr "아이콘"
+
+#: languages/texts.php:24 languages/texts.php:122
+msgid "Image"
+msgstr "이미지"
+
+#: languages/texts.php:25 languages/texts.php:126
+msgid "Video"
+msgstr "비디오"
+
+#: languages/texts.php:26
+msgid "Spacer"
+msgstr "여백 설정"
+
+#: languages/texts.php:27
+msgid "Line"
+msgstr "선"
+
+#: languages/texts.php:28 languages/texts.php:133
+msgid "Map"
+msgstr "지도"
+
+#: languages/texts.php:29
+msgid "Embed"
+msgstr "임베드"
+
+#: languages/texts.php:30
+msgid "Form"
+msgstr "폼"
+
+#: languages/texts.php:31
+msgid "Icon Box"
+msgstr "아이콘 박스"
+
+#: languages/texts.php:32
+msgid "SndCloud"
+msgstr "사운드 클라우드"
+
+#: languages/texts.php:33
+msgid "Counter"
+msgstr "카운터"
+
+#: languages/texts.php:34
+msgid "Countdown"
+msgstr "카운트다운"
+
+#: languages/texts.php:35
+msgid "Tabs"
+msgstr "탭"
+
+#: languages/texts.php:36
+msgid "Progress"
+msgstr "프로그레스"
+
+#: languages/texts.php:37
+msgid "Accordion"
+msgstr "어코디언"
+
+#: languages/texts.php:38
+msgid "Row"
+msgstr "행"
+
+#: languages/texts.php:39
+msgid "Column"
+msgstr "열"
+
+#: languages/texts.php:40
+msgid "Add to cart"
+msgstr "장바구니"
+
+#: languages/texts.php:41
+msgid "Categories"
+msgstr "카테고리"
+
+#: languages/texts.php:42
+msgid "Pages"
+msgstr "페이지"
+
+#: languages/texts.php:43
+msgid "Product"
+msgstr "상품"
+
+#: languages/texts.php:44
+msgid "Products"
+msgstr "상품"
+
+#: languages/texts.php:45
+msgid "Shortcode"
+msgstr "숏코드"
+
+#: languages/texts.php:46
+msgid "Menu"
+msgstr "메뉴"
+
+#: languages/texts.php:47
+msgid "Posts"
+msgstr "글"
+
+#: languages/texts.php:48
+msgid "Sidebar"
+msgstr "사이드바"
+
+#: languages/texts.php:50
+msgid "Reorder Blocks"
+msgstr "블록 재정렬"
+
+#: languages/texts.php:51
+msgid "Drag to reorder"
+msgstr "재정렬하려면 드래그하세요"
+
+#: languages/texts.php:53 languages/texts.php:77
+msgid "Styling"
+msgstr "스타일링"
+
+#: languages/texts.php:54
+msgid "Add New Google Font"
+msgstr "새 구글 폰트 추가"
+
+#: languages/texts.php:55
+msgid "Type font name"
+msgstr "폰트 이름 입력"
+
+#: languages/texts.php:56
+msgid "Add new option"
+msgstr "새 옵션 추가"
+
+#: languages/texts.php:57
+msgid "Add New"
+msgstr "새로추가"
+
+#: languages/texts.php:58
+msgid "New Style #%s"
+msgstr "새 스타일 #%s"
+
+#: languages/texts.php:60
+msgid "Mobile view"
+msgstr "모바일 보기"
+
+#: languages/texts.php:61
+msgid "Desktop"
+msgstr "데스크탑"
+
+#: languages/texts.php:62
+msgid "Mobile"
+msgstr "모바일"
+
+#: languages/texts.php:64
+msgid "More"
+msgstr "더보기"
+
+#: languages/texts.php:65
+msgid "About Brizy"
+msgstr "브리지 소개"
+
+#: languages/texts.php:66
+msgid "Back to Brizy"
+msgstr "브리지로 돌아가기"
+
+#: languages/texts.php:67
+msgid "Plugin Settings"
+msgstr "플러그인 설정"
+
+#: languages/texts.php:68
+msgid "Back to WordPress"
+msgstr "워드프레스로 돌아가기"
+
+#: languages/texts.php:71
+msgid "Save HTML"
+msgstr "HTML 저장하기"
+
+#: languages/texts.php:72
+msgid "Update"
+msgstr "업데이트"
+
+#: languages/texts.php:73
+msgid "Publish"
+msgstr "공개"
+
+#: languages/texts.php:76
+msgid "More Settings"
+msgstr "더 많은 설정"
+
+#: languages/texts.php:78
+msgid "Advanced"
+msgstr "고급 설정"
+
+#: languages/texts.php:79
+msgid "Show on Desktop"
+msgstr "데스크탑에서 보이기"
+
+#: languages/texts.php:80
+msgid "Disable on Mobile"
+msgstr "모바일에서 비활성화"
+
+#: languages/texts.php:81
+msgid "Enable on Mobile"
+msgstr "모바일에서 활성화"
+
+#: languages/texts.php:82
+msgid "Z-index"
+msgstr "Z-index"
+
+#: languages/texts.php:83
+msgid "CSS Class"
+msgstr "CSS 클래스"
+
+#: languages/texts.php:86
+msgid "Slider"
+msgstr "슬라이더"
+
+#: languages/texts.php:88
+msgid "Make it a Slider"
+msgstr "슬라이더로 만들기"
+
+#: languages/texts.php:89
+msgid "Auto Play"
+msgstr "자동 재생"
+
+#: languages/texts.php:90
+msgid "Speed"
+msgstr "속도"
+
+#: languages/texts.php:91
+msgid "Navigation"
+msgstr "내비게이션"
+
+#: languages/texts.php:92
+msgid "Dots"
+msgstr "점"
+
+#: languages/texts.php:93
+msgid "None"
+msgstr "아니오"
+
+#: languages/texts.php:94
+msgid "Circle"
+msgstr "원형"
+
+#: languages/texts.php:95
+msgid "Diamond"
+msgstr "Diamond"
+
+#: languages/texts.php:96
+msgid "Square"
+msgstr "정사각형"
+
+#: languages/texts.php:97
+msgid "Arrows"
+msgstr "화살표"
+
+#: languages/texts.php:98
+msgid "Thin"
+msgstr "가장 얆게"
+
+#: languages/texts.php:99
+msgid "Heavy"
+msgstr "무거움"
+
+#: languages/texts.php:100
+msgid "Tail"
+msgstr "꼬리"
+
+#: languages/texts.php:101
+msgid "Round"
+msgstr "둥글게"
+
+#: languages/texts.php:102
+msgid "Outline"
+msgstr "아웃라인"
+
+#: languages/texts.php:104
+msgid "Full Height"
+msgstr "전체 높이"
+
+#: languages/texts.php:105
+msgid "Width"
+msgstr "넓이"
+
+#: languages/texts.php:106
+msgid "Height"
+msgstr "높이"
+
+#: languages/texts.php:107
+msgid "Boxed"
+msgstr "박스형"
+
+#: languages/texts.php:108
+msgid "Auto"
+msgstr "자동"
+
+#: languages/texts.php:109
+msgid "Custom"
+msgstr "사용자 정의"
+
+#: languages/texts.php:110
+msgid "Full"
+msgstr "전체 크기"
+
+#: languages/texts.php:113
+msgid "Missing Element"
+msgstr "요소가 없음"
+
+#: languages/texts.php:114
+msgid "Could not find"
+msgstr "찾을 수 없습니다"
+
+#: languages/texts.php:115
+msgid "component"
+msgstr "구성 요소"
+
+#: languages/texts.php:118
+msgid "Add new column"
+msgstr "새 열 추가하기"
+
+#: languages/texts.php:120
+msgid "Background"
+msgstr "배경"
+
+#: languages/texts.php:121
+msgid "Bg Size"
+msgstr "큰 사이즈"
+
+#: languages/texts.php:123
+msgid "Parallax"
+msgstr "패럴랙스"
+
+#: languages/texts.php:124
+msgid "Fixed"
+msgstr "고정"
+
+#: languages/texts.php:125
+msgid "Animated"
+msgstr "애니메이션"
+
+#: languages/texts.php:127
+msgid "URL"
+msgstr "URL"
+
+#: languages/texts.php:128
+msgid "YouTube or Vimeo"
+msgstr "유튜브나 비미오"
+
+#: languages/texts.php:129
+msgid "Quality"
+msgstr "품질"
+
+#: languages/texts.php:130
+msgid "1080p"
+msgstr "1080p"
+
+#: languages/texts.php:131
+msgid "720p"
+msgstr "720p"
+
+#: languages/texts.php:132
+msgid "Loop"
+msgstr "연속재생"
+
+#: languages/texts.php:134
+msgid "Address"
+msgstr "주소"
+
+#: languages/texts.php:135
+msgid "Enter address"
+msgstr "주소 입력"
+
+#: languages/texts.php:136
+msgid "Zoom"
+msgstr "줌"
+
+#: languages/texts.php:138
+msgid "Colors"
+msgstr "색상"
+
+#: languages/texts.php:139
+msgid "Overlay"
+msgstr "오버레이"
+
+#: languages/texts.php:140 languages/texts.php:259
+msgid "Border"
+msgstr "테두리"
+
+#: languages/texts.php:144
+msgid "Duplicate"
+msgstr "복제"
+
+#: languages/texts.php:145
+msgid "Delete"
+msgstr "제거하기"
+
+#: languages/texts.php:147
+msgid "Animation"
+msgstr "애니메이션"
+
+#: languages/texts.php:148
+msgid "Duration"
+msgstr "기간"
+
+#: languages/texts.php:149
+msgid "Delay"
+msgstr "지연"
+
+#: languages/texts.php:150
+msgid "Bounce"
+msgstr "Bounce"
+
+#: languages/texts.php:151
+msgid "Flash"
+msgstr "Flash"
+
+#: languages/texts.php:152
+msgid "Pulse"
+msgstr "펄스"
+
+#: languages/texts.php:153
+msgid "RubberBand"
+msgstr "고무 밴드"
+
+#: languages/texts.php:154
+msgid "Shake"
+msgstr "뱀"
+
+#: languages/texts.php:155
+msgid "Swing"
+msgstr "스윙"
+
+#: languages/texts.php:156
+msgid "Tada"
+msgstr "Tada"
+
+#: languages/texts.php:157
+msgid "Wobble"
+msgstr "Wobble"
+
+#: languages/texts.php:158
+msgid "Jello"
+msgstr "Jello"
+
+#: languages/texts.php:159
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: languages/texts.php:160
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: languages/texts.php:161
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: languages/texts.php:162
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: languages/texts.php:163
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: languages/texts.php:164
+msgid "BounceOut"
+msgstr "BounceOut"
+
+#: languages/texts.php:165
+msgid "BounceOutDown"
+msgstr "BounceOutDown"
+
+#: languages/texts.php:166
+msgid "BounceOutLeft"
+msgstr "BounceOutLeft"
+
+#: languages/texts.php:167
+msgid "BounceOutRight"
+msgstr "BounceOutRight"
+
+#: languages/texts.php:168
+msgid "BounceOutUp"
+msgstr "BounceOutUp"
+
+#: languages/texts.php:169
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: languages/texts.php:170
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: languages/texts.php:171
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: languages/texts.php:172
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: languages/texts.php:173
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: languages/texts.php:174
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: languages/texts.php:175
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: languages/texts.php:176
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: languages/texts.php:177
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: languages/texts.php:178
+msgid "FadeOut"
+msgstr "FadeOut"
+
+#: languages/texts.php:179
+msgid "FadeOutDown"
+msgstr "FadeOutDown"
+
+#: languages/texts.php:180
+msgid "FadeOutDownBig"
+msgstr "FadeOutDownBig"
+
+#: languages/texts.php:181
+msgid "FadeOutLeft"
+msgstr "FadeOutLeft"
+
+#: languages/texts.php:182
+msgid "FadeOutLeftBig"
+msgstr "FadeOutLeftBig"
+
+#: languages/texts.php:183
+msgid "FadeOutRight"
+msgstr "FadeOutRight"
+
+#: languages/texts.php:184
+msgid "FadeOutRightBig"
+msgstr "FadeOutRightBig"
+
+#: languages/texts.php:185
+msgid "FadeOutUp"
+msgstr "FadeOutUp"
+
+#: languages/texts.php:186
+msgid "FadeOutUpBig"
+msgstr "FadeOutUpBig"
+
+#: languages/texts.php:187
+msgid "Flip"
+msgstr "플립"
+
+#: languages/texts.php:188
+msgid "FlipInX"
+msgstr "FlipInX"
+
+#: languages/texts.php:189
+msgid "FlipInY"
+msgstr "FlipInY"
+
+#: languages/texts.php:190
+msgid "FlipOutX"
+msgstr "FlipOutX"
+
+#: languages/texts.php:191
+msgid "FlipOutY"
+msgstr "FlipOutY"
+
+#: languages/texts.php:192
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: languages/texts.php:193
+msgid "RotateIn"
+msgstr "RotateIn"
+
+#: languages/texts.php:194
+msgid "RotateInDownLeft"
+msgstr "RotateInDownLeft"
+
+#: languages/texts.php:195
+msgid "RotateInDownRight"
+msgstr "RotateInDownRight"
+
+#: languages/texts.php:196
+msgid "RotateInUpLeft"
+msgstr "RotateInUpLeft"
+
+#: languages/texts.php:197
+msgid "RotateInUpRight"
+msgstr "RotateInUpRight"
+
+#: languages/texts.php:198
+msgid "RotateOut"
+msgstr "RotateOut"
+
+#: languages/texts.php:199
+msgid "RotateOutDownLeft"
+msgstr "RotateOutDownLeft"
+
+#: languages/texts.php:200
+msgid "RotateOutDownRight"
+msgstr "RotateOutDownRight"
+
+#: languages/texts.php:201
+msgid "RotateOutUpLeft"
+msgstr "RotateOutUpLeft"
+
+#: languages/texts.php:202
+msgid "RotateOutUpRight"
+msgstr "RotateOutUpRight"
+
+#: languages/texts.php:203
+msgid "SlideInUp"
+msgstr "SlideInUp"
+
+#: languages/texts.php:204
+msgid "SlideInDown"
+msgstr "SlideInDown"
+
+#: languages/texts.php:205
+msgid "SlideInLeft"
+msgstr "SlideInLeft"
+
+#: languages/texts.php:206
+msgid "SlideInRight"
+msgstr "SlideInRight"
+
+#: languages/texts.php:207
+msgid "SlideOutUp"
+msgstr "SlideOutUp"
+
+#: languages/texts.php:208
+msgid "SlideOutDown"
+msgstr "SlideOutDown"
+
+#: languages/texts.php:209
+msgid "SlideOutLeft"
+msgstr "SlideOutLeft"
+
+#: languages/texts.php:210
+msgid "SlideOutRight"
+msgstr "SlideOutRight"
+
+#: languages/texts.php:211
+msgid "ZoomIn"
+msgstr "ZoomIn"
+
+#: languages/texts.php:212
+msgid "ZoomInDown"
+msgstr "ZoomInDown"
+
+#: languages/texts.php:213
+msgid "ZoomInLeft"
+msgstr "ZoomInLeft"
+
+#: languages/texts.php:214
+msgid "ZoomInRight"
+msgstr "ZoomInRight"
+
+#: languages/texts.php:215
+msgid "ZoomInUp"
+msgstr "ZoomInUp"
+
+#: languages/texts.php:216
+msgid "ZoomOut"
+msgstr "ZoomOut"
+
+#: languages/texts.php:217
+msgid "ZoomOutDown"
+msgstr "ZoomOutDown"
+
+#: languages/texts.php:218
+msgid "ZoomOutLeft"
+msgstr "ZoomOutLeft"
+
+#: languages/texts.php:219
+msgid "ZoomOutRight"
+msgstr "ZoomOutRight"
+
+#: languages/texts.php:220
+msgid "ZoomOutUp"
+msgstr "ZoomOutUp"
+
+#: languages/texts.php:221
+msgid "Hinge"
+msgstr "Hinge"
+
+#: languages/texts.php:222
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: languages/texts.php:223
+msgid "RollIn"
+msgstr "RollIn"
+
+#: languages/texts.php:224
+msgid "RollOut"
+msgstr "RollOut"
+
+#: languages/texts.php:226
+msgid "Content"
+msgstr "콘텐츠"
+
+#: languages/texts.php:227
+msgid "Align"
+msgstr "정렬"
+
+#: languages/texts.php:228
+msgid "Position"
+msgstr "위치"
+
+#: languages/texts.php:230
+msgid "Typography"
+msgstr "글자"
+
+#: languages/texts.php:231
+msgid "Font Family"
+msgstr "글꼴 패밀리"
+
+#: languages/texts.php:232
+msgid "Size"
+msgstr "사이즈"
+
+#: languages/texts.php:233
+msgid "Line Hgt."
+msgstr "줄 간격"
+
+#: languages/texts.php:234
+msgid "Letter Spc."
+msgstr "글자 스페이싱"
+
+#: languages/texts.php:235
+msgid "List"
+msgstr "목록"
+
+#: languages/texts.php:236
+msgid "Bold"
+msgstr "굵게"
+
+#: languages/texts.php:237
+msgid "Italic"
+msgstr "기울임"
+
+#: languages/texts.php:238
+msgid "Gap Above"
+msgstr "상단 갭"
+
+#: languages/texts.php:239
+msgid "Gap Below"
+msgstr "하단 갭"
+
+#: languages/texts.php:240
+msgid "HTML Tag"
+msgstr "HTML 태그"
+
+#: languages/texts.php:241
+msgid "P"
+msgstr "P"
+
+#: languages/texts.php:242
+msgid "H1"
+msgstr "H1"
+
+#: languages/texts.php:243
+msgid "H2"
+msgstr "H2"
+
+#: languages/texts.php:244
+msgid "H3"
+msgstr "H3"
+
+#: languages/texts.php:245
+msgid "H4"
+msgstr "H4"
+
+#: languages/texts.php:246
+msgid "H5"
+msgstr "H5"
+
+#: languages/texts.php:247
+msgid "H6"
+msgstr "H6"
+
+#: languages/texts.php:248
+msgid "PRE"
+msgstr "PRE"
+
+#: languages/texts.php:249
+msgid "Editable Text"
+msgstr "편집가능 텍스트"
+
+#: languages/texts.php:251
+msgid "Link"
+msgstr "링크"
+
+#: languages/texts.php:252
+msgid "Anchor"
+msgstr "앵커"
+
+#: languages/texts.php:253
+msgid "Link to"
+msgstr "링크"
+
+#: languages/texts.php:254 languages/texts.php:255
+msgid "Open In New Tab"
+msgstr "새 탭에서 열기"
+
+#: languages/texts.php:258
+msgid "Padding"
+msgstr "패딩"
+
+#: languages/texts.php:260
+msgid "Margin"
+msgstr "마진"
+
+#: languages/texts.php:261
+msgid "Corner"
+msgstr "모서리"
+
+#: languages/texts.php:262
+msgid "Fill"
+msgstr "채우기"
+
+#: languages/texts.php:263
+msgid "Spacing"
+msgstr "스페이싱"
+
+#: languages/texts.php:266
+msgid "Normal"
+msgstr "기본"
+
+#: languages/texts.php:267
+msgid "Hover"
+msgstr "마우스 오버"
+
+#: languages/texts.php:271
+msgid "Date"
+msgstr "날짜"
+
+#: languages/texts.php:272
+msgid "Hour"
+msgstr "시"
+
+#: languages/texts.php:273
+msgid "Minutes"
+msgstr "분"
+
+#: languages/texts.php:274
+msgid "Time Zone"
+msgstr "시간대"
+
+#: languages/texts.php:275
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: languages/texts.php:276
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: languages/texts.php:277
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: languages/texts.php:278
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: languages/texts.php:279
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: languages/texts.php:280
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: languages/texts.php:281
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: languages/texts.php:282
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: languages/texts.php:283
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: languages/texts.php:284
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: languages/texts.php:285
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Cape Verde)"
+
+#: languages/texts.php:286
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: languages/texts.php:287
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: languages/texts.php:288
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Athens, Istanbul)"
+
+#: languages/texts.php:289
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moscow, Baghdad)"
+
+#: languages/texts.php:290
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: languages/texts.php:291
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg)"
+
+#: languages/texts.php:292
+msgid "+ 6:00 (Astana)"
+msgstr "+ 6:00 (Astana)"
+
+#: languages/texts.php:293
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: languages/texts.php:294
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapore, Beijing)"
+
+#: languages/texts.php:295
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: languages/texts.php:296
+msgid "+ 10:00 (Sidney, Melbourne)"
+msgstr "+ 10:00 (Sidney, Melbourne)"
+
+#: languages/texts.php:297
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: languages/texts.php:298
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: languages/texts.php:299
+msgid "Language"
+msgstr "언어"
+
+#: languages/texts.php:300
+msgid "German"
+msgstr "German"
+
+#: languages/texts.php:301
+msgid "English"
+msgstr "English"
+
+#: languages/texts.php:302
+msgid "Spanish"
+msgstr "Spanish"
+
+#: languages/texts.php:303
+msgid "French"
+msgstr "French"
+
+#: languages/texts.php:304
+msgid "Italian"
+msgstr "Italian"
+
+#: languages/texts.php:305
+msgid "Dutch"
+msgstr "Dutch"
+
+#: languages/texts.php:306
+msgid "Russian"
+msgstr "Russian"
+
+#: languages/texts.php:308
+msgid "Start"
+msgstr "시작"
+
+#: languages/texts.php:309
+msgid "End"
+msgstr "끝"
+
+#: languages/texts.php:311
+msgid "Paste your code here..."
+msgstr "코드를 여기에 붙여넣으세요..."
+
+#: languages/texts.php:313
+msgid "Field"
+msgstr "필드"
+
+#: languages/texts.php:314
+msgid "Field Type"
+msgstr "필드 타입"
+
+#: languages/texts.php:315
+msgid "Label"
+msgstr "레이블"
+
+#: languages/texts.php:316
+msgid "Message"
+msgstr "메시지"
+
+#: languages/texts.php:317
+msgid "Success"
+msgstr "성공"
+
+#: languages/texts.php:320
+msgid "Message not sent"
+msgstr "메시지가 발송되지 않았습니다"
+
+#: languages/texts.php:321
+msgid "Redirect"
+msgstr "리디렉트"
+
+#: languages/texts.php:322
+msgid "Go to"
+msgstr "가기"
+
+#: languages/texts.php:323
+msgid "Required"
+msgstr "필수 항목"
+
+#: languages/texts.php:324
+msgid "Email"
+msgstr "이메일"
+
+#: languages/texts.php:325
+msgid "Number"
+msgstr "수"
+
+#: languages/texts.php:326
+msgid "Paragraph"
+msgstr "단락"
+
+#: languages/texts.php:327
+msgid "Select"
+msgstr "선택"
+
+#: languages/texts.php:330
+msgid "Style"
+msgstr "스타일"
+
+#: languages/texts.php:331
+msgid "Opacity"
+msgstr "투명도"
+
+#: languages/texts.php:332
+msgid "Hue"
+msgstr "Hue"
+
+#: languages/texts.php:333
+msgid "Brigh.."
+msgstr "Brigh.."
+
+#: languages/texts.php:334
+msgid "Satur.."
+msgstr "Satur.."
+
+#: languages/texts.php:336
+msgid "Percentage"
+msgstr "퍼센티지"
+
+#: languages/texts.php:337
+msgid "Show Percentage"
+msgstr "퍼센티지 보이기"
+
+#: languages/texts.php:338
+msgid "Bar"
+msgstr "바"
+
+#: languages/texts.php:340
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:341
+msgid "SoundCloud Link"
+msgstr "SoundCloud 링크"
+
+#: languages/texts.php:343
+msgid "Video Link"
+msgstr "비디오 링크"
+
+#: languages/texts.php:344
+msgid "Ratio"
+msgstr "비율"
+
+#: languages/texts.php:345
+msgid "Controls"
+msgstr "제어"
+
+#: languages/texts.php:346
+msgid "Cover"
+msgstr "커버"
+
+#: languages/texts.php:347
+msgid "Play"
+msgstr "실행"
+
+#: languages/texts.php:350
+msgid "Footer"
+msgstr "푸터"
+
+#: languages/texts.php:351
+msgid "MultiPage"
+msgstr "다중 페이지"
+
+#: languages/texts.php:354
+msgid "Query"
+msgstr "쿼리"
+
+#: languages/texts.php:355
+msgid "Product ID"
+msgstr "상품 ID"
+
+#: languages/texts.php:356
+msgid "Product ID or SKU"
+msgstr "상품 ID 또는 SKU"
+
+#: languages/texts.php:357
+msgid "Products Count"
+msgstr "상품 수"
+
+#: languages/texts.php:358
+msgid "Layout"
+msgstr "레이아웃"
+
+#: languages/texts.php:359
+msgid "Style Add to Cart"
+msgstr "장바구니 추가 형태"
+
+#: languages/texts.php:360
+msgid "Columns"
+msgstr "열"
+
+#: languages/texts.php:361
+msgid "Categories Count"
+msgstr "카테고리 개수"
+
+#: languages/texts.php:362
+msgid "Order"
+msgstr "순서"
+
+#: languages/texts.php:363
+msgid "Asc"
+msgstr "오름차순"
+
+#: languages/texts.php:364
+msgid "Desc"
+msgstr "내림차순"
+
+#: languages/texts.php:365
+msgid "Order By"
+msgstr "﻿정렬 기준"
+
+#: languages/texts.php:366
+msgid "Name"
+msgstr "이름"
+
+#: languages/texts.php:367
+msgid "Slug"
+msgstr "슬러그"
+
+#: languages/texts.php:368
+msgid "Description"
+msgstr "상세정보"
+
+#: languages/texts.php:369
+msgid "Count"
+msgstr "개수"
+
+#: languages/texts.php:370
+msgid "Page"
+msgstr "페이지"
+
+#: languages/texts.php:371
+msgid "Cart"
+msgstr "장바구니"
+
+#: languages/texts.php:372
+msgid "Checkout"
+msgstr "결제"
+
+#: languages/texts.php:373
+msgid "My Account"
+msgstr "마이 페이지"
+
+#: languages/texts.php:374
+msgid "Order Tracking"
+msgstr "주문 추적"
+
+#: languages/texts.php:375
+msgid "Filter"
+msgstr "필터"
+
+#: languages/texts.php:376
+msgid "Title"
+msgstr "타이틀"
+
+#: languages/texts.php:377
+msgid "Rating"
+msgstr "평가"
+
+#: languages/texts.php:378
+msgid "Popularity"
+msgstr "인기순"
+
+#: languages/texts.php:379
+msgid "Menu Order"
+msgstr "메뉴 순서"
+
+#: languages/texts.php:380
+msgid "Random"
+msgstr "무작위"
+
+#: languages/texts.php:381
+msgid "ID"
+msgstr "ID"
+
+#: languages/texts.php:382
+msgid "Paste your wordpress shortcode here..."
+msgstr "워드프레스 숏코드를 여기에 붙여넣으세요..."
+
+#: languages/texts.php:384
+msgid "Post Type"
+msgstr "글 타입"
+
+#: languages/texts.php:385
+msgid "Post"
+msgstr "글"
+
+#: languages/texts.php:386
+msgid "Number posts"
+msgstr "글 수"
+
+#: languages/texts.php:387
+msgid "Category"
+msgstr "카테고리"
+
+#: languages/texts.php:388
+msgid "Author"
+msgstr "글쓴이"
+
+#: languages/texts.php:389
+msgid "Include"
+msgstr "포함하기"
+
+#: languages/texts.php:390
+msgid "Exclude"
+msgstr "제외하기"
+
+#: languages/texts.php:391
+msgid "Status"
+msgstr "상태"
+
+#: languages/texts.php:392
+msgid "Future"
+msgstr "향후"
+
+#: languages/texts.php:393
+msgid "Draft"
+msgstr "임시글"
+
+#: languages/texts.php:394
+msgid "Pending"
+msgstr "대기중"
+
+#: languages/texts.php:395
+msgid "Private"
+msgstr "비공개"
+
+#: languages/texts.php:396
+msgid "Trash"
+msgstr "휴지통"
+
+#: languages/texts.php:397
+msgid "Auto-Draft"
+msgstr "자동 임시글"
+
+#: languages/texts.php:398
+msgid "Inherit"
+msgstr "상속"
+
+#: languages/texts.php:399
+msgid "Meta Key"
+msgstr "메타 키"
+
+#: languages/texts.php:400
+msgid "Meta Value"
+msgstr "메타 값"
+
+#: languages/texts.php:401
+msgid "Modified"
+msgstr "수정됨"
+
+#: languages/texts.php:402
+msgid "Parent"
+msgstr "상위"
+
+#: languages/texts.php:403
+msgid "Comment count"
+msgstr "댓글 수"
+
+#: languages/texts.php:383
+msgid "Weight"
+msgstr "font-weight"
+
+#: admin/main.php:156 languages/texts.php:142
+msgid "Settings"
+msgstr "설정"
+
+#: admin/main.php:352
+msgid "Edit with Brizy"
+msgstr "브리지로 편집하기"
+
+#: admin/main.php:448
+msgid "Auto Draft"
+msgstr "자동 임시글"
+
+#: admin/views/button.php:45 admin/views/editor.php:21
+msgid "Continue to edit with"
+msgstr "다음으로 편집 계속하기"
+
+#: admin/views/settings/view.php:64
+msgid "Save Changes"
+msgstr "변경 사항 저장"
+
+#: editor/post.php:400
+msgid "Default"
+msgstr "기본"
+
+#: public/hooks.php:34
+msgid "Brizy Template"
+msgstr "브리지 템플릿"
+
+#: public/main.php:84
+msgid "Preview"
+msgstr "미리보기"
+
+#: public/main.php:95
+msgid "View"
+msgstr "보기"
+
+#. Author of the plugin/theme
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. Description of the plugin/theme
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "무료 드래그 앤 드롭 전면 페이지 빌더는 워드프레스 페이지 생성을 빛의 속도로 빠르게 해줍니다. 브리지라면 쉽습니다."
+
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#: public/views/error.php:10
+msgid "Go back"
+msgstr "돌아가기"
+
+#: admin/views/settings/view.php:34
+msgid "Exclude for roles"
+msgstr "역할 제외"
+
+#: admin/views/settings/view.php:16
+msgid "Post Types"
+msgstr "글 형식"
+
+#. Plugin Name of the plugin/theme
+msgid "Brizy"
+msgstr "Brizy"
