@@ -1,0 +1,1491 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Indonesian
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-11-22 14:12:14+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n > 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: id\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: languages/texts.php:416
+msgid "remove this block"
+msgstr "hapus blok ini"
+
+#: languages/texts.php:413
+msgid "You can"
+msgstr "Anda bisa"
+
+#: languages/texts.php:415
+msgid "or"
+msgstr "atau"
+
+#: languages/texts.php:412
+msgid "An error happened while trying to display this block"
+msgstr "Satu kesalahan muncul ketika hendak menampilkan blok ini"
+
+#: languages/texts.php:414
+msgid "open an issue"
+msgstr "buka laporan masalah"
+
+#: languages/texts.php:319
+msgid "Message sent"
+msgstr "Pesan terkirim"
+
+#: languages/texts.php:407
+msgid "Save"
+msgstr "Simpan"
+
+#: languages/texts.php:408
+msgid "Saved"
+msgstr "Tersimpan"
+
+#: languages/texts.php:409
+msgid "Global"
+msgstr "Global"
+
+#: languages/texts.php:405
+msgid "Block"
+msgstr "Blokir"
+
+#: languages/texts.php:411
+msgid "Enter Search Keyword"
+msgstr "Masukan Kata Kunci Pencarian"
+
+#: languages/texts.php:410
+msgid "All Categories"
+msgstr "Semua Kategori"
+
+#: languages/texts.php:406
+msgid "Make it Global"
+msgstr "Jadikan Global"
+
+#: languages/texts.php:404
+msgid "Filter By"
+msgstr "Saring Dengan"
+
+#: languages/texts.php:318
+msgid "Error"
+msgstr "Galat"
+
+#: languages/texts.php:388
+msgid "Author"
+msgstr "Penulis"
+
+#: languages/texts.php:387
+msgid "Category"
+msgstr "Kategori"
+
+#: languages/texts.php:376
+msgid "Title"
+msgstr "Judul"
+
+#: languages/texts.php:379
+msgid "Menu Order"
+msgstr "Urutan Menu"
+
+#: languages/texts.php:373
+msgid "My Account"
+msgstr "Akun Saya"
+
+#: languages/texts.php:370
+msgid "Page"
+msgstr "Halaman"
+
+#: languages/texts.php:368
+msgid "Description"
+msgstr "Keterangan"
+
+#: languages/texts.php:366
+msgid "Name"
+msgstr "Nama"
+
+#: languages/texts.php:365
+msgid "Order By"
+msgstr "Urutkan Dengan"
+
+#: languages/texts.php:362
+msgid "Order"
+msgstr "Urutan"
+
+#: languages/texts.php:361
+msgid "Categories Count"
+msgstr "Jumlah Kategori"
+
+#: languages/texts.php:360
+msgid "Columns"
+msgstr "Kolom"
+
+#: languages/texts.php:371
+msgid "Cart"
+msgstr "Keranjang Belanja"
+
+#: languages/texts.php:357
+msgid "Products Count"
+msgstr "Jumlah Produk"
+
+#: languages/texts.php:355
+msgid "Product ID"
+msgstr "ID Produk"
+
+#: languages/texts.php:403
+msgid "Comment count"
+msgstr "Jumlah komentar"
+
+#: languages/texts.php:401
+msgid "Modified"
+msgstr "Termodifikasi"
+
+#: languages/texts.php:400
+msgid "Meta Value"
+msgstr "Nilai Meta"
+
+#: languages/texts.php:399
+msgid "Meta Key"
+msgstr "Kunci Meta"
+
+#: languages/texts.php:396
+msgid "Trash"
+msgstr "Tong Sampah"
+
+#: languages/texts.php:394
+msgid "Pending"
+msgstr "Tertunda"
+
+#: languages/texts.php:391
+msgid "Status"
+msgstr "Status"
+
+#: languages/texts.php:389
+msgid "Include"
+msgstr "Termasuk"
+
+#: languages/texts.php:381
+msgid "ID"
+msgstr "ID"
+
+#: languages/texts.php:380
+msgid "Random"
+msgstr "Acak"
+
+#: languages/texts.php:378
+msgid "Popularity"
+msgstr "Popularitas"
+
+#: languages/texts.php:377
+msgid "Rating"
+msgstr "Peringkat"
+
+#: languages/texts.php:383
+msgid "Weight"
+msgstr "Bobot"
+
+#: languages/texts.php:375
+msgid "Filter"
+msgstr "Saring"
+
+#: languages/texts.php:397
+msgid "Auto-Draft"
+msgstr "Auto-Konsep"
+
+#: languages/texts.php:393
+msgid "Draft"
+msgstr "Konsep"
+
+#: languages/texts.php:395
+msgid "Private"
+msgstr "Pribadi"
+
+#: languages/texts.php:398
+msgid "Inherit"
+msgstr "Keturunan"
+
+#: languages/texts.php:392
+msgid "Future"
+msgstr "Yang Akan Datang"
+
+#: languages/texts.php:369
+msgid "Count"
+msgstr "Hitung"
+
+#: languages/texts.php:347
+msgid "Play"
+msgstr "Mainkan"
+
+#: languages/texts.php:345
+msgid "Controls"
+msgstr "Kontrol"
+
+#: languages/texts.php:344
+msgid "Ratio"
+msgstr "Rasio"
+
+#: languages/texts.php:343
+msgid "Video Link"
+msgstr "Tautan Video"
+
+#: languages/texts.php:341
+msgid "SoundCloud Link"
+msgstr "Tautan SoundCloud"
+
+#: languages/texts.php:340
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:337
+msgid "Show Percentage"
+msgstr "Tampilkan Persentase"
+
+#: languages/texts.php:336
+msgid "Percentage"
+msgstr "Persentase"
+
+#: languages/texts.php:326
+msgid "Paragraph"
+msgstr "Paragraf"
+
+#: languages/texts.php:325
+msgid "Number"
+msgstr "Nomor"
+
+#: languages/texts.php:327
+msgid "Select"
+msgstr "Pilih"
+
+#: languages/texts.php:332
+msgid "Hue"
+msgstr "Corak"
+
+#: languages/texts.php:323
+msgid "Required"
+msgstr "Dibutuhkan"
+
+#: languages/texts.php:322
+msgid "Go to"
+msgstr "Menuju"
+
+#: languages/texts.php:321
+msgid "Redirect"
+msgstr "Dialihkan"
+
+#: languages/texts.php:320
+msgid "Message not sent"
+msgstr "Pesan tidak terkirim"
+
+#: languages/texts.php:316
+msgid "Message"
+msgstr "Pesan"
+
+#: languages/texts.php:315
+msgid "Label"
+msgstr "Label"
+
+#: languages/texts.php:311
+msgid "Paste your code here..."
+msgstr "Salin kode anda disini..."
+
+#: languages/texts.php:309
+msgid "End"
+msgstr "Akhir"
+
+#: languages/texts.php:308
+msgid "Start"
+msgstr "Mulai"
+
+#: languages/texts.php:305
+msgid "Dutch"
+msgstr "Belanda"
+
+#: languages/texts.php:299
+msgid "Language"
+msgstr "Bahasa"
+
+#: languages/texts.php:298
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Auckland)"
+
+#: languages/texts.php:297
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: languages/texts.php:296
+msgid "+ 10:00 (Sidney, Melbourne)"
+msgstr "+ 10:00 (Sidney, Melbourne)"
+
+#: languages/texts.php:295
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Tokyo, Seoul)"
+
+#: languages/texts.php:294
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Singapura, Beijing)"
+
+#: languages/texts.php:293
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Bangkok, Jakarta)"
+
+#: languages/texts.php:292
+msgid "+ 6:00 (Astana)"
+msgstr "+ 6:00 (Astana)"
+
+#: languages/texts.php:291
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Yekaterinburg"
+
+#: languages/texts.php:290
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 (Dubai, Baku)"
+
+#: languages/texts.php:289
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Moscow, Baghdad)"
+
+#: languages/texts.php:288
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Athena, Istanbul)"
+
+#: languages/texts.php:287
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Berlin, Paris)"
+
+#: languages/texts.php:286
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (London, Dublin)"
+
+#: languages/texts.php:285
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Cape Verde)"
+
+#: languages/texts.php:284
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: languages/texts.php:283
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Brasilia, Santiago)"
+
+#: languages/texts.php:282
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Halifax, Manaus)"
+
+#: languages/texts.php:281
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (New York, Miami)"
+
+#: languages/texts.php:280
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Chicago, Dallas)"
+
+#: languages/texts.php:279
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Denver, Phoenix)"
+
+#: languages/texts.php:278
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Los Angeles)"
+
+#: languages/texts.php:277
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Anchorage)"
+
+#: languages/texts.php:276
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Honolulu, Papeete)"
+
+#: languages/texts.php:275
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Niue)"
+
+#: languages/texts.php:274
+msgid "Time Zone"
+msgstr "Zona Waktu"
+
+#: languages/texts.php:273
+msgid "Minutes"
+msgstr "Menit"
+
+#: languages/texts.php:272
+msgid "Hour"
+msgstr "Jam"
+
+#: languages/texts.php:271
+msgid "Date"
+msgstr "Tanggal"
+
+#: languages/texts.php:267
+msgid "Hover"
+msgstr "Hover"
+
+#: languages/texts.php:266
+msgid "Normal"
+msgstr "Normal"
+
+#: languages/texts.php:263
+msgid "Spacing"
+msgstr "Jarak"
+
+#: languages/texts.php:262
+msgid "Fill"
+msgstr "Mengisi"
+
+#: languages/texts.php:261
+msgid "Corner"
+msgstr "Sudut"
+
+#: languages/texts.php:260
+msgid "Margin"
+msgstr "Batas"
+
+#: languages/texts.php:258
+msgid "Padding"
+msgstr "Lapisan"
+
+#: languages/texts.php:254 languages/texts.php:255
+msgid "Open In New Tab"
+msgstr "Buka di Tab Baru"
+
+#: languages/texts.php:253
+msgid "Link to"
+msgstr "Tertaut ke"
+
+#: languages/texts.php:251
+msgid "Link"
+msgstr "Tautan"
+
+#: languages/texts.php:249
+msgid "Editable Text"
+msgstr "Teks yang dapat diubah"
+
+#: languages/texts.php:248
+msgid "PRE"
+msgstr "PRE"
+
+#: languages/texts.php:247
+msgid "H6"
+msgstr "H6"
+
+#: languages/texts.php:246
+msgid "H5"
+msgstr "H5"
+
+#: languages/texts.php:245
+msgid "H4"
+msgstr "H4"
+
+#: languages/texts.php:244
+msgid "H3"
+msgstr "H3"
+
+#: languages/texts.php:243
+msgid "H2"
+msgstr "H2"
+
+#: languages/texts.php:242
+msgid "H1"
+msgstr "H1"
+
+#: languages/texts.php:241
+msgid "P"
+msgstr "P"
+
+#: languages/texts.php:240
+msgid "HTML Tag"
+msgstr "Tag HTML"
+
+#: languages/texts.php:239
+msgid "Gap Below"
+msgstr "Celah Bawah"
+
+#: languages/texts.php:238
+msgid "Gap Above"
+msgstr "Celah Atas"
+
+#: languages/texts.php:237
+msgid "Italic"
+msgstr "Miring"
+
+#: languages/texts.php:235
+msgid "List"
+msgstr "Daftar"
+
+#: languages/texts.php:317
+msgid "Success"
+msgstr "Sukses"
+
+#: languages/texts.php:233
+msgid "Line Hgt."
+msgstr "Tinggi Baris"
+
+#: languages/texts.php:232
+msgid "Size"
+msgstr "Ukuran"
+
+#: languages/texts.php:231
+msgid "Font Family"
+msgstr "Kelompok Huruf"
+
+#: languages/texts.php:230
+msgid "Typography"
+msgstr "Tipografi"
+
+#: languages/texts.php:228
+msgid "Position"
+msgstr "Posisi"
+
+#: languages/texts.php:227
+msgid "Align"
+msgstr "Rata"
+
+#: languages/texts.php:226
+msgid "Content"
+msgstr "Konten"
+
+#: languages/texts.php:224
+msgid "RollOut"
+msgstr "Rilis"
+
+#: languages/texts.php:223
+msgid "RollIn"
+msgstr "Masuk"
+
+#: languages/texts.php:221
+msgid "Hinge"
+msgstr "Engsel"
+
+#: languages/texts.php:220
+msgid "ZoomOutUp"
+msgstr "Memperkecil"
+
+#: languages/texts.php:219
+msgid "ZoomOutRight"
+msgstr "Memperkecil Kekanan"
+
+#: languages/texts.php:218
+msgid "ZoomOutLeft"
+msgstr "Memperkecil Kekiri"
+
+#: languages/texts.php:217
+msgid "ZoomOutDown"
+msgstr "Memperkecil Kebawah"
+
+#: languages/texts.php:216
+msgid "ZoomOut"
+msgstr "Memperkecil"
+
+#: languages/texts.php:215
+msgid "ZoomInUp"
+msgstr "Memperbesar Keatas"
+
+#: languages/texts.php:214
+msgid "ZoomInRight"
+msgstr "Memperbesar Kekanan"
+
+#: languages/texts.php:213
+msgid "ZoomInLeft"
+msgstr "Memperbesar Kekiri"
+
+#: languages/texts.php:212
+msgid "ZoomInDown"
+msgstr "Memperbesar Kekanan"
+
+#: languages/texts.php:211
+msgid "ZoomIn"
+msgstr "Memperbesar"
+
+#: languages/texts.php:210
+msgid "SlideOutRight"
+msgstr "Geser Kanan Keluar"
+
+#: languages/texts.php:209
+msgid "SlideOutLeft"
+msgstr "Geser Kiri Keluar"
+
+#: languages/texts.php:208
+msgid "SlideOutDown"
+msgstr "Geser Bawah Keluar"
+
+#: languages/texts.php:207
+msgid "SlideOutUp"
+msgstr "Geser Atas Keluar"
+
+#: languages/texts.php:206
+msgid "SlideInRight"
+msgstr "Geser Kanan Kedalam"
+
+#: languages/texts.php:205
+msgid "SlideInLeft"
+msgstr "Geser Kiri Kedalam"
+
+#: languages/texts.php:204
+msgid "SlideInDown"
+msgstr "Geser Bawah Kedalam"
+
+#: languages/texts.php:203
+msgid "SlideInUp"
+msgstr "Geser Atas Kedalam"
+
+#: languages/texts.php:202
+msgid "RotateOutUpRight"
+msgstr "Putar Sisi Luar Kanan Atas"
+
+#: languages/texts.php:201
+msgid "RotateOutUpLeft"
+msgstr "Putar Sisi Luar Atas Kiri"
+
+#: languages/texts.php:200
+msgid "RotateOutDownRight"
+msgstr "Putar Sisi Luar Bawah Kanan"
+
+#: languages/texts.php:199
+msgid "RotateOutDownLeft"
+msgstr "Putar Sisi Luar Bawah Kiri"
+
+#: languages/texts.php:198
+msgid "RotateOut"
+msgstr "Putar Keluar"
+
+#: languages/texts.php:197
+msgid "RotateInUpRight"
+msgstr "Putar Sisi Dalam Atas Kanan"
+
+#: languages/texts.php:196
+msgid "RotateInUpLeft"
+msgstr "Putar Sisi Dalam Atas Kiri"
+
+#: languages/texts.php:195
+msgid "RotateInDownRight"
+msgstr "Putar Sisi Dalam Bawah Kanan"
+
+#: languages/texts.php:194
+msgid "RotateInDownLeft"
+msgstr "Putar Kedalam Sisi Bawah Kiri"
+
+#: languages/texts.php:193
+msgid "RotateIn"
+msgstr "Putar Kedalam"
+
+#: languages/texts.php:150
+msgid "Bounce"
+msgstr "Pantul"
+
+#: languages/texts.php:152
+msgid "Pulse"
+msgstr "Detak"
+
+#: languages/texts.php:154
+msgid "Shake"
+msgstr "Bergoyang"
+
+#: languages/texts.php:155
+msgid "Swing"
+msgstr "Melambai"
+
+#: languages/texts.php:153
+msgid "RubberBand"
+msgstr "Melar"
+
+#: languages/texts.php:149
+msgid "Delay"
+msgstr "Tertunda"
+
+#: languages/texts.php:148
+msgid "Duration"
+msgstr "Durasi"
+
+#: languages/texts.php:147
+msgid "Animation"
+msgstr "Animasi"
+
+#: languages/texts.php:145
+msgid "Delete"
+msgstr "Hapus"
+
+#: languages/texts.php:144
+msgid "Duplicate"
+msgstr "Duplikat"
+
+#: languages/texts.php:140 languages/texts.php:259
+msgid "Border"
+msgstr "Garis"
+
+#: languages/texts.php:138
+msgid "Colors"
+msgstr "Warna"
+
+#: languages/texts.php:135
+msgid "Enter address"
+msgstr "Masukan Alamat"
+
+#: languages/texts.php:134
+msgid "Address"
+msgstr "Alamat"
+
+#: languages/texts.php:132
+msgid "Loop"
+msgstr "Putaran"
+
+#: languages/texts.php:131
+msgid "720p"
+msgstr "720p"
+
+#: languages/texts.php:130
+msgid "1080p"
+msgstr "1080p"
+
+#: languages/texts.php:129
+msgid "Quality"
+msgstr "Kualitas"
+
+#: languages/texts.php:128
+msgid "YouTube or Vimeo"
+msgstr "Youtube atau Vimeo"
+
+#: languages/texts.php:127
+msgid "URL"
+msgstr "URL"
+
+#: languages/texts.php:124
+msgid "Fixed"
+msgstr "Tetap"
+
+#: languages/texts.php:123
+msgid "Parallax"
+msgstr "Parallax"
+
+#: languages/texts.php:121
+msgid "Bg Size"
+msgstr "Ukuran Gambar Belakang"
+
+#: languages/texts.php:120
+msgid "Background"
+msgstr "Gambar Belakang"
+
+#: languages/texts.php:118
+msgid "Add new column"
+msgstr "Tambah kolom baru"
+
+#: languages/texts.php:115
+msgid "component"
+msgstr "komponen"
+
+#: languages/texts.php:113
+msgid "Missing Element"
+msgstr "Elemen hilang"
+
+#: languages/texts.php:110
+msgid "Full"
+msgstr "Penuh"
+
+#: languages/texts.php:108
+msgid "Auto"
+msgstr "Auto"
+
+#: languages/texts.php:107
+msgid "Boxed"
+msgstr "Terkotak"
+
+#: languages/texts.php:106
+msgid "Height"
+msgstr "Tinggi"
+
+#: languages/texts.php:105
+msgid "Width"
+msgstr "Lebar"
+
+#: languages/texts.php:102
+msgid "Outline"
+msgstr "Guratan"
+
+#: languages/texts.php:101
+msgid "Round"
+msgstr "Bundar"
+
+#: languages/texts.php:100
+msgid "Tail"
+msgstr "Ekor"
+
+#: languages/texts.php:99
+msgid "Heavy"
+msgstr "Berat"
+
+#: languages/texts.php:98
+msgid "Thin"
+msgstr "Tipis"
+
+#: languages/texts.php:97
+msgid "Arrows"
+msgstr "Anak Panah"
+
+#: languages/texts.php:96
+msgid "Square"
+msgstr "Kotak"
+
+#: languages/texts.php:95
+msgid "Diamond"
+msgstr "Intan"
+
+#: languages/texts.php:94
+msgid "Circle"
+msgstr "Bulat"
+
+#: languages/texts.php:93
+msgid "None"
+msgstr "Tidak Ada"
+
+#: languages/texts.php:92
+msgid "Dots"
+msgstr "Titik-titik"
+
+#: languages/texts.php:91
+msgid "Navigation"
+msgstr "Navigasi"
+
+#: languages/texts.php:90
+msgid "Speed"
+msgstr "Kecepatan"
+
+#: languages/texts.php:88
+msgid "Make it a Slider"
+msgstr "Jadikan Bergeser"
+
+#: languages/texts.php:71
+msgid "Save HTML"
+msgstr "Simpan HTML"
+
+#: languages/texts.php:68
+msgid "Back to WordPress"
+msgstr "Kembali ke WordPress"
+
+#: languages/texts.php:67
+msgid "Plugin Settings"
+msgstr "Pengaturan Plugins"
+
+#: languages/texts.php:66
+msgid "Back to Brizy"
+msgstr "Kembali ke Brizy"
+
+#: languages/texts.php:61
+msgid "Desktop"
+msgstr "Desktop"
+
+#: languages/texts.php:60
+msgid "Mobile view"
+msgstr "Tampilan di HP"
+
+#: languages/texts.php:57
+msgid "Add New"
+msgstr "Tambah Baru"
+
+#: languages/texts.php:55
+msgid "Type font name"
+msgstr "Tuliskan Nama Huruf"
+
+#: languages/texts.php:54
+msgid "Add New Google Font"
+msgstr "Tambah Huruf Google Baru"
+
+#: languages/texts.php:51
+msgid "Drag to reorder"
+msgstr "Geret Untuk Mengurutkan"
+
+#: languages/texts.php:50
+msgid "Reorder Blocks"
+msgstr "Urutkan Blok Kembali"
+
+#: languages/texts.php:48
+msgid "Sidebar"
+msgstr "Kolom Samping"
+
+#: languages/texts.php:47
+msgid "Posts"
+msgstr "Post"
+
+#: languages/texts.php:46
+msgid "Menu"
+msgstr "Menu"
+
+#: languages/texts.php:43
+msgid "Product"
+msgstr "Produk"
+
+#: languages/texts.php:42
+msgid "Pages"
+msgstr "Halaman"
+
+#: languages/texts.php:41
+msgid "Categories"
+msgstr "Kategori"
+
+#: languages/texts.php:40
+msgid "Add to cart"
+msgstr "Tambahkan ke keranjang"
+
+#: languages/texts.php:39
+msgid "Column"
+msgstr "Kolom"
+
+#: languages/texts.php:38
+msgid "Row"
+msgstr "Baris"
+
+#: languages/texts.php:34
+msgid "Countdown"
+msgstr "Hitung Mundur"
+
+#: languages/texts.php:25 languages/texts.php:126
+msgid "Video"
+msgstr "Video"
+
+#: languages/texts.php:24 languages/texts.php:122
+msgid "Image"
+msgstr "Gambar"
+
+#: languages/texts.php:23
+msgid "Icon"
+msgstr "Ikon"
+
+#: languages/texts.php:22
+msgid "Button"
+msgstr "Tombol"
+
+#: languages/texts.php:21 languages/texts.php:328
+msgid "Text"
+msgstr "Teks"
+
+#: languages/texts.php:20
+msgid "Add Elements"
+msgstr "Tambah Elemen"
+
+#: languages/texts.php:16
+msgid "Press the button to add blocks"
+msgstr "Tekan tombol untuk menambah blok"
+
+#: languages/texts.php:15
+msgid "Add a new block"
+msgstr "Tambah satu blok baru"
+
+#: languages/texts.php:12
+msgid "Switch to desktop to add blocks"
+msgstr "Pindah ke desktop untuk menambah blok"
+
+#: languages/texts.php:11
+msgid "SWITCH TO DESKTOP"
+msgstr "PINDAH KE DESKTOP"
+
+#: languages/texts.php:10
+msgid "Press the button above to add blocks"
+msgstr "Tekan tombol diatas untuk menambah blok"
+
+#: languages/texts.php:402
+msgid "Parent"
+msgstr "Induk"
+
+#: languages/texts.php:372
+msgid "Checkout"
+msgstr "Pembayaran"
+
+#: languages/texts.php:350
+msgid "Footer"
+msgstr "Catatan Kaki"
+
+#: languages/texts.php:346
+msgid "Cover"
+msgstr "Sampul Depan"
+
+#: languages/texts.php:334
+msgid "Satur.."
+msgstr "Satur.."
+
+#: languages/texts.php:333
+msgid "Brigh.."
+msgstr "Cerah.."
+
+#: languages/texts.php:330
+msgid "Style"
+msgstr "Gaya"
+
+#: languages/texts.php:252
+msgid "Anchor"
+msgstr "Jangkar"
+
+#: languages/texts.php:192
+msgid "LightSpeedIn"
+msgstr "LightSpeedIn"
+
+#: languages/texts.php:83
+msgid "CSS Class"
+msgstr "Kelas CSS"
+
+#: languages/texts.php:81
+msgid "Enable on Mobile"
+msgstr "Aktif pada Ponsel"
+
+#: languages/texts.php:80
+msgid "Disable on Mobile"
+msgstr "Tidak Aktif pada Ponsel"
+
+#: languages/texts.php:79
+msgid "Show on Desktop"
+msgstr "Perlihatkan pada Desktop"
+
+#: languages/texts.php:78
+msgid "Advanced"
+msgstr "Paripurna"
+
+#: languages/texts.php:76
+msgid "More Settings"
+msgstr "Pengaturan Lanjutan"
+
+#: languages/texts.php:35
+msgid "Tabs"
+msgstr "Tab"
+
+#: languages/texts.php:33
+msgid "Counter"
+msgstr "Penghitung"
+
+#: languages/texts.php:31
+msgid "Icon Box"
+msgstr "Kotak Ikon"
+
+#: languages/texts.php:30
+msgid "Form"
+msgstr "Formulir"
+
+#: languages/texts.php:29
+msgid "Embed"
+msgstr "Tempelan"
+
+#: languages/texts.php:28 languages/texts.php:133
+msgid "Map"
+msgstr "Peta"
+
+#: languages/texts.php:27
+msgid "Line"
+msgstr "Garis"
+
+#: languages/texts.php:26
+msgid "Spacer"
+msgstr "Jejarak"
+
+#: languages/texts.php:187
+msgid "Flip"
+msgstr "Flip"
+
+#: languages/texts.php:186
+msgid "FadeOutUpBig"
+msgstr "FadeOutUpBig"
+
+#: languages/texts.php:185
+msgid "FadeOutUp"
+msgstr "FadeOutUp"
+
+#: languages/texts.php:184
+msgid "FadeOutRightBig"
+msgstr "FadeOutRightBig"
+
+#: languages/texts.php:183
+msgid "FadeOutRight"
+msgstr "FadeOutRight"
+
+#: languages/texts.php:182
+msgid "FadeOutLeftBig"
+msgstr "FadeOutLeftBig"
+
+#: languages/texts.php:181
+msgid "FadeOutLeft"
+msgstr "FadeOutLeft"
+
+#: languages/texts.php:180
+msgid "FadeOutDownBig"
+msgstr "FadeOutDownBig"
+
+#: languages/texts.php:179
+msgid "FadeOutDown"
+msgstr "FadeOutDown"
+
+#: languages/texts.php:178
+msgid "FadeOut"
+msgstr "FadeOut"
+
+#: languages/texts.php:177
+msgid "FadeInUpBig"
+msgstr "FadeInUpBig"
+
+#: languages/texts.php:176
+msgid "FadeInUp"
+msgstr "FadeInUp"
+
+#: languages/texts.php:175
+msgid "FadeInRightBig"
+msgstr "FadeInRightBig"
+
+#: languages/texts.php:174
+msgid "FadeInRight"
+msgstr "FadeInRight"
+
+#: languages/texts.php:158
+msgid "Jello"
+msgstr "Jello"
+
+#: languages/texts.php:157
+msgid "Wobble"
+msgstr "Wobble"
+
+#: languages/texts.php:156
+msgid "Tada"
+msgstr "Tada"
+
+#: languages/texts.php:151
+msgid "Flash"
+msgstr "Flash"
+
+#: languages/texts.php:139
+msgid "Overlay"
+msgstr "Hamparan"
+
+#: languages/texts.php:125
+msgid "Animated"
+msgstr "Teranimasi"
+
+#: languages/texts.php:109
+msgid "Custom"
+msgstr "Custom"
+
+#: languages/texts.php:86
+msgid "Slider"
+msgstr "Slider"
+
+#: languages/texts.php:82
+msgid "Z-index"
+msgstr "Z-index"
+
+#: languages/texts.php:73
+msgid "Publish"
+msgstr "Publikasikan"
+
+#: languages/texts.php:62
+msgid "Mobile"
+msgstr "Ponsel"
+
+#: languages/texts.php:58
+msgid "New Style #%s"
+msgstr "Pola Baru #%s"
+
+#: languages/texts.php:37
+msgid "Accordion"
+msgstr "Akordion"
+
+#: languages/texts.php:36
+msgid "Progress"
+msgstr "Progres"
+
+#: languages/texts.php:173
+msgid "FadeInLeftBig"
+msgstr "FadeInLeftBig"
+
+#: languages/texts.php:172
+msgid "FadeInLeft"
+msgstr "FadeInLeft"
+
+#: languages/texts.php:171
+msgid "FadeInDownBig"
+msgstr "FadeInDownBig"
+
+#: languages/texts.php:170
+msgid "FadeInDown"
+msgstr "FadeInDown"
+
+#: languages/texts.php:169
+msgid "FadeIn"
+msgstr "FadeIn"
+
+#: languages/texts.php:168
+msgid "BounceOutUp"
+msgstr "BounceOutUp"
+
+#: languages/texts.php:167
+msgid "BounceOutRight"
+msgstr "BounceOutRight"
+
+#: languages/texts.php:166
+msgid "BounceOutLeft"
+msgstr "BounceOutLeft"
+
+#: languages/texts.php:165
+msgid "BounceOutDown"
+msgstr "BounceOutDown"
+
+#: languages/texts.php:164
+msgid "BounceOut"
+msgstr "BounceOut"
+
+#: languages/texts.php:163
+msgid "BounceInUp"
+msgstr "BounceInUp"
+
+#: languages/texts.php:162
+msgid "BounceInRight"
+msgstr "BounceInRight"
+
+#: languages/texts.php:161
+msgid "BounceInLeft"
+msgstr "BounceInLeft"
+
+#: languages/texts.php:160
+msgid "BounceInDown"
+msgstr "BounceInDown"
+
+#: languages/texts.php:159
+msgid "BounceIn"
+msgstr "BounceIn"
+
+#: languages/texts.php:390
+msgid "Exclude"
+msgstr "Kecualikan"
+
+#: languages/texts.php:374
+msgid "Order Tracking"
+msgstr "Pelacakan Pesanan"
+
+#: languages/texts.php:367
+msgid "Slug"
+msgstr "Tautan Singkat"
+
+#: languages/texts.php:359
+msgid "Style Add to Cart"
+msgstr "Gaya Ditambahkan ke Keranjang Belanja"
+
+#: languages/texts.php:356
+msgid "Product ID or SKU"
+msgstr "ID Produk atau SKU"
+
+#: languages/texts.php:338
+msgid "Bar"
+msgstr "Bilah"
+
+#: languages/texts.php:331
+msgid "Opacity"
+msgstr "Keburaman"
+
+#: languages/texts.php:324
+msgid "Email"
+msgstr "Surel"
+
+#: languages/texts.php:313
+msgid "Field"
+msgstr "Bidang"
+
+#: languages/texts.php:314
+msgid "Field Type"
+msgstr "Tipe Bidang"
+
+#: languages/texts.php:304
+msgid "Italian"
+msgstr "Itali"
+
+#: languages/texts.php:303
+msgid "French"
+msgstr "Perancis"
+
+#: languages/texts.php:302
+msgid "Spanish"
+msgstr "Spanyol"
+
+#: languages/texts.php:301
+msgid "English"
+msgstr "Inggris"
+
+#: languages/texts.php:300
+msgid "German"
+msgstr "Jerman"
+
+#: languages/texts.php:306
+msgid "Russian"
+msgstr "Rusia"
+
+#: languages/texts.php:236
+msgid "Bold"
+msgstr "Tegas"
+
+#: languages/texts.php:234
+msgid "Letter Spc."
+msgstr "Spasi Huruf"
+
+#: languages/texts.php:222
+msgid "JackInTheBox"
+msgstr "JackInTheBox"
+
+#: languages/texts.php:190
+msgid "FlipOutX"
+msgstr "Flip Keluar Y"
+
+#: languages/texts.php:189
+msgid "FlipInY"
+msgstr "Flip Masuk Y"
+
+#: languages/texts.php:191
+msgid "FlipOutY"
+msgstr "Flip Keluar Y"
+
+#: languages/texts.php:188
+msgid "FlipInX"
+msgstr "Flip Masuk X"
+
+#: languages/texts.php:136
+msgid "Zoom"
+msgstr "Zum"
+
+#: languages/texts.php:114
+msgid "Could not find"
+msgstr "Tidak ditemukan"
+
+#: languages/texts.php:104
+msgid "Full Height"
+msgstr "Tinggi Penuh"
+
+#: languages/texts.php:89
+msgid "Auto Play"
+msgstr "Putar Otomatis"
+
+#: languages/texts.php:72
+msgid "Update"
+msgstr "Perbarui"
+
+#: languages/texts.php:65
+msgid "About Brizy"
+msgstr "Perihal Brizy"
+
+#: languages/texts.php:64
+msgid "More"
+msgstr "Lebih Lanjut"
+
+#: languages/texts.php:56
+msgid "Add new option"
+msgstr "Tambah opsi baru"
+
+#: languages/texts.php:53 languages/texts.php:77
+msgid "Styling"
+msgstr "Penggayaan"
+
+#: languages/texts.php:45
+msgid "Shortcode"
+msgstr "Pemintas"
+
+#: languages/texts.php:44
+msgid "Products"
+msgstr "Produk"
+
+#: languages/texts.php:32
+msgid "SndCloud"
+msgstr "SndCloud"
+
+#: languages/texts.php:9
+msgid "START BUILDING YOUR PAGE"
+msgstr "MULAI BUAT HALAMANMU"
+
+#: languages/texts.php:386
+msgid "Number posts"
+msgstr "Jumlah artikel"
+
+#: languages/texts.php:385
+msgid "Post"
+msgstr "Artikel"
+
+#: languages/texts.php:384
+msgid "Post Type"
+msgstr "Tipe Artikel"
+
+#: languages/texts.php:382
+msgid "Paste your wordpress shortcode here..."
+msgstr "Salin pemintas WordPress Anda disini... "
+
+#: languages/texts.php:364
+msgid "Desc"
+msgstr "Urut Menurun"
+
+#: languages/texts.php:363
+msgid "Asc"
+msgstr "Urut Menaik"
+
+#: languages/texts.php:358
+msgid "Layout"
+msgstr "Tata Letak"
+
+#: languages/texts.php:351
+msgid "MultiPage"
+msgstr "Multi Halaman"
+
+#: languages/texts.php:354
+msgid "Query"
+msgstr "Query"
+
+#. Author of the plugin/theme
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#: admin/views/settings/view.php:64
+msgid "Save Changes"
+msgstr "Simpan Perubahan"
+
+#: admin/views/settings/view.php:16
+msgid "Post Types"
+msgstr "Tipe postingan"
+
+#: admin/main.php:156 languages/texts.php:142
+msgid "Settings"
+msgstr "Pengaturan"
+
+#. Description of the plugin/theme
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Sebuah pembuat halaman ujung-depan seret & taruh gratis, untuk membantu anda membuat halaman WordPress dengan super cepat. Mudah sekali dengan Brizy."
+
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin/theme
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/views/error.php:10
+msgid "Go back"
+msgstr "Kembali"
+
+#: public/main.php:95
+msgid "View"
+msgstr "Lihat"
+
+#: public/main.php:84
+msgid "Preview"
+msgstr "Pratinjau"
+
+#: public/hooks.php:34
+msgid "Brizy Template"
+msgstr "Pola Brizy"
+
+#: admin/views/settings/view.php:34
+msgid "Exclude for roles"
+msgstr "Kecualikan untuk peran"
+
+#: admin/main.php:448
+msgid "Auto Draft"
+msgstr "Draft Otomatis"
+
+#: editor/post.php:400
+msgid "Default"
+msgstr "Baku"
+
+#: admin/main.php:352
+msgid "Edit with Brizy"
+msgstr "Sunting dengan Brizy"
+
+#: admin/views/button.php:45 admin/views/editor.php:21
+msgid "Continue to edit with"
+msgstr "Lanjutkan menyunting dengan"

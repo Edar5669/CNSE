@@ -1,0 +1,4295 @@
+# Translation of WordPress - 5.2.x - Development in Ukrainian
+# This file is distributed under the same license as the WordPress - 5.2.x - Development package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-05-18 10:03:42+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: uk_UA\n"
+"Project-Id-Version: WordPress - 5.2.x - Development\n"
+
+#: wp-includes/script-loader.php:1992
+msgctxt "Google Font Name and Variants"
+msgid "Noto Serif:400,400i,700,700i"
+msgstr "Noto Serif:400,400i,700,700i"
+
+#. translators: If comment number in your language requires declension, *
+#. translate this to 'on'. Do not translate into your own language.
+#: wp-includes/comment-template.php:909
+msgctxt "Comment number declension: on or off"
+msgid "off"
+msgstr "off"
+
+#. translators: Translate this to the correct language tag for your locale, *
+#. see https://www.w3.org/International/articles/language-tags/ for reference.
+#. * Do not translate into your own language.
+#: wp-includes/general-template.php:780
+msgid "html_lang_attribute"
+msgstr "uk"
+
+#. translators: If months in your language require a genitive case, * translate
+#. this to 'on'. Do not translate into your own language.
+#: wp-includes/functions.php:221
+msgctxt "decline months names: on or off"
+msgid "off"
+msgstr "on"
+
+#. translators: If there are characters in your language that are not supported
+#. * by Open Sans, translate this to 'off'. Do not translate into your own
+#. language.
+#: wp-includes/script-loader.php:1900
+msgctxt "Open Sans font: on or off"
+msgid "on"
+msgstr "on"
+
+#. translators: 'rtl' or 'ltr'. This sets the text direction for WordPress.
+#: wp-includes/class-wp-locale.php:222
+msgctxt "text direction"
+msgid "ltr"
+msgstr "ltr"
+
+#. translators: closing curly single quote
+#: wp-includes/formatting.php:113
+msgctxt "closing curly single quote"
+msgid "&#8217;"
+msgstr "&#8217;"
+
+#. translators: opening curly single quote
+#: wp-includes/formatting.php:111
+msgctxt "opening curly single quote"
+msgid "&#8216;"
+msgstr "&#8216;"
+
+#. translators: closing curly double quote
+#: wp-includes/formatting.php:100
+msgctxt "closing curly double quote"
+msgid "&#8221;"
+msgstr "&#8221;"
+
+#. translators: opening curly double quote
+#: wp-includes/formatting.php:98 wp-includes/formatting.php:5241
+msgctxt "opening curly double quote"
+msgid "&#8220;"
+msgstr "&#8220;"
+
+#. translators: $thousands_sep argument for
+#. https://secure.php.net/number_format, default is ,
+#: wp-includes/class-wp-locale.php:200
+msgid "number_format_thousands_sep"
+msgstr " "
+
+#. translators: $dec_point argument for https://secure.php.net/number_format,
+#. default is .
+#: wp-includes/class-wp-locale.php:213
+msgid "number_format_decimal_point"
+msgstr ","
+
+#: wp-includes/load.php:152
+msgid "Insufficient Requirements"
+msgstr "Невідповідність вимогам"
+
+#. translators: 1: link to tutorial, 2: additional link attributes, 3:
+#. accessibility text
+#: wp-includes/media-template.php:167
+msgid "<a href=\"%1$s\" %2$s>Describe the purpose of the image%3$s</a>. Leave empty if the image is purely decorative."
+msgstr "<a href=\"%1$s\" %2$s>Опишіть призначення зображення%3$s</a>. Залиште порожнім, якщо зображення є тільки елементом декору."
+
+#. translators: %s: theme name
+#: wp-includes/class-wp-recovery-mode-email-service.php:263
+msgid "In this case, WordPress caught an error with your theme, %s."
+msgstr "Цього разу WordPress знайшов помилку з темою - %s."
+
+#. translators: %s: plugin name
+#: wp-includes/class-wp-recovery-mode-email-service.php:257
+msgid "In this case, WordPress caught an error with one of your plugins, %s."
+msgstr "Цього разу WordPress знайшов помилку з одним із плагінів - %s."
+
+#. translators: Do not translate LINK, EXPIRES, CAUSE, DETAILS, SITEURL,
+#. PAGEURL, SUPPORT: those are placeholders.
+#: wp-includes/class-wp-recovery-mode-email-service.php:135
+msgid ""
+"Howdy!\n"
+"\n"
+"Since WordPress 5.2 there is a built-in feature that detects when a plugin or theme causes a fatal error on your site, and notifies you with this automated email.\n"
+"###CAUSE###\n"
+"First, visit your website (###SITEURL###) and check for any visible issues. Next, visit the page where the error was caught (###PAGEURL###) and check for any visible issues.\n"
+"\n"
+"###SUPPORT###\n"
+"\n"
+"If your site appears broken and you can't access your dashboard normally, WordPress now has a special \"recovery mode\". This lets you safely login to your dashboard and investigate further.\n"
+"\n"
+"###LINK###\n"
+"\n"
+"To keep your site safe, this link will expire in ###EXPIRES###. Don't worry about that, though: a new link will be emailed to you if the error occurs again after it expires.\n"
+"\n"
+"###DETAILS###"
+msgstr ""
+"Привіт!\n"
+"\n"
+"Починаючи з версії 5.2 WordPress може визначати виникаючі помилки з плагінами або темою на сайті і надсилати вам таке повідомлення автоматично.\n"
+"###CAUSE###\n"
+"Спочатку зайдіть на ваш сайт (###SITEURL###) і перевірте всі видимі проблеми. Далі, зайдіть на сторінку, на якій виникла помилка (###PAGEURL###) і перевірте видимі проблеми на ній.\n"
+"\n"
+"###SUPPORT###\n"
+"\n"
+"Якщо ваш сайт зламаний і ви не зможете нормально увійти в майстерню, тепер можна використовувати спеціальний \"режим відновлення\", який дозволить безпечно увійти в майстерню для подальших дій.\n"
+"\n"
+"###LINK###\n"
+"\n"
+"З метою безпеки дія цього посилання закінчується через ###EXPIRES###. Але не турбуйтеся, якщо помилка виникне знову після закінчення цього часу, то вам буде надіслано нове посилання.\n"
+"\n"
+"###DETAILS###"
+
+#: wp-includes/class-wp-recovery-mode-email-service.php:132
+msgid "Please contact your host for assistance with investigating this issue further."
+msgstr "Будь ласка, зверніться в технічну підтримку хостингу для подальшої діагностики цієї проблеми."
+
+#: wp-includes/class-wp-fatal-error-handler.php:173
+msgid "The site is experiencing technical difficulties. Please check your site admin email inbox for instructions."
+msgstr "На сайті виникли проблеми технічного характеру. Будь ласка, перевірте вхідні повідомлення пошти адміністратора для подальших інструкцій."
+
+#: wp-includes/class-wp-recovery-mode.php:177
+msgid "Error occurred on a non-protected endpoint."
+msgstr "Виникла помилка на не захищеній точці підключення."
+
+#. translators: %s: Login screen title.
+#: wp-login.php:69
+msgid "Recovery Mode &#8212; %s"
+msgstr "Режим відновлення &#8212; %s"
+
+#. translators: Login details notification email subject. %s: Site title
+#: wp-includes/pluggable.php:1988
+msgid "[%s] Login Details"
+msgstr "[%s] Дані для входу на сайт"
+
+#: wp-includes/media-template.php:485 wp-includes/media-template.php:596
+#: wp-includes/media.php:3675
+msgid "Move to Trash"
+msgstr "Видалити в кошик"
+
+#: wp-includes/media-template.php:483 wp-includes/media-template.php:594
+#: wp-includes/media.php:3676
+msgid "Restore from Trash"
+msgstr "Відновити з кошика"
+
+#: wp-includes/wp-db.php:1131 wp-includes/wp-db.php:1676
+#: wp-includes/wp-db.php:1834
+msgid "https://wordpress.org/support/forums/"
+msgstr "https://uk.wordpress.org/support/forums/"
+
+#: wp-includes/admin-bar.php:173
+msgid "Support"
+msgstr "Підтримка"
+
+#. translators: Network admin email change notification email subject. %s:
+#. Network title
+#: wp-includes/ms-functions.php:2708
+msgid "[%s] Network Admin Email Changed"
+msgstr "[%s] Email адреса адміністратора мережі змінена"
+
+#. translators: Email change notification email subject. %s: Network title
+#: wp-includes/ms-functions.php:2649
+msgid "[%s] Network Admin Email Change Request"
+msgstr "[%s] Запит на зміну Email адреси адміністратора мережі"
+
+#. translators: Site admin email change notification email subject. %s: Site
+#. title
+#: wp-includes/functions.php:6610
+msgid "[%s] Admin Email Changed"
+msgstr "[%s] Email адреса адміністратора змінена"
+
+#. translators: New email address notification email subject. %s: Site name
+#: wp-includes/user.php:2813
+msgid "[%s] Email Change Request"
+msgstr "[%s] Запит на зміну Email адреси"
+
+#. translators: Email change notification email subject. %s: Site name
+#: wp-includes/user.php:2031
+msgid "[%s] Email Changed"
+msgstr "[%s] Адреса Email змінена"
+
+#: wp-includes/js/dist/block-library.js:20036
+msgid "Tag Cloud Settings"
+msgstr "Налаштування хмари позначок"
+
+#: wp-includes/js/dist/block-library.js:19998
+msgid "- Select -"
+msgstr "- Оберіть -"
+
+#: wp-includes/js/dist/block-library.js:19893
+msgid "feed"
+msgstr "feed"
+
+#: wp-includes/js/dist/block-library.js:19893
+msgid "atom"
+msgstr "atom"
+
+#: wp-includes/js/dist/block-library.js:19890
+msgid "Display entries from any RSS or Atom feed."
+msgstr "Показати елементи з будь-якої RSS- або Atom-стрічки."
+
+#: wp-includes/js/dist/block-library.js:19842
+msgid "Max number of words in excerpt"
+msgstr "Максимальна кількість слів в уривку"
+
+#: wp-includes/js/dist/block-library.js:19838
+msgid "Display excerpt"
+msgstr "Показувати уривок"
+
+#: wp-includes/js/dist/block-library.js:19834
+msgid "Display date"
+msgstr "Показувати дату"
+
+#: wp-includes/js/dist/block-library.js:19830
+msgid "Display author"
+msgstr "Показувати автора"
+
+#: wp-includes/js/dist/block-library.js:19817
+msgid "RSS Settings"
+msgstr "Налаштування RSS"
+
+#: wp-includes/js/dist/block-library.js:19789
+msgid "Edit RSS URL"
+msgstr "Редагувати URL RSS-стрічки"
+
+#: wp-includes/js/dist/block-library.js:19784
+msgid "Use URL"
+msgstr "Використати URL"
+
+#: wp-includes/js/dist/block-library.js:19773
+msgid "Enter URL here…"
+msgstr "Введіть URL тут…"
+
+#: wp-includes/js/dist/block-library.js:19640
+msgid "find"
+msgstr "знайти"
+
+#: wp-includes/js/dist/block-library.js:19637
+msgid "Help visitors find your content."
+msgstr "Допоможіть відвідувачам знайти вміст."
+
+#: wp-includes/js/dist/block-library.js:19610
+msgid "Add button text…"
+msgstr "Додати текст кнопки..."
+
+#: wp-includes/js/dist/block-library.js:19609
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: wp-includes/js/dist/block-library.js:19599
+msgid "Optional placeholder…"
+msgstr "Необов'язковий заповнювач..."
+
+#: wp-includes/js/dist/block-library.js:19595
+msgid "Optional placeholder text"
+msgstr "Необов'язковий текст для заповнення"
+
+#: wp-includes/js/dist/block-library.js:19584
+msgid "Add label…"
+msgstr "Додати мітку..."
+
+#: wp-includes/js/dist/block-library.js:19583
+msgid "Label text"
+msgstr "Текст мітки"
+
+#: wp-includes/js/dist/block-library.js:19008
+msgid "Content before this block will be shown in the excerpt on your archives page."
+msgstr "Вміст до цього блоку буде показано як уривок на сторінці архівів."
+
+#: wp-includes/js/dist/block-library.js:18962
+msgid "Hide the excerpt on the full content page"
+msgstr "Приховати уривок на повній сторінці вмісту"
+
+#: wp-includes/js/dist/block-library.js:18942
+msgid "The excerpt is visible."
+msgstr "Уривок видимий."
+
+#: wp-includes/js/dist/block-library.js:18942
+msgid "The excerpt is hidden."
+msgstr "Уривок прихований."
+
+#: wp-includes/js/dist/block-library.js:18479
+msgid "archive"
+msgstr "архів"
+
+#: wp-includes/js/dist/block-library.js:18479
+msgid "posts"
+msgstr "записи"
+
+#: wp-includes/js/dist/block-library.js:18476
+msgid "A calendar of your site’s posts."
+msgstr "Календар записів сайту."
+
+#: wp-includes/js/dist/block-library.js:17620
+msgid "link"
+msgstr "посилання"
+
+#: wp-includes/js/dist/block-library.js:17609
+msgid "Prompt visitors to take action with a button-style link."
+msgstr "Спонукаєте відвідувачів до дії посиланням у вигляді кнопки."
+
+#: wp-includes/js/dist/block-library.js:14903
+msgid "Focal Point Picker"
+msgstr "Вибір точки фокусування"
+
+#. translators: %1$d is the order number of the image, %2$d is the total number
+#. of images.
+#: wp-includes/js/dist/block-library.js:13297
+msgid "image %1$d of %2$d in gallery"
+msgstr "Зображення в галереї %1$d з %2$d"
+
+#: wp-includes/js/dist/block-library.js:13248
+msgid "Edit gallery"
+msgstr "Редагувати галерею"
+
+#: wp-includes/js/dist/block-library.js:11594
+msgid "Display a legacy widget."
+msgstr "Показувати застарілий віджет."
+
+#: wp-includes/js/dist/block-library.js:11593
+msgid "Legacy Widget (Experimental)"
+msgstr "Застарілий віджет (експериментальний)"
+
+#: wp-includes/js/dist/block-library.js:11509
+msgid "Change widget"
+msgstr "Змінити віджет"
+
+#: wp-includes/js/dist/block-library.js:11495
+msgid "Legacy Widget"
+msgstr "Застарілий віджет"
+
+#: wp-includes/js/dist/block-library.js:11470
+msgid "Select a legacy widget to display:"
+msgstr "Виберіть застарілий віджет для відображення:"
+
+#: wp-includes/js/dist/block-library.js:11467
+msgid "There are no widgets available."
+msgstr "Немає доступних віджетів."
+
+#: wp-includes/js/dist/block-library.js:11465
+msgid "You don't have permissions to use widgets on this site."
+msgstr "У вас немає доступу для використання віджетів на цьому сайті."
+
+#: wp-includes/js/dist/block-library.js:11315
+msgid "Not a valid widget."
+msgstr "Невірний віджет."
+
+#. translators: %s: host providing embed content e.g: www.youtube.com
+#: wp-includes/js/dist/block-library.js:4007
+msgid "Embedded content from %s can't be previewed in the editor."
+msgstr "Вбудований вміст від %s не може бути переглянуто в редакторі."
+
+#: wp-includes/js/dist/block-library.js:3772
+msgid "Sorry, this content could not be embedded."
+msgstr "На жаль, цей вміст не може бути вбудовано."
+
+#: wp-includes/js/dist/block-library.js:3596
+msgid "Embed Amazon Kindle content."
+msgstr "Вставити вміст Amazon Kindle."
+
+#: wp-includes/js/dist/block-library.js:3594
+msgid "ebook"
+msgstr "ebook"
+
+#: wp-includes/js/dist/edit-post.js:5665
+msgid "Read about permalinks"
+msgstr "Прочитайте про постійні посилання"
+
+#: wp-includes/js/dist/edit-post.js:5663
+msgid "The last part of the URL. "
+msgstr "Остання частина URL."
+
+#: wp-includes/js/dist/edit-post.js:5630
+msgid "URL Slug"
+msgstr "Частина посилання URL"
+
+#: wp-includes/js/dist/edit-post.js:3421
+msgid "You’ll find more settings for your page and blocks in the sidebar. Click the cog icon to toggle the sidebar open and closed."
+msgstr "На бічній панелі є більше налаштувань для вашої сторінки і блоків. Натисніть на значок зі стрілкою для відкриття або закриття бічної панелі."
+
+#: wp-includes/js/dist/edit-post.js:3064
+msgid "Fullscreen mode deactivated"
+msgstr "Повноекранний режим вимкнений"
+
+#: wp-includes/js/dist/edit-post.js:3063
+msgid "Fullscreen mode activated"
+msgstr "Повноекранний режим увімкнений"
+
+#: wp-includes/js/dist/edit-post.js:3057
+msgid "Spotlight mode deactivated"
+msgstr "Режим підсвічування вимкнений"
+
+#: wp-includes/js/dist/edit-post.js:3056
+msgid "Spotlight mode activated"
+msgstr "Режим підсвічування увімкнений"
+
+#: wp-includes/js/dist/edit-post.js:3050
+msgid "Top toolbar deactivated"
+msgstr "Верхня панель інструментів вимкнена"
+
+#: wp-includes/js/dist/edit-post.js:3049
+msgid "Top toolbar activated"
+msgstr "Верхня панель інструментів увімкнена"
+
+#: wp-includes/js/dist/edit-post.js:2998
+msgid "Feature activated"
+msgstr "Особливість увімкнена"
+
+#: wp-includes/js/dist/edit-post.js:2996
+msgid "Feature deactivated"
+msgstr "Особливість вимкнена"
+
+#: wp-includes/js/dist/edit-post.js:1430 wp-includes/js/dist/edit-post.js:4215
+msgid "Block Manager"
+msgstr "Менеджер блоків"
+
+#: wp-includes/js/dist/block-editor.js:18013
+msgid "Change block type or style"
+msgstr "Змінити тип або стиль блоку"
+
+#: wp-includes/js/dist/block-editor.js:17081
+#: wp-includes/js/dist/block-library.js:6537
+#: wp-includes/js/dist/block-library.js:16785
+#: wp-includes/js/dist/block-library.js:17628
+#: wp-includes/js/dist/block-library.js:19440
+msgctxt "block style"
+msgid "Default"
+msgstr "За замовчуванням"
+
+#: wp-includes/js/dist/block-editor.js:14343
+msgctxt "keyboard key"
+msgid "Space"
+msgstr "Пропуск"
+
+#: wp-includes/js/dist/block-editor.js:14336
+msgctxt "keyboard key"
+msgid "Backspace"
+msgstr "Backspace"
+
+#: wp-includes/js/dist/block-editor.js:13804
+msgid "More Rich Text Controls"
+msgstr "Більше елементів форматування Rich Text"
+
+#: wp-includes/js/dist/block-editor.js:9973
+msgid "Attempt Block Recovery"
+msgstr "Спроба відновлення блоку"
+
+#: wp-includes/js/dist/editor.js:11861
+msgid "Search Terms"
+msgstr "Критерії пошуку"
+
+#: wp-includes/js/dist/editor.js:11390
+msgid "Stick to the top of the blog"
+msgstr "Прикріпити наверх блогу"
+
+#: wp-includes/js/dist/editor.js:9434
+msgid "Exit the Editor"
+msgstr "Вийти з редактора"
+
+#: wp-includes/js/dist/components.js:32290
+msgid "Vertical Pos."
+msgstr "Вертикальна позиція"
+
+#: wp-includes/js/dist/components.js:32279
+msgid "Horizontal Pos."
+msgstr "Горизонтальна позиція"
+
+#: wp-includes/js/dist/components.js:30126
+msgid "Custom Color"
+msgstr "Довільний колір"
+
+#: wp-includes/class-wp-recovery-mode.php:246
+msgid "Failed to exit recovery mode. Please try again later."
+msgstr "Помилка виходу з режиму відновлення. Спробуйте знову пізніше."
+
+#: wp-includes/class-wp-recovery-mode.php:242
+msgid "Exit recovery mode link expired."
+msgstr "Час посилання для виходу з режиму відновлення минув."
+
+#: wp-includes/class-wp-recovery-mode.php:188
+msgid "Failed to store the error."
+msgstr "Збереження тексту помилки не вдалося."
+
+#: wp-includes/class-wp-recovery-mode.php:172
+msgid "Error not caused by a plugin or theme."
+msgstr "Помилка не викликана плагіном або темою."
+
+#. translators: %s: site name
+#: wp-includes/class-wp-recovery-mode-email-service.php:177
+msgid "[%s] Your Site is Experiencing a Technical Issue"
+msgstr "[%s] На сайті виникли технічні проблеми"
+
+#: wp-includes/class-wp-recovery-mode-email-service.php:117
+msgid "Error Details"
+msgstr "Деталі помилки"
+
+#. translators: 1. Last sent as a human time diff 2. Wait time as a human time
+#. diff.
+#: wp-includes/class-wp-recovery-mode-email-service.php:70
+msgid "A recovery link was already sent %1$s ago. Please wait another %2$s before requesting a new email."
+msgstr "Посилання відновлення вже відіслане %1$s тому. Будь ласка, зачекайте ще %2$s перед тим, як запитати нове."
+
+#: wp-includes/class-wp-recovery-mode-email-service.php:65
+msgid "The email could not be sent. Possible reason: your host may have disabled the mail() function."
+msgstr "Повідомлення email не може бути відіслано. Можлива причина: ваш хостинг вимкнув функцію mail()."
+
+#: wp-includes/class-wp-recovery-mode-email-service.php:56
+msgid "Could not update the email last sent time."
+msgstr "Неможливо оновити час останнього відправлення поштового повідомлення."
+
+#: wp-includes/class-wp-recovery-mode-key-service.php:113
+msgid "Recovery key expired."
+msgstr "Дія ключа відновлення минула."
+
+#: wp-includes/class-wp-recovery-mode-key-service.php:109
+msgid "Invalid recovery key."
+msgstr "Невірний ключ відновлення."
+
+#: wp-includes/class-wp-recovery-mode-key-service.php:105
+msgid "Invalid recovery key format."
+msgstr "Невірний формат ключа відновлення."
+
+#: wp-includes/class-wp-recovery-mode-key-service.php:97
+msgid "Recovery Mode not initialized."
+msgstr "Режим відновлення не ініціалізовано."
+
+#. translators: user role for subscriber
+#: wp-includes/capabilities.php:994
+msgctxt "User role"
+msgid "Subscriber"
+msgstr "Учасник"
+
+#. translators: user role for contributors
+#: wp-includes/capabilities.php:992
+msgctxt "User role"
+msgid "Contributor"
+msgstr "Помічник"
+
+#. translators: user role for authors
+#: wp-includes/capabilities.php:990
+msgctxt "User role"
+msgid "Author"
+msgstr "Автор"
+
+#. translators: user role for editors
+#: wp-includes/capabilities.php:988
+msgctxt "User role"
+msgid "Editor"
+msgstr "Редактор"
+
+#. translators: user role for administrators
+#: wp-includes/capabilities.php:986
+msgctxt "User role"
+msgid "Administrator"
+msgstr "Адміністратор"
+
+#: wp-includes/customize/class-wp-customize-media-control.php:240
+msgid "Select site icon"
+msgstr "Виберіть значок сайту"
+
+#: wp-includes/user.php:3353
+msgid "An incomplete request for this email address already exists."
+msgstr "Для цієї адреси вже існує незавершений запит."
+
+#: wp-includes/media.php:3757
+msgid "Attachments list"
+msgstr "Список вкладень"
+
+#: wp-includes/class-wp-customize-widgets.php:780
+msgid "Keep widget settings and move it to the inactive widgets"
+msgstr "Збереження налаштувань віджетів і переміщення його в неактивні віджети"
+
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:103
+msgid "Invalid cookie."
+msgstr "Невірні cookie."
+
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:96
+msgid "Cookie expired."
+msgstr "Cookie минули."
+
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:83
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:152
+msgid "Invalid cookie format."
+msgstr "Невірний формат cookie."
+
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:68
+#: wp-includes/class-wp-recovery-mode-cookie-service.php:123
+msgid "No cookie present."
+msgstr "Немає cookie."
+
+#. translators: 1: error type, 2: error line number, 3: error file name, 4:
+#. error message
+#: wp-includes/error-protection.php:64
+msgid "An error of type %1$s was caused in line %2$s of the file %3$s. Error message: %4$s"
+msgstr "Помилка з типом %1$s виникла на рядку %2$s файлу %3$s. Повідомлення про помилку: %4$s"
+
+#: wp-includes/class-wp-theme.php:295
+msgid "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+msgstr "https://developer.wordpress.org/themes/advanced-topics/child-themes/"
+
+#: wp-includes/blocks/tag-cloud.php:33
+msgid "No terms to show."
+msgstr "Немає елементів для показу."
+
+#. translators: %s: the amount of additional, not visible images in the gallery
+#. widget preview.
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:217
+msgid "Additional images added to this gallery: %s"
+msgstr "Додаткові зображення додані до цієї галереї: %s"
+
+#. translators: %s: the image file name.
+#: wp-includes/widgets/class-wp-widget-media-image.php:358
+#: wp-includes/widgets/class-wp-widget-media-gallery.php:203
+msgid "The current image has no alternative text. The file name is: %s"
+msgstr "Поточне зображення не має альтернативного тексту. Ім'я файлу: %s"
+
+#: wp-includes/admin-bar.php:1070
+msgid "Exit Recovery Mode"
+msgstr "Вийти з режиму відновлення"
+
+#. translators: %s: number of comments in moderation
+#: wp-includes/admin-bar.php:890
+msgid "%s Comment in moderation"
+msgid_plural "%s Comments in moderation"
+msgstr[0] "%s коментар чекає схвалення"
+msgstr[1] "%s коментарі чекають схвалення"
+msgstr[2] "%s коментарів чекають схвалення"
+
+#: wp-content/plugins/hello.php:62
+msgid "Quote from Hello Dolly song, by Jerry Herman:"
+msgstr "Цитата з пісні Dolly song від Jerry Herman:"
+
+#: wp-login.php:1037
+msgid "Recovery Mode Initialized. Please log in to continue."
+msgstr "Режим відновлення ініціалізовано. Будь ласка, увійдіть, щоб продовжити."
+
+#: wp-login.php:954
+msgid "https://wordpress.org/support/article/cookies/#enable-cookies-in-your-browser"
+msgstr "https://wordpress.org/support/article/cookies/#enable-cookies-in-your-browser"
+
+#: wp-login.php:943
+msgid "https://wordpress.org/support/article/cookies/"
+msgstr "https://wordpress.org/support/article/cookies/"
+
+#: wp-login.php:865 wp-includes/user.php:3591
+msgid "Missing confirm key."
+msgstr "Відсутній ключ підтвердження."
+
+#: wp-login.php:861
+msgid "Missing request ID."
+msgstr "Відсутній ID запиту."
+
+#: wp-login.php:147
+msgid "Usage of the title attribute on the login logo is not recommended for accessibility reasons. Use the link text instead."
+msgstr "Використання атрибута назви для логотипу входу не рекомендується з причин доступності. Використовуйте текстове посилання."
+
+#: wp-includes/functions.php:7028
+msgid "Update PHP"
+msgstr "Оновити PHP"
+
+#: wp-includes/ms-site.php:75
+msgid "Could not retrieve site data."
+msgstr "Неможливо отримати дані сайту."
+
+#: wp-includes/js/dist/block-library.js:3408
+msgid "Embed Crowdsignal (formerly Polldaddy) content."
+msgstr "Вставити вміст Crowdsignal (раніше Polldaddy)."
+
+#. translators: %s: rest_api_init
+#: wp-includes/rest-api.php:52
+msgid "REST API routes must be registered on the %s action."
+msgstr "Шляхи REST API повинні бути зареєстровані за допомогою дії %s."
+
+#. translators: used to join last two items in a list with more than 2 times
+#: wp-includes/formatting.php:4920
+msgid "%1$s, and %2$s"
+msgstr "%1$s і %2$s"
+
+#: wp-includes/post.php:417
+msgid "Failed <span class=\"count\">(%s)</span>"
+msgid_plural "Failed <span class=\"count\">(%s)</span>"
+msgstr[0] "Невдалі <span class=\"count\">(%s)</span>"
+msgstr[1] "Невдалі <span class=\"count\">(%s)</span>"
+msgstr[2] "Невдалі <span class=\"count\">(%s)</span>"
+
+#: wp-includes/class-walker-comment.php:271
+#: wp-includes/class-walker-comment.php:361
+msgid "Your comment is awaiting moderation. This is a preview, your comment will be visible after it has been approved."
+msgstr "Ваш коментар чекає схвалення. Це його попередній перегляд, коментар стане видимим для всіх після схвалення."
+
+#. translators: %s: database table name
+#: wp-includes/ms-site.php:1323
+msgid "The %s table is not installed. Please run the network database upgrade."
+msgstr "Таблиця %s не встановлена. Будь ласка, оновіть базу даних через меню \"Оновити мережу\"."
+
+#: wp-includes/ms-site.php:810
+msgid "The site appears to be already uninitialized."
+msgstr "Схоже, що цей сайт вже деініціалізований."
+
+#. translators: %d: site ID
+#: wp-includes/ms-site.php:692
+msgid "Site %d"
+msgstr "Сайт %d"
+
+#: wp-includes/ms-site.php:679
+msgid "The site appears to be already initialized."
+msgstr "Схоже, що цей сайт вже проініціалізований."
+
+#: wp-includes/ms-site.php:675 wp-includes/ms-site.php:806
+msgid "Site with the ID does not exist."
+msgstr "Сайт з зазначеним ID не існує."
+
+#: wp-includes/ms-site.php:619
+msgid "Both registration and last updated dates must be valid dates."
+msgstr "Дата реєстрації і дата останнього оновлення повинні бути дійсними датами."
+
+#: wp-includes/ms-site.php:608
+msgid "Both registration and last updated dates must be provided."
+msgstr "Повинні бути вказані дата реєстрації та дата останнього оновлення."
+
+#: wp-includes/ms-site.php:601
+msgid "Site network ID must be provided."
+msgstr "Повинен бути зазначений мережевий ідентифікатор сайту."
+
+#: wp-includes/ms-site.php:596
+msgid "Site path must not be empty."
+msgstr "Шлях до сайту не може бути порожнім."
+
+#: wp-includes/ms-site.php:591
+msgid "Site domain must not be empty."
+msgstr "Домен сайту не може бути порожнім."
+
+#: wp-includes/ms-site.php:262
+msgid "Could not delete site from the database."
+msgstr "Неможливо видалити сайт з бази даних."
+
+#: wp-includes/ms-site.php:173
+msgid "Could not update site in the database."
+msgstr "Неможливо оновити сайт в базі даних."
+
+#: wp-includes/ms-site.php:159 wp-includes/ms-site.php:212
+msgid "Site does not exist."
+msgstr "Сайт не існує."
+
+#: wp-includes/ms-site.php:154 wp-includes/ms-site.php:207
+#: wp-includes/ms-site.php:670 wp-includes/ms-site.php:801
+msgid "Site ID must not be empty."
+msgstr "ID сайту не може бути порожнім."
+
+#: wp-includes/ms-site.php:69
+msgid "Could not insert site into the database."
+msgstr "Неможливо додати сайт в базу даних."
+
+#: wp-includes/ms-functions.php:2015
+msgid "Unable to submit this form, please try again."
+msgstr "Неможливо відправити цю форму, будь ласка, спробуйте знову."
+
+#: wp-includes/taxonomy.php:165
+msgctxt "post format"
+msgid "Formats"
+msgstr "Формати"
+
+#. translators: used to join items in a list with more than 2 items
+#: wp-includes/formatting.php:4918
+msgid "%1$s, %2$s"
+msgstr "%1$s, %2$s"
+
+#. translators: %s: default Update PHP page URL
+#: wp-includes/functions.php:6971
+msgid "This resource is provided by your web host, and is specific to your site. For more information, <a href=\"%s\" target=\"_blank\">see the official WordPress documentation</a>."
+msgstr "Це посилання надано вашим хостингом і є специфічним для вашого сайту. Для докладної інформації дивіться <a href=\"%s\" target=\"_blank\">офіційну документацію WordPress</a>."
+
+#: wp-includes/functions.php:6928
+msgctxt "localized PHP upgrade information page"
+msgid "https://wordpress.org/support/update-php/"
+msgstr "https://uk.wordpress.org/support/update-php/"
+
+#. translators: Time duration in second or seconds.
+#: wp-includes/functions.php:389
+msgid "%s second"
+msgid_plural "%s seconds"
+msgstr[0] "%s секунда"
+msgstr[1] "%s секунди"
+msgstr[2] "%s секунд"
+
+#. translators: Time duration in minute or minutes.
+#: wp-includes/functions.php:383
+msgid "%s minute"
+msgid_plural "%s minutes"
+msgstr[0] "%s хвилина"
+msgstr[1] "%s хвилини"
+msgstr[2] "%s хвилин"
+
+#: wp-includes/class-wp-fatal-error-handler.php:175
+msgid "The site is experiencing technical difficulties."
+msgstr "На сайті виникли тимчасові технічні проблеми."
+
+#. translators: 1: a number of pixels wide, 2: a number of pixels tall.
+#: wp-includes/media-template.php:389 wp-includes/media-template.php:574
+msgid "%1$s by %2$s pixels"
+msgstr "%1$s на %2$s пікселів"
+
+#: wp-includes/class-wp-theme.php:375
+msgid "This theme failed to load properly and was paused within the admin backend."
+msgstr "Ця тема не була правильно завантажена і була зупинена в майстерні адміністратора."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:368
+msgid "Whether to show the taxonomy in the quick/bulk edit panel."
+msgstr "Показувати таксономію в панелі швидкого і масового редагування."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:364
+msgid "Whether to make the taxonomy available for selection in navigation menus."
+msgstr "Дозволити таксономію для вибору в налаштуваннях навігаційного меню."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:360
+msgid "Whether to allow automatic creation of taxonomy columns on associated post-types table."
+msgstr "Дозволити автоматичні створення стовпців таксономії в асоційованій таблиці post-types."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:356
+msgid "Whether to generate a default UI for managing this taxonomy."
+msgstr "Створювати інтерфейс за замовчуванням для управління цією таксономією."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:352
+msgid "Whether the taxonomy is publicly queryable."
+msgstr "Можливість публічного запиту таксономії."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:348
+msgid "Whether a taxonomy is intended for use publicly either via the admin interface or by front-end users."
+msgstr "Призначення використання таксономії через інтерфейс адміністрування або відвідувачами сайту."
+
+#: wp-login.php:343 wp-login.php:366 wp-includes/user.php:2218
+msgid "<strong>ERROR</strong>: There is no account with that username or email address."
+msgstr "<strong>ПОМИЛКА</strong>: Облікового запису з даним ім'ям користувача або email не існує."
+
+#: wp-includes/js/dist/nux.js:881
+msgid "Editor tips"
+msgstr "Поради по редагуванню"
+
+#: wp-includes/js/dist/block-library.js:9113
+msgctxt "content placeholder"
+msgid "Content…"
+msgstr "Вміст…"
+
+#: wp-includes/js/dist/block-library.js:3778
+msgctxt "button label"
+msgid "Convert to link"
+msgstr "Перетворити на посилання"
+
+#: wp-includes/js/dist/block-library.js:3775
+msgctxt "button label"
+msgid "Try again"
+msgstr "Спробувати знову"
+
+#. translators: %s: font size name
+#: wp-includes/js/dist/components.js:32588
+msgid "Font size: %s"
+msgstr "Розмір шрифту: %s"
+
+#: wp-includes/class-wp.php:299 wp-includes/ms-deprecated.php:275
+#: wp-includes/ms-deprecated.php:294
+msgid "A variable mismatch has been detected."
+msgstr "Виявлено розбіжність змінних."
+
+#: wp-activate.php:30
+msgid "A key value mismatch has been detected. Please follow the link provided in your activation email."
+msgstr "Виявлено невідповідність основних значень. Будь ласка, перейдіть за посиланням, наведеним у вашому активаційному листі."
+
+#. translators: ARIA label for the Block sidebar tab, selected.
+#: wp-includes/js/dist/edit-post.js:5049
+msgid "Block (selected)"
+msgstr "Блок (обрано)"
+
+#. translators: ARIA label for the Document sidebar tab, selected.
+#: wp-includes/js/dist/edit-post.js:5042
+msgid "Document (selected)"
+msgstr "Документ (обрано)"
+
+#: wp-includes/js/dist/block-library.js:12700
+msgid "Create content, and save it for you and other contributors to reuse across your site. Update the block, and the changes apply everywhere it’s used."
+msgstr "Створіть вміст і збережіть його для вас та інших помічників для повторного використання на своєму сайті. Оновіть блок, і зміни застосовуються скрізь, де він використовується."
+
+#: wp-includes/js/dist/edit-post.js:3046
+msgid "Top Toolbar"
+msgstr "Верхня панель інструментів"
+
+#. translators: %d: number of words
+#: wp-includes/js/dist/block-editor.js:17207
+msgid "%d word"
+msgid_plural "%d words"
+msgstr[0] "%d слово"
+msgstr[1] "%d слова"
+msgstr[2] "%d слів"
+
+#: wp-includes/class-wp-editor.php:1292
+msgid "Classic Block Keyboard Shortcuts"
+msgstr "Гарячі клавіші (блок класичного редактора)"
+
+#: wp-includes/js/dist/block-library.js:10421
+msgid "This image has an empty alt attribute"
+msgstr "Це зображення має порожній атрибут alt"
+
+#: wp-includes/js/dist/block-library.js:10419
+msgid "This image has an empty alt attribute; its file name is %s"
+msgstr "Це зображення має порожній атрибут alt; ім'я файлу %s"
+
+#: wp-includes/js/dist/edit-post.js:4619 wp-includes/js/dist/edit-post.js:5624
+msgid "Permalink"
+msgstr "Постійне посилання"
+
+#: wp-includes/js/dist/editor.js:8662
+msgid "To edit the featured image, you need permission to upload media."
+msgstr "Щоб відредагувати головне зображення, вам потрібен дозвіл на завантаження медіафайлів."
+
+#: wp-includes/js/dist/block-editor.js:16123
+msgid "Given your current role, you can only link a video, you cannot upload."
+msgstr "З огляду на вашу поточну роль ви можете лише дати посилання на відео, ви не можете його завантажити."
+
+#: wp-includes/js/dist/block-editor.js:16121
+msgid "Given your current role, you can only link an image, you cannot upload."
+msgstr "З огляду на вашу поточну роль ви можете лише дати посилання на зображення, ви не можете його завантажити."
+
+#: wp-includes/js/dist/block-editor.js:16119
+msgid "Given your current role, you can only link an audio, you cannot upload."
+msgstr "З огляду на вашу поточну роль ви можете лише дати посилання на аудіо, ви не можете його завантажити."
+
+#: wp-includes/js/dist/block-editor.js:16116
+msgid "Given your current role, you can only link a media file, you cannot upload."
+msgstr "З огляду на вашу поточну роль ви можете лише дати посилання на медіа файл, ви не можете його завантажити."
+
+#: wp-includes/js/dist/block-editor.js:16095
+msgid "To edit this block, you need permission to upload media."
+msgstr "Щоб відредагувати цей блок, вам потрібен дозвіл на завантаження медіафайлів."
+
+#: wp-includes/js/dist/block-editor.js:8301
+msgid "(selected block)"
+msgstr "(вибраний блок)"
+
+#: wp-includes/js/dist/block-editor.js:10530
+msgid "Block tools"
+msgstr "Інструменти блоку"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:162
+msgid "Sorry, you are not allowed to view autosaves of this post."
+msgstr "На жаль, ви не маєте права переглядати автозбереження цього запису."
+
+#: wp-includes/js/dist/annotations.js:1032
+msgid "Annotation"
+msgstr "Примітка"
+
+#: wp-includes/js/dist/block-library.js:5733
+msgid "Empty block; start writing or type forward slash to choose a block"
+msgstr "Порожній блок; почніть писати або напишіть скісну риску (/), щоб вибрати блок"
+
+#: wp-includes/js/dist/block-library.js:5733
+msgid "Paragraph block"
+msgstr "Блок параграфу"
+
+#: wp-includes/js/dist/block-editor.js:7515
+msgid "%s block selected."
+msgid_plural "%s blocks selected."
+msgstr[0] "%s блок обрано."
+msgstr[1] "%s блоки обрано."
+msgstr[2] "%s блоків обрано."
+
+#: wp-includes/js/dist/editor.js:12121
+msgid "Start writing with text or HTML"
+msgstr "Почніть писати текст або HTML-код"
+
+#: wp-includes/js/dist/editor.js:12113
+msgid "Type text or HTML"
+msgstr "Напишіть текст або HTML-код"
+
+#: wp-includes/js/dist/block-editor.js:12852
+#: wp-includes/js/dist/block-library.js:5734
+msgid "Start writing or type / to choose a block"
+msgstr "Почніть писати або натисніть / для вибору блоку"
+
+#: wp-includes/js/dist/block-editor.js:17990
+msgid "Block icon"
+msgstr "Значок блоку"
+
+#: wp-includes/js/dist/block-editor.js:7884
+msgid "Align text right"
+msgstr "Вирівняти текст вправо"
+
+#: wp-includes/js/dist/block-editor.js:7880
+msgid "Align text center"
+msgstr "Вирівняти текст по центру"
+
+#: wp-includes/js/dist/block-editor.js:7876
+msgid "Align text left"
+msgstr "Вирівняти текст вліво"
+
+#: wp-includes/js/dist/block-library.js:19127
+msgid "Page Break"
+msgstr "Розрив сторінки"
+
+#: wp-includes/js/dist/block-library.js:9271
+msgid "Stack on mobile"
+msgstr "Групувати на мобільних пристроях"
+
+#: wp-includes/js/dist/edit-post.js:4547
+msgid "Custom Fields"
+msgstr "Довільні поля"
+
+#: wp-includes/js/dist/editor.js:10983
+msgid "Scheduled"
+msgstr "Заплановано"
+
+#: wp-includes/js/dist/nux.js:889
+msgid "Disable tips"
+msgstr "Відключити поради"
+
+#: wp-includes/js/dist/nux.js:886
+msgid "Got it"
+msgstr "Зрозуміло"
+
+#: wp-includes/js/dist/nux.js:886
+msgid "See next tip"
+msgstr "Наступна порада"
+
+#: wp-includes/js/dist/keycodes.js:452
+msgid "Backtick"
+msgstr "Лапки"
+
+#: wp-includes/js/dist/keycodes.js:452
+msgid "Period"
+msgstr "Період"
+
+#: wp-includes/js/dist/keycodes.js:452
+msgid "Comma"
+msgstr "Кома"
+
+#: wp-includes/js/dist/api-fetch.js:683
+msgid "The response is not a valid JSON response."
+msgstr "Відповідь не є допустимою відповіддю JSON."
+
+#: wp-includes/js/dist/format-library.js:1168
+msgid "Link edited."
+msgstr "Посилання відредаговано."
+
+#. translators: accessibility label for external links, where the argument is
+#. the link text
+#: wp-includes/js/dist/format-library.js:904
+msgid "%s (opens in a new tab)"
+msgstr "%s (відкривається у новій вкладці)"
+
+#: wp-includes/js/dist/format-library.js:1360
+msgid "Link removed."
+msgstr "Посилання видалено."
+
+#: wp-includes/js/dist/format-library.js:652
+msgid "Inline Image"
+msgstr "Вбудоване зображення"
+
+#: wp-includes/js/dist/format-library.js:571
+msgid "media"
+msgstr "медіа"
+
+#: wp-includes/js/dist/block-library.js:15797
+msgid "movie"
+msgstr "фільм"
+
+#: wp-includes/js/dist/block-library.js:15795
+msgid "Embed a video from your media library or upload a new one."
+msgstr "Вставте відео з ваших медіафайлів або завантажте нове."
+
+#: wp-includes/js/dist/block-library.js:15747
+msgid "Remove Poster Image"
+msgstr "Видалити мініатюру"
+
+#: wp-includes/js/dist/block-library.js:15707
+msgid "Playback Controls"
+msgstr "Налаштування відтворення"
+
+#: wp-includes/js/dist/block-library.js:15703
+msgid "Muted"
+msgstr "Приглушений"
+
+#: wp-includes/js/dist/block-library.js:15693
+msgid "Video Settings"
+msgstr "Налаштування відео"
+
+#: wp-includes/js/dist/block-library.js:15689
+msgid "Edit video"
+msgstr "Редагувати відео"
+
+#: wp-includes/js/dist/block-library.js:8810
+msgid "Write…"
+msgstr "Напишіть…"
+
+#: wp-includes/js/dist/block-library.js:8757
+msgid "poetry"
+msgstr "поезія"
+
+#: wp-includes/js/dist/block-library.js:8746
+msgid "Insert poetry. Use special spacing formats. Or quote song lyrics."
+msgstr "Вставити вірші. Використовуйте спеціальні формати інтервалу. Або слова пісні."
+
+#: wp-includes/js/dist/block-library.js:8745
+msgid "Verse"
+msgstr "Вірш"
+
+#: wp-includes/js/dist/block-library.js:8691
+msgid "New Column"
+msgstr "Новий стовпець"
+
+#: wp-includes/js/dist/block-library.js:8590
+msgid "This block is deprecated. Please use the Columns block instead."
+msgstr "Цей блок застарів. Замість цього використовуйте блок «Стовпці»."
+
+#: wp-includes/js/dist/block-library.js:8589
+msgid "Text Columns (deprecated)"
+msgstr "Текстові стовпці (застарілий)"
+
+#: wp-includes/js/dist/block-library.js:8517
+msgid "Template block used as a container."
+msgstr "Використовувати шаблон блоку як контейнер."
+
+#: wp-includes/js/dist/block-library.js:8515
+msgid "Reusable Template"
+msgstr "Багаторазовий шаблон"
+
+#: wp-includes/js/dist/block-library.js:16789
+msgid "Stripes"
+msgstr "Смужки"
+
+#: wp-includes/js/dist/block-library.js:16760
+msgid "Insert a table — perfect for sharing charts and data."
+msgstr "Вставити таблицю — відмінний вибір для графіків і даних."
+
+#: wp-includes/js/dist/block-library.js:16641
+msgid "Fixed width table cells"
+msgstr "Клітинки таблиці з фіксованою шириною"
+
+#: wp-includes/js/dist/block-library.js:16638
+msgid "Table Settings"
+msgstr "Налаштування таблиці"
+
+#: wp-includes/js/dist/block-library.js:16635
+msgid "Edit table"
+msgstr "Редагувати таблицю"
+
+#: wp-includes/js/dist/block-library.js:16626
+msgid "Create"
+msgstr "Створити"
+
+#: wp-includes/js/dist/block-library.js:16619
+msgid "Row Count"
+msgstr "Кількість рядків"
+
+#: wp-includes/js/dist/block-library.js:16613
+msgid "Column Count"
+msgstr "Кількість колонок"
+
+#: wp-includes/js/dist/block-library.js:16522
+msgid "Delete Column"
+msgstr "Видалити стовпець"
+
+#: wp-includes/js/dist/block-library.js:16517
+msgid "Add Column After"
+msgstr "Додати стовпець після"
+
+#: wp-includes/js/dist/block-library.js:16512
+msgid "Add Column Before"
+msgstr "Додати стовпець до"
+
+#: wp-includes/js/dist/block-library.js:16507
+msgid "Delete Row"
+msgstr "Видалити рядок"
+
+#: wp-includes/js/dist/block-library.js:16502
+msgid "Add Row After"
+msgstr "Додати рядок після"
+
+#: wp-includes/js/dist/block-library.js:16497
+msgid "Add Row Before"
+msgstr "Додати рядок до"
+
+#: wp-includes/js/dist/block-library.js:8471
+msgid "Write subheading…"
+msgstr "Введіть підзаголовок…"
+
+#: wp-includes/js/dist/block-library.js:8409
+msgid "This block is deprecated. Please use the Paragraph block instead."
+msgstr "Цей блок застарів. Замість цього використовуйте блок «Параграф»."
+
+#: wp-includes/js/dist/block-library.js:8408
+msgid "Subheading (deprecated)"
+msgstr "Підзаголовок (застарілий)"
+
+#: wp-includes/js/dist/block-library.js:8336
+msgid "Height in pixels"
+msgstr "Висота в пікселях"
+
+#: wp-includes/js/dist/block-library.js:8334
+msgid "Spacer Settings"
+msgstr "Налаштування роздільника"
+
+#: wp-includes/js/dist/block-library.js:8276
+msgid "Add white space between blocks and customize its height."
+msgstr "Додайте простір між блоками і налаштуйте його висоту."
+
+#: wp-includes/js/dist/block-library.js:8275
+msgid "Spacer"
+msgstr "Роздільник"
+
+#: wp-includes/js/dist/block-library.js:8221
+msgid "Write shortcode here…"
+msgstr "Введіть шорткод тут…"
+
+#: wp-includes/js/dist/block-library.js:8164
+msgid "Insert additional custom elements with a WordPress shortcode."
+msgstr "Вставити додаткові користувальницькі елементи за допомогою шорткода."
+
+#: wp-includes/js/dist/block-library.js:8163
+#: wp-includes/js/dist/block-library.js:8217
+msgid "Shortcode"
+msgstr "Шорткод"
+
+#: wp-includes/js/dist/block-library.js:8101
+msgid "Dots"
+msgstr "Точки"
+
+#: wp-includes/js/dist/block-library.js:8098
+msgid "Wide Line"
+msgstr "Широка лінія"
+
+#: wp-includes/js/dist/block-library.js:8091
+msgid "divider"
+msgstr "роздільник"
+
+#: wp-includes/js/dist/block-library.js:8091
+msgid "horizontal-line"
+msgstr "горизонтальна-лінія"
+
+#: wp-includes/js/dist/block-library.js:8080
+msgid "Create a break between ideas or sections with a horizontal separator."
+msgstr "Створіть проміжок між ідеями або розділами за допомогою горизонтального роздільника."
+
+#: wp-includes/js/dist/block-library.js:8079
+msgid "Separator"
+msgstr "Роздільник"
+
+#: wp-includes/js/dist/block-library.js:6541
+msgctxt "block style"
+msgid "Large"
+msgstr "Великий"
+
+#: wp-includes/js/dist/block-library.js:6533
+msgid "blockquote"
+msgstr "цитата"
+
+#: wp-includes/js/dist/block-library.js:6522
+msgid "Give quoted text visual emphasis. \"In quoting others, we cite ourselves.\" — Julio Cortázar"
+msgstr "Візуально акцентуйте цитований текст. \"Цитуючи інших, ми цитуємо себе\". - Хуліо Кортазар"
+
+#: wp-includes/js/dist/block-library.js:19444
+msgid "Solid Color"
+msgstr "Суцільний колір"
+
+#: wp-includes/js/dist/block-library.js:19422
+msgid "Give special visual emphasis to a quote from your text."
+msgstr "Надайте особливий вигляд для цитату з вашого тексту."
+
+#: wp-includes/js/dist/block-library.js:19421
+msgid "Pullquote"
+msgstr "Витримка"
+
+#: wp-includes/js/dist/block-library.js:19345
+msgid "Main Color"
+msgstr "Основний колір"
+
+#. translators: placeholder text used for the citation
+#: wp-includes/js/dist/block-library.js:6764
+#: wp-includes/js/dist/block-library.js:19333
+msgid "Write citation…"
+msgstr "Введіть цитату…"
+
+#. translators: placeholder text used for the quote
+#: wp-includes/js/dist/block-library.js:6754
+#: wp-includes/js/dist/block-library.js:19328
+msgid "Write quote…"
+msgstr "Введіть цитату…"
+
+#: wp-includes/js/dist/block-library.js:8032
+msgid "Write preformatted text…"
+msgstr "Напишіть попередньо відформатований текст…"
+
+#: wp-includes/js/dist/block-library.js:7946
+msgid "Add text that respects your spacing and tabs, and also allows styling."
+msgstr "Додайте текст, який відповідає вашим інтервалам і вкладкам, а також дозволяє стилізувати."
+
+#: wp-includes/js/dist/block-library.js:5834
+msgid "text"
+msgstr "текст"
+
+#: wp-includes/js/dist/block-library.js:5826
+msgid "Start with the building block of all narrative."
+msgstr "Почніть зі створення всієї розповіді."
+
+#: wp-includes/js/dist/block-library.js:5683
+msgid "Drop Cap"
+msgstr "Буквиця"
+
+#: wp-includes/js/dist/block-library.js:5676
+msgid "Text Settings"
+msgstr "Налаштування тексту"
+
+#: wp-includes/js/dist/block-library.js:5575
+msgid "Toggle to show a large initial letter."
+msgstr "Зробити початкову літеру великою."
+
+#: wp-includes/js/dist/block-library.js:5575
+msgid "Showing large initial letter."
+msgstr "Відображення великої початкової літери."
+
+#: wp-includes/js/dist/block-library.js:19136
+msgid "pagination"
+msgstr "поділ на сторінки"
+
+#: wp-includes/js/dist/block-library.js:19136
+msgid "next page"
+msgstr "наступна сторінка"
+
+#: wp-includes/js/dist/block-library.js:19128
+msgid "Separate your content into a multi-page experience."
+msgstr "Розділіть вміст на кілька сторінок."
+
+#: wp-includes/js/dist/block-library.js:19007
+msgctxt "block name"
+msgid "More"
+msgstr "Тег «Далі»"
+
+#: wp-includes/js/dist/block-library.js:5395
+msgid "Your site doesn’t include support for this block."
+msgstr "Ваш сайт не підтримує цей блок."
+
+#: wp-includes/js/dist/block-library.js:5394
+msgid "Unrecognized Block"
+msgstr "Нерозпізнаний блок"
+
+#: wp-includes/js/dist/block-library.js:5367
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact or remove it entirely."
+msgstr "Ваш сайт не підтримує \"%s\" блок. Ви можете залишити цей блок або повністю вилучити його."
+
+#: wp-includes/js/dist/block-library.js:5365
+msgid "Keep as HTML"
+msgstr "Зберегти як HTML"
+
+#: wp-includes/js/dist/block-library.js:5359
+msgid "Your site doesn’t include support for the \"%s\" block. You can leave this block intact, convert its content to a Custom HTML block, or remove it entirely."
+msgstr "Ваш сайт не підтримує \"%s\" блок. Ви можете залишити цей блок, перетворити його вміст на спеціальний HTML-блок або повністю вилучити його."
+
+#: wp-includes/js/dist/block-library.js:9010
+msgid "Media area"
+msgstr "Область мультимедіа"
+
+#: wp-includes/js/dist/block-library.js:9391
+msgid "Set media and words side-by-side for a richer layout."
+msgstr "Встановіть медіафайл і текст з боків від нього для багатства макету."
+
+#: wp-includes/js/dist/block-library.js:9390
+msgid "Media & Text"
+msgstr "Медіа і Текст"
+
+#: wp-includes/js/dist/block-library.js:9269
+msgid "Media & Text Settings"
+msgstr "Налаштування мультимедіа і тексту"
+
+#: wp-includes/js/dist/block-library.js:9253
+msgid "Show media on right"
+msgstr "Показувати медіа праворуч"
+
+#: wp-includes/js/dist/block-library.js:9244
+msgid "Show media on left"
+msgstr "Показувати медіа ліворуч"
+
+#: wp-includes/js/dist/block-library.js:7869
+msgid "Write list…"
+msgstr "Скласти список…"
+
+#: wp-includes/js/dist/block-editor.js:14342
+msgid "Indent list item"
+msgstr "Додати відступ до елементів списку"
+
+#: wp-includes/js/dist/block-editor.js:14335
+msgid "Outdent list item"
+msgstr "Прибрати відступ у елементів списку"
+
+#: wp-includes/js/dist/block-editor.js:14322
+msgid "Convert to ordered list"
+msgstr "Перетворити в нумерований список"
+
+#: wp-includes/js/dist/block-editor.js:14309
+msgid "Convert to unordered list"
+msgstr "Перетворити в маркований список"
+
+#: wp-includes/js/dist/block-library.js:7695
+msgid "numbered list"
+msgstr "нумерований список"
+
+#: wp-includes/js/dist/block-library.js:7687
+msgid "Create a bulleted or numbered list."
+msgstr "Створіть маркований або нумерований список."
+
+#: wp-includes/js/dist/block-library.js:18306
+msgid "recent posts"
+msgstr "останні записи"
+
+#: wp-includes/js/dist/block-library.js:18265
+msgid "Display a list of your most recent posts."
+msgstr "Виводить список ваших останніх записів."
+
+#: wp-includes/js/dist/block-library.js:18163
+#: wp-includes/js/dist/block-library.js:18264
+msgid "Latest Posts"
+msgstr "Останні записи"
+
+#: wp-includes/js/dist/block-library.js:18143
+msgid "Display post date"
+msgstr "Відображати дату публікації"
+
+#: wp-includes/js/dist/block-library.js:18114
+msgid "Latest Posts Settings"
+msgstr "Налаштування останніх записів"
+
+#: wp-includes/js/dist/block-library.js:17931
+msgid "recent comments"
+msgstr "недавні коментарі"
+
+#: wp-includes/js/dist/block-library.js:17920
+msgid "Display a list of your most recent comments."
+msgstr "Відобразити список останніх коментарів."
+
+#: wp-includes/js/dist/block-library.js:17919
+msgid "Latest Comments"
+msgstr "Останні коментарі"
+
+#: wp-includes/js/dist/block-library.js:17884
+msgid "Number of Comments"
+msgstr "Кількість коментарів"
+
+#: wp-includes/js/dist/block-library.js:17880
+msgid "Display Excerpt"
+msgstr "Показати уривок"
+
+#: wp-includes/js/dist/block-library.js:17876
+msgid "Display Date"
+msgstr "Показувати дату"
+
+#: wp-includes/js/dist/block-library.js:17872
+msgid "Display Avatar"
+msgstr "Показати аватар"
+
+#: wp-includes/js/dist/block-library.js:17870
+msgid "Latest Comments Settings"
+msgstr "Налаштування останніх коментарів"
+
+#: wp-includes/js/dist/block-library.js:10707
+#: wp-includes/js/dist/format-library.js:571
+msgid "photo"
+msgstr "фотографія"
+
+#: wp-includes/js/dist/block-library.js:10703
+msgid "Insert an image to make a visual statement."
+msgstr "Вставте зображення для створення візуального ствердження."
+
+#: wp-includes/js/dist/block-library.js:10336
+msgid "Image Dimensions"
+msgstr "Розмір зображення"
+
+#: wp-includes/js/dist/block-library.js:9282
+#: wp-includes/js/dist/block-library.js:10326
+msgid "Alternative text describes your image to people who can’t see it. Add a short description with its key details."
+msgstr "Альтернативний текст описує ваше зображення людям, які не можуть його бачити. Додайте короткий опис із ключовими деталями."
+
+#: wp-includes/js/dist/block-library.js:9279
+#: wp-includes/js/dist/block-library.js:10323
+msgid "Alt Text (Alternative Text)"
+msgstr "Alt Text (альтернативний текст)"
+
+#: wp-includes/js/dist/block-library.js:10321
+msgid "Image Settings"
+msgstr "Налаштування зображення"
+
+#: wp-includes/js/dist/block-library.js:10263
+#: wp-includes/js/dist/block-library.js:10276
+msgid "Edit image"
+msgstr "Редагувати зображення"
+
+#: wp-includes/js/dist/block-library.js:17131
+msgid "Write HTML…"
+msgstr "Пишіть HTML..."
+
+#: wp-includes/js/dist/block-library.js:17178
+msgid "embed"
+msgstr "вставка"
+
+#: wp-includes/js/dist/block-library.js:17170
+msgid "Add custom HTML code and preview it as you edit."
+msgstr "Додайте власний HTML-код і попередньо перегляньте його під час редагування."
+
+#: wp-includes/js/dist/block-library.js:14041
+msgid "subtitle"
+msgstr "підзаголовок"
+
+#: wp-includes/js/dist/block-library.js:14041
+msgid "title"
+msgstr "заголовок"
+
+#: wp-includes/js/dist/block-library.js:14030
+msgid "Introduce new sections and organize content to help visitors (and search engines) understand the structure of your content."
+msgstr "Додавайте нові розділи та організуйте вміст, щоб допомогти відвідувачам (та пошуковим системам) зрозуміти структуру вашого вмісту."
+
+#: wp-includes/js/dist/block-library.js:14029
+msgid "Heading"
+msgstr "Заголовок"
+
+#. translators: %s: heading level e.g: "1", "2", "3"
+#: wp-includes/js/dist/block-library.js:13847
+msgid "Heading %d"
+msgstr "Заголовок %s"
+
+#: wp-includes/js/dist/block-library.js:13964
+msgid "Write heading…"
+msgstr "Введіть заголовок..."
+
+#: wp-includes/js/dist/block-library.js:13926
+msgid "Text Alignment"
+msgstr "Вирівнювання тексту"
+
+#: wp-includes/js/dist/block-library.js:13917
+msgid "Level"
+msgstr "Рівень"
+
+#: wp-includes/js/dist/block-library.js:13916
+msgid "Heading Settings"
+msgstr "Налаштування заголовку"
+
+#: wp-includes/js/dist/block-library.js:13425
+msgid "photos"
+msgstr "фотографії"
+
+#: wp-includes/js/dist/block-library.js:13425
+msgid "images"
+msgstr "зображення"
+
+#: wp-includes/js/dist/block-library.js:13422
+msgid "Display multiple images in a rich gallery."
+msgstr "Відобразіть кілька фотографій у чудовій галереї."
+
+#: wp-includes/js/dist/block-library.js:12950
+msgid "Remove Image"
+msgstr "Видалити зображення"
+
+#: wp-includes/js/dist/block-library.js:13323
+msgid "Upload an image"
+msgstr "Завантажити зображення"
+
+#: wp-includes/js/dist/block-library.js:13284
+msgid "Crop Images"
+msgstr "Обрізати зображення"
+
+#: wp-includes/js/dist/block-library.js:13263
+msgid "Drag images, upload new ones or select files from your library."
+msgstr "Перетягніть зображення, завантажте нові або виділіть файли з вашої бібліотеки."
+
+#: wp-includes/js/dist/block-library.js:13163
+msgid "Thumbnails are not cropped."
+msgstr "Мініатюри не обрізані."
+
+#: wp-includes/js/dist/block-library.js:13163
+msgid "Thumbnails are cropped to align."
+msgstr "Мініатюри обрізаються для вирівнювання."
+
+#: wp-includes/js/dist/block-library.js:11747
+msgid "Show Download Button"
+msgstr "Показати кнопку завантаження"
+
+#: wp-includes/js/dist/block-library.js:11745
+msgid "Download Button Settings"
+msgstr "Налаштування кнопки завантаження"
+
+#: wp-includes/js/dist/block-library.js:11734
+msgid "Text Link Settings"
+msgstr "Налаштування текстового посилання"
+
+#: wp-includes/js/dist/block-library.js:12092
+msgctxt "button label"
+msgid "Download"
+msgstr "Завантажити"
+
+#: wp-includes/js/dist/block-library.js:12057
+msgid "pdf"
+msgstr "pdf"
+
+#: wp-includes/js/dist/block-library.js:12057
+msgid "document"
+msgstr "документ"
+
+#: wp-includes/js/dist/block-library.js:12054
+msgid "Add a link to a downloadable file."
+msgstr "Додайте посилання на завантажений файл."
+
+#: wp-includes/js/dist/block-library.js:12010
+msgid "Copy URL"
+msgstr "Копіювати URL"
+
+#: wp-includes/js/dist/block-library.js:11978
+msgid "Write file name…"
+msgstr "Впишіть ім'я файлу..."
+
+#: wp-includes/js/dist/block-library.js:11964
+msgid "Edit file"
+msgstr "Редагувати файл"
+
+#: wp-includes/js/dist/block-library.js:11933
+msgid "Drag a file, upload a new one or select a file from your library."
+msgstr "Перетягніть файл, завантажте новий файл або виберіть файл із своєї бібліотеки."
+
+#: wp-includes/js/dist/block-library.js:4366
+msgid "Add a block that displays content pulled from other sites, like Twitter, Instagram or YouTube."
+msgstr "Додає блок, який виводить вміст з інших сайтів, таких як Twitter, Instagram або YouTube."
+
+#: wp-includes/js/dist/block-library.js:4496
+msgid "Embed videos, images, tweets, audio, and other content from external sources."
+msgstr "Вставити відео, зображення, твіти, звук та інший вміст із зовнішніх джерел."
+
+#: wp-includes/js/dist/block-library.js:4495
+msgctxt "block title"
+msgid "Embed"
+msgstr "Вставка"
+
+#: wp-includes/js/dist/block-library.js:3962
+msgid "Embedded content from %s"
+msgstr "Вставлений вміст з %s"
+
+#: wp-includes/js/dist/block-library.js:3770
+msgctxt "button label"
+msgid "Embed"
+msgstr "Вставити"
+
+#: wp-includes/js/dist/block-library.js:3765
+msgid "Enter URL to embed here…"
+msgstr "Вкажіть URL для вставки…"
+
+#: wp-includes/js/dist/block-library.js:4255
+msgid "%s URL"
+msgstr "%s URL"
+
+#: wp-includes/js/dist/block-library.js:3727
+msgid "Embedding…"
+msgstr "Вставка…"
+
+#: wp-includes/js/dist/block-library.js:3706
+msgid "Resize for smaller devices"
+msgstr "Змінити розмір для менших пристроїв"
+
+#: wp-includes/js/dist/block-library.js:3703
+msgid "Media Settings"
+msgstr "Налаштування медіа"
+
+#: wp-includes/js/dist/block-library.js:3699
+msgid "Edit URL"
+msgstr "Редагувати URL"
+
+#: wp-includes/js/dist/block-library.js:4213
+msgid "This embed may not preserve its aspect ratio when the browser is resized."
+msgstr "Ця вставка може не зберегти співвідношення сторін, коли розмір вікна браузера змінюється."
+
+#: wp-includes/js/dist/block-library.js:4213
+msgid "This embed will preserve its aspect ratio when the browser is resized."
+msgstr "Ця вставка зберігатиме співвідношення сторін, коли розмір вікна браузера змінюється."
+
+#: wp-includes/js/dist/block-library.js:3586
+msgid "Embed a WordPress.tv video."
+msgstr "Вставити відео WordPress.tv."
+
+#: wp-includes/js/dist/block-library.js:3578
+msgid "Embed a VideoPress video."
+msgstr "Вставити відеозапис VideoPress."
+
+#: wp-includes/js/dist/block-library.js:3569
+msgid "Embed a Tumblr post."
+msgstr "Вставити запис Tumblr."
+
+#: wp-includes/js/dist/block-library.js:3561
+msgid "Embed a TED video."
+msgstr "Вставити TED відео."
+
+#: wp-includes/js/dist/block-library.js:3553
+msgid "Embed Speaker Deck content."
+msgstr "Вставити вміст Speaker Deck."
+
+#: wp-includes/js/dist/block-library.js:3525
+msgid "Embed SmugMug content."
+msgstr "Вставити вміст SmugMug."
+
+#: wp-includes/js/dist/block-library.js:3517
+msgid "Embed Slideshare content."
+msgstr "Вставити вміст Slideshare."
+
+#: wp-includes/js/dist/block-library.js:3509
+msgid "Embed Scribd content."
+msgstr "Вставити вміст Scribd."
+
+#: wp-includes/js/dist/block-library.js:3501
+msgid "Embed Screencast content."
+msgstr "Вставити вміст Screencast."
+
+#: wp-includes/js/dist/block-library.js:3493
+msgid "Embed ReverbNation content."
+msgstr "Вставити вміст ReverbNation."
+
+#: wp-includes/js/dist/block-library.js:3485
+msgid "Embed a Reddit thread."
+msgstr "Вставити гілку Reddit."
+
+#: wp-includes/js/dist/block-library.js:3474
+msgid "Embed Polldaddy content."
+msgstr "Вставити вміст Polldaddy."
+
+#: wp-includes/js/dist/block-library.js:3465
+msgid "Embed Mixcloud content."
+msgstr "Вставити вміст Mixcloud."
+
+#: wp-includes/js/dist/block-library.js:3456
+msgid "Embed Meetup.com content."
+msgstr "Вставити вміст Meetup.com."
+
+#: wp-includes/js/dist/block-library.js:3448
+msgid "Embed Kickstarter content."
+msgstr "Вставити вміст Kickstarter."
+
+#: wp-includes/js/dist/block-library.js:3440
+msgid "Embed Issuu content."
+msgstr "Вставити вміст Issuu."
+
+#: wp-includes/js/dist/block-library.js:3432
+msgid "Embed Imgur content."
+msgstr "Вставити вміст Imgur."
+
+#: wp-includes/js/dist/block-library.js:3424
+msgid "Embed Hulu content."
+msgstr "Вставити вміст Hulu."
+
+#: wp-includes/js/dist/block-library.js:3416
+msgid "Embed a Dailymotion video."
+msgstr "Вставити відео Dailymotion."
+
+#: wp-includes/js/dist/block-library.js:3390
+msgid "Embed CollegeHumor content."
+msgstr "Вставити вміст CollegeHumor. "
+
+#: wp-includes/js/dist/block-library.js:3382
+msgid "Embed Cloudup content."
+msgstr "Вставити вміст Cloudup."
+
+#: wp-includes/js/dist/block-library.js:3374
+msgid "Embed an Animoto video."
+msgstr "Вставити відео Animoto. "
+
+#: wp-includes/js/dist/block-library.js:3365
+msgid "Embed a Vimeo video."
+msgstr "Вставте відео Vimeo."
+
+#: wp-includes/js/dist/block-library.js:3356
+msgid "Embed Flickr content."
+msgstr "Вставити вміст Flickr."
+
+#: wp-includes/js/dist/block-library.js:3347
+msgid "Embed Spotify content."
+msgstr "Вставити вміст Spotify."
+
+#: wp-includes/js/dist/block-library.js:3338
+msgid "Embed SoundCloud content."
+msgstr "Вставити вміст SoundCloud."
+
+#: wp-includes/js/dist/block-library.js:3337
+#: wp-includes/js/dist/block-library.js:3346
+#: wp-includes/js/dist/block-library.js:3464
+msgid "audio"
+msgstr "аудіо"
+
+#: wp-includes/js/dist/block-library.js:3328
+msgid "blog"
+msgstr "блог"
+
+#: wp-includes/js/dist/block-library.js:3328
+msgid "post"
+msgstr "запис"
+
+#: wp-includes/js/dist/block-library.js:3320
+msgid "Embed an Instagram post."
+msgstr "Вставити запис Instagram."
+
+#: wp-includes/js/dist/block-library.js:3319
+#: wp-includes/js/dist/block-library.js:3355
+#: wp-includes/js/dist/block-library.js:9394
+msgid "image"
+msgstr "зображення"
+
+#: wp-includes/js/dist/block-library.js:3311
+msgid "Embed a Facebook post."
+msgstr "Вставити запис Facebook."
+
+#: wp-includes/js/dist/block-library.js:3303
+msgid "Embed a YouTube video."
+msgstr "Вставити відео YouTube."
+
+#: wp-includes/js/dist/block-library.js:3302
+#: wp-includes/js/dist/block-library.js:3364
+#: wp-includes/js/dist/block-library.js:3577
+#: wp-includes/js/dist/block-library.js:9394
+msgid "video"
+msgstr "відео"
+
+#: wp-includes/js/dist/block-library.js:3302
+#: wp-includes/js/dist/block-library.js:3337
+#: wp-includes/js/dist/block-library.js:3346
+#: wp-includes/js/dist/block-library.js:3464
+msgid "music"
+msgstr "музика"
+
+#: wp-includes/js/dist/block-library.js:3294
+msgid "Embed a tweet."
+msgstr "Вставити твіт."
+
+#: wp-includes/js/dist/block-library.js:14759
+#: wp-includes/js/dist/block-library.js:15295
+msgid "Write title…"
+msgstr "Введіть заголовок…"
+
+#: wp-includes/js/dist/block-library.js:14941
+msgid "Drag an image or a video, upload a new one or select a file from your library."
+msgstr "Перетягніть зображення або відео, завантажте новий або виберіть файл із своєї бібліотеки."
+
+#: wp-includes/js/dist/block-library.js:14920
+msgid "Background Opacity"
+msgstr "Непрозорість фону"
+
+#: wp-includes/js/dist/block-library.js:14917
+msgid "Overlay Color"
+msgstr "Колір накладення"
+
+#: wp-includes/js/dist/block-library.js:14912
+msgid "Overlay"
+msgstr "Накладення"
+
+#: wp-includes/js/dist/block-library.js:14899
+msgid "Fixed Background"
+msgstr "Фіксований фон"
+
+#: wp-includes/js/dist/block-library.js:14897
+msgid "Cover Settings"
+msgstr "Налаштування обкладинки"
+
+#: wp-includes/js/dist/block-library.js:8965
+#: wp-includes/js/dist/block-library.js:14891
+msgid "Edit media"
+msgstr "Редагувати медіа"
+
+#: wp-includes/js/dist/block-library.js:15114
+msgid "Add an image or video with a text overlay — great for headers."
+msgstr "Додайте зображення або відео з текстовим накладанням - чудово підходить для заголовків."
+
+#: wp-includes/js/dist/block-library.js:14934
+#: wp-includes/js/dist/block-library.js:15113
+msgid "Cover"
+msgstr "Накривати"
+
+#: wp-includes/js/dist/block-library.js:7003
+msgid "Add a block that displays content in multiple columns, then add whatever content blocks you’d like."
+msgstr "Додайте блок, який відображає контент в декількох колонках, а потім в цей блок додайте будь-які інші блоки з контентом, які ви хочете."
+
+#: wp-includes/js/dist/block-library.js:7135
+msgid "A single column within a columns block."
+msgstr "Одна колонка в блоці колонок."
+
+#: wp-includes/js/dist/block-library.js:16933
+msgid "Display code snippets that respect your spacing and tabs."
+msgstr "Відображати фрагменти коду, що враховують ваші інтервали та вкладки."
+
+#: wp-includes/js/dist/block-library.js:16909
+msgid "Write code…"
+msgstr "Введіть код…"
+
+#: wp-includes/js/dist/block-library.js:6298
+msgid "Use the classic WordPress editor."
+msgstr "Використовувати класичний редактор WordPress."
+
+#: wp-includes/js/dist/block-library.js:6297
+msgctxt "block title"
+msgid "Classic"
+msgstr "Класичний"
+
+#: wp-includes/js/dist/block-library.js:6263
+msgid "Classic"
+msgstr "Класичний"
+
+#: wp-includes/js/dist/block-library.js:6194
+msgctxt "button to expand options"
+msgid "More"
+msgstr "Більше параметрів"
+
+#: wp-includes/js/dist/block-library.js:18792
+msgid "Display a list of all categories."
+msgstr "Відобразити список усіх категорій."
+
+#: wp-includes/js/dist/block-library.js:18732
+msgid "Show Hierarchy"
+msgstr "Показати ієрархію"
+
+#: wp-includes/js/dist/block-library.js:18726
+msgid "Categories Settings"
+msgstr "Налаштування рубрик"
+
+#: wp-includes/js/dist/block-library.js:17635
+msgctxt "block style"
+msgid "Squared"
+msgstr "Квадратний"
+
+#: wp-includes/js/dist/block-library.js:17632
+msgid "Outline"
+msgstr "Контур"
+
+#: wp-includes/js/dist/block-library.js:17608
+msgid "Button"
+msgstr "Кнопка"
+
+#: wp-includes/js/dist/block-library.js:5688
+#: wp-includes/js/dist/block-library.js:9285
+#: wp-includes/js/dist/block-library.js:16645
+#: wp-includes/js/dist/block-library.js:17496
+#: wp-includes/js/dist/block-library.js:19341
+msgid "Color Settings"
+msgstr "Налаштування кольору"
+
+#: wp-includes/js/dist/block-library.js:11996
+#: wp-includes/js/dist/block-library.js:17479
+msgid "Add text…"
+msgstr "Додати текст…"
+
+#. translators: %s: title/name of the reusable block
+#: wp-includes/js/dist/block-library.js:12445
+msgid "Reusable Block: %s"
+msgstr "Багаторазовий блок: %s"
+
+#: wp-includes/js/dist/block-library.js:12698
+msgid "Reusable Block"
+msgstr "Багаторазовий блок"
+
+#: wp-includes/js/dist/block-library.js:12612
+msgid "Block has been deleted or is unavailable."
+msgstr "Блок видалений або недоступний."
+
+#: wp-includes/js/dist/block-library.js:14522
+msgid "Embed a simple audio player."
+msgstr "Вставити простий аудіопрогравач."
+
+#: wp-includes/js/dist/block-library.js:4009
+#: wp-includes/js/dist/block-library.js:10518
+#: wp-includes/js/dist/block-library.js:12955
+#: wp-includes/js/dist/block-library.js:14483
+#: wp-includes/js/dist/block-library.js:15756
+msgid "Write caption…"
+msgstr "Напишіть підпис…"
+
+#: wp-includes/js/dist/block-library.js:14448
+msgid "Audio Settings"
+msgstr "Налаштування аудіо"
+
+#: wp-includes/js/dist/block-library.js:14444
+msgid "Edit audio"
+msgstr "Редагувати аудіо"
+
+#: wp-includes/js/dist/block-library.js:17308
+msgid "Display a monthly archive of your posts."
+msgstr "Відображати щомісячний архів ваших публікацій."
+
+#: wp-includes/js/dist/block-library.js:17269
+#: wp-includes/js/dist/block-library.js:18736
+msgid "Show Post Counts"
+msgstr "Показати лічильник записів"
+
+#: wp-includes/js/dist/block-library.js:17259
+msgid "Archives Settings"
+msgstr "Налаштування архівів"
+
+#: wp-includes/js/dist/blocks.js:5810
+msgid "Reusable Blocks"
+msgstr "Багаторазовий блок"
+
+#: wp-includes/js/dist/blocks.js:5807
+msgid "Embeds"
+msgstr "Вставки"
+
+#: wp-includes/js/dist/blocks.js:5801
+msgid "Layout Elements"
+msgstr "Елементи розмітки"
+
+#: wp-includes/js/dist/blocks.js:5798
+msgid "Formatting"
+msgstr "Форматування"
+
+#: wp-includes/js/dist/blocks.js:5795
+msgid "Common Blocks"
+msgstr "Основні блоки"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:730
+msgid "Reusable block imported successfully!"
+msgstr "Багаторазовий блок успішно імпортується!"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:642
+msgctxt "button label"
+msgid "Import"
+msgstr "Імпорт"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:606
+msgid "Unknown error"
+msgstr "Невідома помилка"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:602
+msgid "Invalid Reusable Block JSON file"
+msgstr "Недійсний багаторазовий JSON-файл"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:598
+msgid "Invalid JSON file"
+msgstr "Неприпустимий JSON-файл"
+
+#: wp-includes/js/dist/list-reusable-blocks.js:683
+msgid "Import from JSON"
+msgstr "Імпорт з JSON"
+
+#: wp-includes/js/dist/edit-post.js:2530
+msgid "Code editor selected"
+msgstr "Вибраний редактор коду"
+
+#: wp-includes/js/dist/edit-post.js:2530
+msgid "Visual editor selected"
+msgstr "Вибраний візуальний редактор"
+
+#: wp-includes/js/dist/edit-post.js:1398
+msgid "Copy All Content"
+msgstr "Скопіювати весь вміст"
+
+#: wp-includes/js/dist/edit-post.js:1327
+msgid "This block can only be used once."
+msgstr "Цей блок можна використовувати лише один раз."
+
+#: wp-includes/js/dist/edit-post.js:1326
+msgid "Transform into:"
+msgstr "Перетворити в:"
+
+#: wp-includes/js/dist/edit-post.js:1314
+msgid "Find original"
+msgstr "Знайти оригінал"
+
+#: wp-includes/js/dist/edit-post.js:1000
+msgid "Select or Upload Media"
+msgstr "Вибрати або завантажити"
+
+#: wp-includes/js/dist/edit-post.js:3528
+msgid "Show Block Settings"
+msgstr "Показати параметри блоку"
+
+#: wp-includes/js/dist/edit-post.js:3528
+msgid "Hide Block Settings"
+msgstr "Приховати параметри блоку"
+
+#: wp-includes/js/dist/edit-post.js:3524
+msgid "Additional settings are now available in the Editor block settings sidebar"
+msgstr "Додаткові налаштування тепер доступні на бічній панелі розширених налаштувань"
+
+#: wp-includes/js/dist/edit-post.js:3522
+msgid "Block settings closed"
+msgstr "Налаштування блоку закриті"
+
+#: wp-includes/js/dist/edit-post.js:3473
+msgid "Exit Code Editor"
+msgstr "Вихід з Редактора Коду"
+
+#: wp-includes/js/dist/edit-post.js:3469
+msgid "Editing Code"
+msgstr "Редагування коду"
+
+#: wp-includes/js/dist/edit-post.js:5885
+msgid "Editor settings"
+msgstr "Налаштування редактора"
+
+#. translators: ARIA label for the Document sidebar tab, not selected.
+#: wp-includes/js/dist/edit-post.js:5043 wp-includes/js/dist/edit-post.js:5062
+#: wp-includes/js/dist/edit-post.js:5063
+msgid "Document"
+msgstr "Документ"
+
+#: wp-includes/js/dist/edit-post.js:5057
+msgid "Close settings"
+msgstr "Закрити налаштування"
+
+#. translators: %d: number of blocks
+#: wp-includes/js/dist/block-editor.js:17203
+msgid "%d block"
+msgid_plural "%d blocks"
+msgstr[0] "%d блок"
+msgstr[1] "%d блоки"
+msgstr[2] "%d блоків"
+
+#: wp-includes/js/dist/edit-post.js:5104
+msgid "Visibility"
+msgstr "Видимість"
+
+#: wp-includes/js/dist/edit-post.js:5341
+msgid "Status & Visibility"
+msgstr "Статус і видимість"
+
+#: wp-includes/js/dist/edit-post.js:5166
+msgid "Click to change"
+msgstr "Натисніть, щоб змінити"
+
+#: wp-includes/js/dist/edit-post.js:6649
+msgid "Pin to toolbar"
+msgstr "Прикріпити до панелі інструментів"
+
+#: wp-includes/js/dist/edit-post.js:6649
+msgid "Unpin from toolbar"
+msgstr "Відмінити закріплення від панелі інструментів"
+
+#: wp-includes/js/dist/edit-post.js:6646
+msgid "Close plugin"
+msgstr "Закрити плагін"
+
+#: wp-includes/js/dist/edit-post.js:6644
+msgid "Editor plugins"
+msgstr "Редактор плагінів"
+
+#: wp-includes/js/dist/edit-post.js:4643
+msgid "Advanced Panels"
+msgstr "Розширені панелі"
+
+#: wp-includes/js/dist/edit-post.js:4637 wp-includes/js/dist/edit-post.js:5766
+msgid "Discussion"
+msgstr "Обговорення"
+
+#: wp-includes/js/dist/edit-post.js:4617
+msgid "Document Panels"
+msgstr "Панелі документів"
+
+#: wp-includes/js/dist/edit-post.js:4615
+msgid "Enable Tips"
+msgstr "Увімкнути Поради"
+
+#: wp-includes/js/dist/edit-post.js:4613
+msgid "Enable Pre-publish Checks"
+msgstr "Увімкнути перевірки перед публікацією"
+
+#: wp-includes/js/dist/edit-post.js:6238
+msgid "Open publish panel"
+msgstr "Відкрити панель публікації"
+
+#: wp-includes/js/dist/edit-post.js:6209
+msgid "Editor content"
+msgstr "Редактор вмісту"
+
+#. translators: accessibility text for the publish landmark region.
+#: wp-includes/js/dist/edit-post.js:6199
+msgid "Editor publish"
+msgstr "Редактор публікації"
+
+#: wp-includes/js/dist/edit-post.js:3853
+msgid "Display the selected text in a monospaced font."
+msgstr "Відображати виділений текст у шрифті моноширини."
+
+#: wp-includes/js/dist/edit-post.js:3850
+msgid "Add a strikethrough to the selected text."
+msgstr "Додайте перекреслений до вибраного тексту."
+
+#: wp-includes/js/dist/edit-post.js:3847
+msgid "Remove a link."
+msgstr "Видалити посилання."
+
+#: wp-includes/js/dist/edit-post.js:3844
+msgid "Convert the selected text into a link."
+msgstr "Перетворити вибраний текст у посилання."
+
+#: wp-includes/js/dist/edit-post.js:3841
+msgid "Underline the selected text."
+msgstr "Підкреслити виділений текст."
+
+#: wp-includes/js/dist/edit-post.js:3838
+msgid "Make the selected text italic."
+msgstr "Виділіть текст курсивом."
+
+#: wp-includes/js/dist/edit-post.js:3835
+msgid "Make the selected text bold."
+msgstr "Виділіть текст напівжирним шрифтом."
+
+#: wp-includes/js/dist/edit-post.js:3832
+msgid "Text formatting"
+msgstr "Форматування тексту"
+
+#. translators: The forward-slash character. e.g. '/'.
+#: wp-includes/js/dist/edit-post.js:3828
+msgid "Forward-slash"
+msgstr "Переслати косу риску"
+
+#: wp-includes/js/dist/edit-post.js:3825
+msgid "Change the block type after adding a new paragraph."
+msgstr "Змініть тип блоку після додавання нового абзацу."
+
+#: wp-includes/js/dist/edit-post.js:3822
+msgid "Insert a new block after the selected block(s)."
+msgstr "Вставте новий блок після вибраних блоків."
+
+#: wp-includes/js/dist/edit-post.js:3819
+msgid "Insert a new block before the selected block(s)."
+msgstr "Вставте новий блок перед вибраними блоками."
+
+#: wp-includes/js/dist/edit-post.js:3816
+msgid "Remove the selected block(s)."
+msgstr "Видалити вибрані блоки."
+
+#: wp-includes/js/dist/edit-post.js:3813
+msgid "Duplicate the selected block(s)."
+msgstr "Дублювати вибрані блоки."
+
+#: wp-includes/js/dist/edit-post.js:3810
+msgid "Block shortcuts"
+msgstr "Блокувати ярлики"
+
+#. translators: The 'escape' key on a keyboard.
+#: wp-includes/js/dist/edit-post.js:3806
+msgid "Escape"
+msgstr "Вийти"
+
+#: wp-includes/js/dist/edit-post.js:3800
+msgid "Select all text when typing. Press again to select all blocks."
+msgstr "Виберіть весь текст під час набору тексту. Натисніть ще раз, щоб вибрати всі блоки."
+
+#: wp-includes/js/dist/edit-post.js:3797
+msgid "Selection shortcuts"
+msgstr "Ярлики вибору"
+
+#: wp-includes/js/dist/edit-post.js:3793
+msgid "Switch between Visual Editor and Code Editor."
+msgstr "Переключитися між Visual Editor та Code Editor."
+
+#: wp-includes/js/dist/edit-post.js:3790
+msgid "Navigate to the nearest toolbar."
+msgstr "Перейдіть на найближчу панель інструментів."
+
+#: wp-includes/js/dist/edit-post.js:3787
+msgid "Navigate to the previous part of the editor (alternative)."
+msgstr "Перейдіть до попередньої частини редактора (альтернатива)."
+
+#: wp-includes/js/dist/edit-post.js:3784
+msgid "Navigate to the next part of the editor (alternative)."
+msgstr "Перейдіть до наступної частини редактора (альтернатива)."
+
+#: wp-includes/js/dist/edit-post.js:3780
+msgid "Navigate to the previous part of the editor."
+msgstr "Перейдіть до попередньої частини редактора."
+
+#: wp-includes/js/dist/edit-post.js:3776
+msgid "Navigate to the next part of the editor."
+msgstr "Перейдіть до наступної частини редактора."
+
+#: wp-includes/js/dist/edit-post.js:3773
+msgid "Open the block navigation menu."
+msgstr "Відкриє меню навігації по блокам."
+
+#: wp-includes/js/dist/edit-post.js:3769
+msgid "Show or hide the settings sidebar."
+msgstr "Показати або сховати бічну панель налаштувань."
+
+#: wp-includes/js/dist/edit-post.js:3766
+msgid "Redo your last undo."
+msgstr "Повторити останнє скасування."
+
+#: wp-includes/js/dist/edit-post.js:3763
+msgid "Undo your last changes."
+msgstr "Скасувати останні зміни."
+
+#: wp-includes/js/dist/edit-post.js:3760
+msgid "Save your changes."
+msgstr "Збережіть свої зміни."
+
+#: wp-includes/js/dist/edit-post.js:3757
+msgid "Display this help."
+msgstr "Показати цю довідку."
+
+#: wp-includes/js/dist/edit-post.js:3754
+msgid "Global shortcuts"
+msgstr "Глобальні ярлики"
+
+#: wp-includes/js/dist/edit-post.js:3061
+msgid "Work without distraction"
+msgstr "Робота без відволікання"
+
+#: wp-includes/js/dist/edit-post.js:3060
+msgid "Fullscreen Mode"
+msgstr "На повний екран"
+
+#: wp-includes/js/dist/edit-post.js:3054
+msgid "Focus on one block at a time"
+msgstr "Зосередьтеся на одному блоці за один раз"
+
+#: wp-includes/js/dist/edit-post.js:3053
+msgid "Spotlight Mode"
+msgstr "Режим освітлення"
+
+#: wp-includes/js/dist/edit-post.js:3047
+msgid "Access all block and document tools in a single place"
+msgstr "Доступ до всіх інструментів блокування та документації в одному місці"
+
+#: wp-includes/js/dist/edit-post.js:3043
+msgctxt "noun"
+msgid "View"
+msgstr "Перегляд"
+
+#: wp-includes/js/dist/edit-post.js:2958 wp-includes/js/dist/edit-post.js:4607
+msgid "Options"
+msgstr "Параметри"
+
+#: wp-includes/js/dist/edit-post.js:3091
+msgid "Hide more tools & options"
+msgstr "Сховати більше інструментів та параметрів"
+
+#: wp-includes/js/dist/edit-post.js:3089
+msgid "Show more tools & options"
+msgstr "Показати більше інструментів та параметрів"
+
+#: wp-includes/js/dist/edit-post.js:2885
+msgid "Editor"
+msgstr "Редактор"
+
+#: wp-includes/js/dist/edit-post.js:2869
+msgid "Code Editor"
+msgstr "Редактор коду"
+
+#: wp-includes/js/dist/edit-post.js:2866
+msgid "Visual Editor"
+msgstr "Візуальний редактор"
+
+#: wp-includes/js/dist/edit-post.js:3393
+msgid "Editor top bar"
+msgstr "Панель інструментів"
+
+#: wp-includes/js/dist/edit-post.js:3220
+msgid "Welcome to the wonderful world of blocks! Click the “+” (“Add block”) button to add a new block. There are blocks available for all kinds of content: you can insert text, headings, images, lists, and lots more!"
+msgstr "Ласкаво просимо в чудовий світ блоків! Натисніть кнопку \"+\" (\"Додати блок\"), щоб додати новий блок. Доступні блоки для всіх видів контенту: ви можете вставляти текст, заголовки, зображення, списки і багато іншого!"
+
+#. translators: accessibility text for the editor toolbar when Top Toolbar is
+#. off
+#: wp-includes/js/dist/edit-post.js:3211
+msgid "Document tools"
+msgstr "Інструменти документу"
+
+#. translators: accessibility text for the editor toolbar when Top Toolbar is
+#. on
+#: wp-includes/js/dist/edit-post.js:3209
+msgid "Document and block tools"
+msgstr "Документ та блок інструментів"
+
+#. translators: %s: file name
+#: wp-includes/js/dist/editor.js:14772
+msgid "Error while uploading file %s to the media library."
+msgstr "Помилка завантаження файлу %s в медіатеку."
+
+#: wp-includes/js/dist/editor.js:14682
+msgid "This file is empty."
+msgstr "Цей файл порожній."
+
+#: wp-includes/js/dist/editor.js:14656
+msgid "Sorry, this file type is not supported here."
+msgstr "На жаль, цей тип файлу тут не підтримується."
+
+#: wp-includes/js/dist/editor.js:6836
+msgid "Untitled Reusable Block"
+msgstr "Без назви Багаторазовий Блок"
+
+#: wp-includes/js/dist/editor.js:6746
+msgid "Block deleted."
+msgstr "Блок видалений."
+
+#: wp-includes/js/dist/editor.js:6631
+msgid "Block created."
+msgstr "Блок створений."
+
+#: wp-includes/js/dist/editor.js:4397
+msgid "Trashing failed"
+msgstr "Видалення не вдалося"
+
+#: wp-includes/js/dist/editor.js:4383
+msgid "Updating failed"
+msgstr "Помилка оновлення"
+
+#: wp-includes/js/dist/editor.js:4381
+msgid "Scheduling failed"
+msgstr "Не вдалося запланувати"
+
+#: wp-includes/js/dist/editor.js:4379 wp-includes/js/dist/editor.js:4380
+msgid "Publishing failed"
+msgstr "Помилка публікації"
+
+#: wp-includes/js/dist/block-editor.js:4063
+msgctxt "font size name"
+msgid "Huge"
+msgstr "Величезний"
+
+#: wp-includes/js/dist/block-editor.js:4059
+msgctxt "font size name"
+msgid "Large"
+msgstr "Великий"
+
+#: wp-includes/js/dist/block-editor.js:4055
+msgctxt "font size name"
+msgid "Medium"
+msgstr "Середній"
+
+#: wp-includes/js/dist/block-editor.js:4047
+msgctxt "font size name"
+msgid "Small"
+msgstr "Малий"
+
+#: wp-includes/js/dist/block-editor.js:4038
+msgid "Cyan bluish gray"
+msgstr "Блакитний блакитно-сірий"
+
+#: wp-includes/js/dist/block-editor.js:4034
+msgid "Very light gray"
+msgstr "Дуже світло-сірий"
+
+#: wp-includes/js/dist/block-editor.js:4030
+msgid "Vivid cyan blue"
+msgstr "Яскравий синьо-блакитний"
+
+#: wp-includes/js/dist/block-editor.js:4026
+msgid "Pale cyan blue"
+msgstr "Блідо синьо-блакитний"
+
+#: wp-includes/js/dist/block-editor.js:4022
+msgid "Vivid green cyan"
+msgstr "Яскравий зелено-блакитний"
+
+#: wp-includes/js/dist/block-editor.js:4018
+msgid "Light green cyan"
+msgstr "Світлий зелено-блакитний"
+
+#: wp-includes/js/dist/block-editor.js:4014
+msgid "Luminous vivid amber"
+msgstr "Яскравий світлий бурштин"
+
+#: wp-includes/js/dist/block-editor.js:4010
+msgid "Luminous vivid orange"
+msgstr "Яскраво світлий помаранчевий"
+
+#: wp-includes/js/dist/block-editor.js:4006
+msgid "Vivid red"
+msgstr "Яскраво червоний"
+
+#: wp-includes/js/dist/block-editor.js:4002
+msgid "Pale pink"
+msgstr "Блідо-рожевий"
+
+#: wp-includes/js/dist/block-editor.js:19696
+msgid "Additional CSS Class"
+msgstr "Додатковий клас CSS"
+
+#: wp-includes/js/dist/block-editor.js:19600
+msgid "Anchors lets you link directly to a section on a page."
+msgstr "Якорі дозволяють безпосередньо посилатися на розділ на сторінці."
+
+#: wp-includes/js/dist/block-editor.js:19599
+msgid "HTML Anchor"
+msgstr "HTML Якір"
+
+#: wp-includes/js/dist/block-editor.js:15884
+#: wp-includes/js/dist/block-library.js:10371
+msgid "Link Settings"
+msgstr "Налаштування посилань"
+
+#: wp-includes/js/dist/block-editor.js:16611
+msgid "Insert Link"
+msgstr "Вставити посилання"
+
+#: wp-includes/js/dist/editor.js:13027
+msgid "You have unsaved changes. If you proceed, they will be lost."
+msgstr "У вас є незбережені зміни. Якщо ви продовжите, вони будуть втрачені."
+
+#: wp-includes/js/dist/editor.js:7813
+msgid "Reset the template"
+msgstr "Скинути шаблон"
+
+#: wp-includes/js/dist/editor.js:7810
+msgid "Keep it as is"
+msgstr "Залишити без змін"
+
+#: wp-includes/js/dist/editor.js:7807
+msgid "The content of your post doesn’t match the template assigned to your post type."
+msgstr "Вміст не відповідає шаблону, призначеного цьому типу запису."
+
+#: wp-includes/js/dist/editor.js:7798
+msgid "Resetting the template may result in loss of content, do you want to continue?"
+msgstr "Скидання шаблону може привести до втрати вмісту, хочете продовжити?"
+
+#: wp-includes/js/dist/editor.js:12906
+msgid "Document Outline"
+msgstr "Структура документу"
+
+#: wp-includes/js/dist/editor.js:12898
+msgid "Paragraphs"
+msgstr "Параграфи"
+
+#: wp-includes/js/dist/editor.js:12894
+msgid "Headings"
+msgstr "Заголовки"
+
+#: wp-includes/js/dist/editor.js:12888
+msgid "Document Statistics"
+msgstr "Статистика документу"
+
+#: wp-includes/js/dist/editor.js:12952
+msgid "Content structure"
+msgstr "Структура вмісту"
+
+#: wp-includes/js/dist/block-editor.js:16955
+msgid "Skip to the selected block"
+msgstr "Перейти до вибраного блоку"
+
+#: wp-includes/js/dist/editor.js:14936
+msgid "View the autosave"
+msgstr "Подивитися автозбереження"
+
+#: wp-includes/js/dist/editor.js:14933
+msgid "There is an autosave of this post that is more recent than the version below."
+msgstr "Існує більш пізня версія цього запису, ніж версія нижче."
+
+#: wp-includes/js/dist/editor.js:9878
+msgid "Protected with a password you choose. Only those with the password can view this post."
+msgstr "Захищена паролем, який ви вкажете. Запис зможуть подивитися тільки ті, в кого є пароль."
+
+#: wp-includes/js/dist/editor.js:9874
+msgid "Only visible to site admins and editors."
+msgstr "Видно тільки адміністраторам і редакторам."
+
+#: wp-includes/js/dist/editor.js:9870
+msgid "Visible to everyone."
+msgstr "Видно всім."
+
+#: wp-includes/js/dist/editor.js:10034
+msgid "Use a secure password"
+msgstr "Використовуйте безпечний пароль"
+
+#: wp-includes/js/dist/editor.js:10028
+msgid "Create password"
+msgstr "Створити пароль"
+
+#: wp-includes/js/dist/editor.js:9999
+msgid "Post Visibility"
+msgstr "Видимість запису"
+
+#: wp-includes/js/dist/editor.js:9938
+msgid "Would you like to privately publish this post now?"
+msgstr "Ви хочете опублікувати запис як особистий?"
+
+#: wp-includes/js/dist/editor.js:12750
+msgid "Move to trash"
+msgstr "Перемістити в кошик"
+
+#: wp-includes/js/dist/editor.js:12638 wp-includes/js/dist/editor.js:12643
+msgid "Add title"
+msgstr "Додати заголовок"
+
+#: wp-includes/js/dist/editor.js:11862
+msgid "Terms"
+msgstr "Значення"
+
+#: wp-includes/js/dist/editor.js:11856
+msgid "Parent Term"
+msgstr "Батьківський термін"
+
+#: wp-includes/js/dist/editor.js:11854 wp-includes/js/dist/editor.js:11855
+msgid "Add new term"
+msgstr "Додати новий термін"
+
+#: wp-includes/js/dist/editor.js:11854 wp-includes/js/dist/editor.js:11855
+msgid "Add new category"
+msgstr "Додати нову рубрику"
+
+#: wp-includes/js/dist/editor.js:10451
+msgctxt "term"
+msgid "Remove %s"
+msgstr "Видалити %s"
+
+#: wp-includes/js/dist/editor.js:10450
+msgctxt "term"
+msgid "%s removed"
+msgstr "%s видалений"
+
+#: wp-includes/js/dist/editor.js:10449 wp-includes/js/dist/editor.js:11606
+msgctxt "term"
+msgid "%s added"
+msgstr "%s доданий"
+
+#: wp-includes/js/dist/editor.js:10448 wp-includes/js/dist/editor.js:11606
+msgid "Term"
+msgstr "Термін"
+
+#: wp-includes/js/dist/editor.js:10448
+msgid "Tag"
+msgstr "Позначка"
+
+#: wp-includes/js/dist/editor.js:10447
+msgid "Add New Term"
+msgstr "Додати новий термін"
+
+#: wp-includes/js/dist/editor.js:11099
+msgid "Switch to Draft"
+msgstr "Переключитися на чернетку"
+
+#: wp-includes/js/dist/editor.js:11085
+msgid "Are you sure you want to unschedule this post?"
+msgstr "Ви впевнені, що хочете не планувати цей пост?"
+
+#: wp-includes/js/dist/editor.js:11083
+msgid "Are you sure you want to unpublish this post?"
+msgstr "Ви впевнені, що хочете скасувати публікацію запису?"
+
+#: wp-includes/js/dist/editor.js:10158
+msgid "Immediately"
+msgstr "Негайно"
+
+#: wp-includes/js/dist/editor.js:11224
+msgid "Saving"
+msgstr "Збереження"
+
+#: wp-includes/js/dist/editor.js:11224
+msgid "Autosaving"
+msgstr "Автозбереження"
+
+#: wp-includes/js/dist/editor.js:9818
+msgid "Finished writing? That’s great, let’s get this published right now. Just click “Publish” and you’re good to go."
+msgstr "Закінчили запис? Це чудово, давайте це опублікуємо прямо зараз. Просто натисніть 'Опублікувати' і готово."
+
+#: wp-includes/js/dist/editor.js:9808
+msgid "Publish…"
+msgstr "Опублікувати…"
+
+#: wp-includes/js/dist/editor.js:10731
+msgid "Publish:"
+msgstr "Опублікована:"
+
+#: wp-includes/js/dist/editor.js:10725
+msgid "Visibility:"
+msgstr "Видимість:"
+
+#: wp-includes/js/dist/editor.js:10718
+msgid "Double-check your settings before publishing."
+msgstr "Перевірте свої налаштування перед публікацією."
+
+#: wp-includes/js/dist/editor.js:10717
+msgid "Are you ready to publish?"
+msgstr "Ви готові опублікувати?"
+
+#: wp-includes/js/dist/editor.js:10715
+msgid "Your work will be published at the specified date and time."
+msgstr "Ваша робота буде опублікована в зазначену дату та час."
+
+#: wp-includes/js/dist/editor.js:10714
+msgid "Are you ready to schedule?"
+msgstr "Ви готові запланувати?"
+
+#: wp-includes/js/dist/editor.js:10712
+msgid "When you’re ready, submit your work for review, and an Editor will be able to approve it for you."
+msgstr "Коли ви будете готові, відправте свою роботу на перевірку, і редактор зможе її схвалити."
+
+#: wp-includes/js/dist/editor.js:10711
+msgid "Are you ready to submit for review?"
+msgstr "Ви готові відправити на перевірку?"
+
+#: wp-includes/media-template.php:469 wp-includes/media-template.php:647
+#: wp-includes/js/dist/editor.js:10866
+msgid "Copy Link"
+msgstr "Копіювати посилання"
+
+#: wp-includes/js/dist/editor.js:10866 wp-includes/js/dist/edit-post.js:1398
+#: wp-includes/js/dist/block-library.js:12010
+msgid "Copied!"
+msgstr "Скопійовано!"
+
+#. translators: %s: post type singular name
+#: wp-includes/js/dist/editor.js:10854
+msgid "%s address"
+msgstr "%s адреса"
+
+#: wp-includes/js/dist/editor.js:10849
+msgid "What’s next?"
+msgstr "Що далі?"
+
+#: wp-includes/js/dist/editor.js:10839
+msgid "is now live."
+msgstr "опублікована."
+
+#: wp-includes/js/dist/editor.js:10839
+msgid "is now scheduled. It will go live on"
+msgstr "запланована і буде опублікована"
+
+#: wp-includes/js/dist/editor.js:10531
+msgid "Tags help users and search engines navigate your site and find your content. Add a few keywords to describe your post."
+msgstr "Теги допомагають користувачам і пошуковим системам переміщатися на вашому сайті та знаходити ваш вміст. Додайте кілька ключових слів для опису вашої публікації."
+
+#: wp-includes/js/dist/editor.js:10527
+msgid "Add tags"
+msgstr "Додати позначки"
+
+#: wp-includes/js/dist/editor.js:10641
+msgid "Apply the \"%1$s\" format."
+msgstr "Застосувати \"%1$s\" формат."
+
+#: wp-includes/js/dist/editor.js:10638
+msgid "Your theme uses post formats to highlight different kinds of content, like images or videos. Apply a post format to see this special styling."
+msgstr "Ваша тема використовує формати публікацій для виділення різних типів вмісту, як-от зображення чи відео. Застосувати формат публікації, щоб побачити цей спеціальний стиль."
+
+#: wp-includes/js/dist/editor.js:10634
+msgid "Use a post format"
+msgstr "Використовуйте формат публікації"
+
+#: wp-includes/js/dist/editor.js:11004
+msgid "Always show pre-publish checks."
+msgstr "Завжди показувати перед публікацією чеків."
+
+#: wp-includes/js/dist/editor.js:10996
+msgid "Close panel"
+msgstr "Закрити панель"
+
+#: wp-includes/js/dist/editor.js:9657
+msgid "Submit for Review"
+msgstr "Надіслати на розгляд"
+
+#: wp-includes/js/dist/editor.js:9653
+msgid "Scheduling…"
+msgstr "Планування…"
+
+#: wp-includes/js/dist/editor.js:9651
+msgid "Updating…"
+msgstr "Оновлення…"
+
+#: wp-includes/js/dist/editor.js:9649
+msgid "Publishing…"
+msgstr "Публікація…"
+
+#: wp-includes/js/dist/editor.js:9200
+msgid "Click “Preview” to load a preview of this page, so you can make sure you’re happy with your blocks."
+msgstr "Натисніть 'Передперегляд', щоб завантажити попередній перегляд цієї сторінки, щоб ви могли переконатися, що задоволені своїми блоками."
+
+#: wp-includes/js/dist/editor.js:9194
+msgctxt "imperative verb"
+msgid "Preview"
+msgstr "Передперегляд"
+
+#: wp-includes/js/dist/editor.js:9073 wp-includes/js/dist/editor.js:9083
+msgid "Generating preview…"
+msgstr "Генерування перегляду..."
+
+#: wp-includes/js/dist/editor.js:9612
+msgid "Allow Pingbacks & Trackbacks"
+msgstr "Увімкнути сповіщення і зворотні посилання"
+
+#: wp-includes/js/dist/editor.js:12444
+msgid "Change Permalinks"
+msgstr "Змінити постійні посилання"
+
+#: wp-includes/js/dist/editor.js:12416
+msgid "Permalink:"
+msgstr "Постійне посилання:"
+
+#: wp-includes/js/dist/editor.js:12394
+msgid "Copy the permalink"
+msgstr "Копіювати посилання"
+
+#: wp-includes/js/dist/editor.js:12394
+msgid "Permalink copied"
+msgstr "Посилання скопійовано"
+
+#: wp-includes/js/dist/editor.js:12251
+msgid "Edit post permalink"
+msgstr "Редагувати постійне посилання"
+
+#: wp-includes/js/dist/editor.js:9467
+msgid "Take Over"
+msgstr "Прийняти"
+
+#. translators: %s: user's display name
+#: wp-includes/js/dist/editor.js:9457
+msgid "Another user is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "На даний момент інший користувач працює над цим повідомленням, а це означає, що ви не можете внести зміни, якщо не захочете."
+
+#. translators: %s: user's display name
+#: wp-includes/js/dist/editor.js:9457
+msgid "%s is currently working on this post, which means you cannot make changes, unless you take over."
+msgstr "%s в даний час працює над цим повідомленням, а це означає, що ви не можете внести зміни, якщо ви не захочете."
+
+#. translators: %s: user's display name
+#: wp-includes/js/dist/editor.js:9449
+msgid "Another user now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "Інший користувач зараз редагує цей запис. Не хвилюйтеся, ваші зміни до цього моменту були збережені."
+
+#. translators: %s: user's display name
+#: wp-includes/js/dist/editor.js:9449
+msgid "%s now has editing control of this post. Don’t worry, your changes up to this moment have been saved."
+msgstr "%s тепер редагує цей запис. Не хвилюйтеся, ваші зміни до цього моменту були збережені."
+
+#: wp-includes/js/dist/editor.js:9445
+msgid "Avatar"
+msgstr "Аватар"
+
+#: wp-includes/js/dist/editor.js:9437
+msgid "This post is already being edited."
+msgstr "Запис вже редагується."
+
+#: wp-includes/js/dist/editor.js:9437
+msgid "Someone else has taken over this post."
+msgstr "Хтось ще перехопив цей запис."
+
+#: wp-includes/js/dist/editor.js:9020
+msgid "%d Revision"
+msgid_plural "%d Revisions"
+msgstr[0] "%d редакція"
+msgstr[1] "%d редакциї"
+msgstr[2] "%d редакцій"
+
+#: wp-includes/js/dist/editor.js:8865
+msgid "Post Format"
+msgstr "Формат запису"
+
+#: wp-includes/js/dist/editor.js:8839
+msgid "Chat"
+msgstr "Чат"
+
+#: wp-includes/js/dist/editor.js:8827
+msgid "Standard"
+msgstr "Стандартний"
+
+#: wp-includes/js/dist/editor.js:8812
+msgid "Aside"
+msgstr "Замітка"
+
+#: wp-includes/js/dist/editor.js:8714
+#: wp-includes/js/dist/block-library.js:15741
+msgid "Replace image"
+msgstr "Замінити зображення"
+
+#: wp-includes/js/dist/editor.js:8693
+msgid "Edit or update the image"
+msgstr "Редагувати або оновити зображення"
+
+#: wp-includes/js/dist/editor.js:8523
+msgid "Learn more about manual excerpts"
+msgstr "Детальніше про уривки"
+
+#: wp-includes/js/dist/editor.js:8515
+msgid "Write an excerpt (optional)"
+msgstr "Написати уривок (необов'язково)"
+
+#: wp-includes/js/dist/editor.js:8482
+msgid "Allow Comments"
+msgstr "Дозволити коментарі"
+
+#: wp-includes/js/dist/block-editor.js:13639
+msgid "(%s: %s)"
+msgstr "(%s: %s)"
+
+#: wp-includes/js/dist/editor.js:8225
+msgid "no parent"
+msgstr "без батька"
+
+#: wp-includes/js/dist/editor.js:8219
+msgid "no title"
+msgstr "без заголовку"
+
+#: wp-includes/js/dist/editor.js:8110
+msgid "Order"
+msgstr "Порядок сортування"
+
+#: wp-includes/js/dist/block-editor.js:16113
+msgid "Drag a video, upload a new one or select a file from your library."
+msgstr "Перетягніть відео, завантажте новий файл або виберіть файл зі своєї бібліотеки."
+
+#: wp-includes/js/dist/block-editor.js:16111
+msgid "Drag an image, upload a new one or select a file from your library."
+msgstr "Перетягніть зображення, завантажте нове або виберіть файл із своєї бібліотеки."
+
+#: wp-includes/js/dist/block-editor.js:16109
+msgid "Drag an audio, upload a new one or select a file from your library."
+msgstr "Перетягніть аудіо файл, завантажте новий або виберіть файл із бібліотеки."
+
+#: wp-includes/js/dist/block-editor.js:16106
+msgid "Drag a media file, upload a new one or select a file from your library."
+msgstr "Перетягніть медіа файл, завантажте новий файл або виберіть файл зі своєї бібліотеки."
+
+#: wp-includes/js/dist/block-editor.js:15944
+msgid "Paste or type URL"
+msgstr "Вставити або ввести URL-адресу"
+
+#: wp-includes/js/dist/block-editor.js:11201
+#: wp-includes/js/dist/edit-post.js:1535
+msgid "Manage All Reusable Blocks"
+msgstr "Управління всіма \"Багаторазовими блоками\""
+
+#: wp-includes/js/dist/block-editor.js:11187
+msgid "Reusable"
+msgstr "Багаторазові"
+
+#: wp-includes/js/dist/block-editor.js:11158
+msgctxt "blocks"
+msgid "Most Used"
+msgstr "Найбільш вживані"
+
+#: wp-includes/js/dist/block-editor.js:11151
+#: wp-includes/js/dist/edit-post.js:4151
+msgid "Available block types"
+msgstr "Доступні типи блоків"
+
+#: wp-includes/js/dist/block-editor.js:11139
+#: wp-includes/js/dist/block-editor.js:11142
+#: wp-includes/js/dist/edit-post.js:4140
+msgid "Search for a block"
+msgstr "Пошук блоків"
+
+#: wp-includes/js/dist/editor.js:11764
+#: wp-includes/js/dist/block-editor.js:11093
+msgid "%d result found."
+msgid_plural "%d results found."
+msgstr[0] "Знайдено %d результат."
+msgstr[1] "Знайдено %d результатів."
+msgstr[2] "Знайдено %d результат."
+
+#: wp-includes/js/dist/block-editor.js:11795
+msgid "Add %s"
+msgstr "Додати %s"
+
+#: wp-includes/js/dist/editor.js:7965
+msgid "The editor has encountered an unexpected error."
+msgstr "Сталася неочікувана помилка."
+
+#: wp-includes/js/dist/editor.js:7964
+msgid "Copy Error"
+msgstr "Помилка копіювання"
+
+#: wp-includes/js/dist/editor.js:7960
+msgid "Copy Post Text"
+msgstr "Скопіювати текст запису"
+
+#: wp-includes/js/dist/editor.js:7956
+msgid "Attempt Recovery"
+msgstr "Спробувати відновити"
+
+#: wp-includes/js/dist/editor.js:7407
+msgid "(Multiple H1 headings are not recommended)"
+msgstr "(Не рекомендується використовувати більше одного тега H1)"
+
+#: wp-includes/js/dist/editor.js:7402
+msgid "(Your theme may already use a H1 for the post title)"
+msgstr "(Ваша тема вже може використовувати тег H1 для заголовка запису)"
+
+#: wp-includes/js/dist/editor.js:7397
+msgid "(Incorrect heading level)"
+msgstr "(Некоректний рівень заголовка)"
+
+#: wp-includes/js/dist/editor.js:7392
+msgid "(Empty heading)"
+msgstr "(Без заголовка)"
+
+#: wp-includes/js/dist/block-editor.js:8825
+msgid "This color combination may be hard for people to read. Try using a brighter background color and/or a darker text color."
+msgstr "Це поєднання кольорів може утруднити читання. Спробуйте використовувати більше яскравий колір фону і / або більше темний колір тексту."
+
+#: wp-includes/js/dist/block-editor.js:8825
+msgid "This color combination may be hard for people to read. Try using a darker background color and/or a brighter text color."
+msgstr "Це поєднання кольорів може утруднити читання. Спробуйте використовувати більше темний колір фону і / або більше яскравий колір тексту."
+
+#: wp-includes/js/dist/block-editor.js:13552
+msgid "(current %s: %s)"
+msgstr "(поточний %s: %s)"
+
+#: wp-includes/js/dist/block-editor.js:18044
+msgid "Transform To:"
+msgstr "Перетворити в:"
+
+#: wp-includes/js/dist/block-editor.js:18037
+msgid "Block Styles"
+msgstr "Стилі блоків"
+
+#: wp-includes/js/dist/block-editor.js:18013
+msgid "Change type of %d block"
+msgid_plural "Change type of %d blocks"
+msgstr[0] "Змінити тип %d блоку"
+msgstr[1] "Змінити тип %d блоків"
+msgstr[2] "Змінити тип %d блоків"
+
+#: wp-includes/js/dist/block-editor.js:17595
+msgid "Remove from Reusable Blocks"
+msgstr "Видалити з багаторазових блоків"
+
+#: wp-includes/js/dist/block-editor.js:17507
+msgid "Convert to Regular Block"
+msgstr "Перетворити в звичайний блок"
+
+#: wp-includes/js/dist/block-editor.js:17503
+msgid "Add to Reusable Blocks"
+msgstr "Додати до багаторазових блоків"
+
+#: wp-includes/js/dist/block-editor.js:17874
+msgid "Remove Block"
+msgstr "Видалити блок"
+
+#: wp-includes/js/dist/block-editor.js:17853
+msgid "Insert After"
+msgstr "Вставити після"
+
+#: wp-includes/js/dist/block-editor.js:17848
+msgid "Insert Before"
+msgstr "Вставити перед"
+
+#: wp-includes/js/dist/block-editor.js:17843
+msgid "Duplicate"
+msgstr "Дублювати"
+
+#: wp-includes/js/dist/block-editor.js:9729
+#: wp-includes/js/dist/block-editor.js:17807
+msgid "More options"
+msgstr "Ще налаштування"
+
+#: wp-includes/js/dist/block-editor.js:17807
+msgid "Hide options"
+msgstr "Приховати параметри"
+
+#: wp-includes/js/dist/block-editor.js:17441
+msgid "Edit visually"
+msgstr "Редагувати візуально"
+
+#: wp-includes/js/dist/block-editor.js:17441
+msgid "Edit as HTML"
+msgstr "Редагувати як HTML"
+
+#: wp-includes/js/dist/block-editor.js:8329
+#: wp-includes/js/dist/block-editor.js:8406
+msgid "Block Navigation"
+msgstr "Блок навігації"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: wp-includes/js/dist/block-editor.js:9151
+msgid "Move %1$d block from position %2$d down by one place"
+msgid_plural "Move %1$d blocks from position %2$d down by one place"
+msgstr[0] "Перемістити %1$d блок з позиції %2$d в одному місці"
+msgstr[1] "Перемістити %1$d блоки з позиції %2$d в одному місці"
+msgstr[2] "Перемістити %1$d блок з позиції %2$d в одному місці"
+
+#. translators: 1: Number of selected blocks, 2: Position of selected blocks
+#: wp-includes/js/dist/block-editor.js:9146
+msgid "Move %1$d block from position %2$d up by one place"
+msgid_plural "Move %1$d blocks from position %2$d up by one place"
+msgstr[0] "Перемістити %1$d блок з позиції %2$d в одному місці"
+msgstr[1] "Перемістити %1$d блоки з позиції %2$d в одному місці"
+msgstr[2] "Перемістити %1$d блок з позиції %2$d в одному місці"
+
+#: wp-includes/js/dist/block-editor.js:9141
+msgid "Blocks cannot be moved down as they are already at the bottom"
+msgstr "Блоки не можуть бути переміщені вниз, так як вони вже знаходяться в самому низу"
+
+#: wp-includes/js/dist/block-editor.js:9137
+msgid "Blocks cannot be moved up as they are already at the top"
+msgstr "Блоки не можуть бути переміщені вгору, так як вони вже знаходяться зверху"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: wp-includes/js/dist/block-editor.js:9117
+msgid "Block %s is at the beginning of the content and can’t be moved up"
+msgstr "Блок %s знаходиться в самому верху і не може бути переміщений вище"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: wp-includes/js/dist/block-editor.js:9111
+msgid "Move %1$s block from position %2$d up to position %3$d"
+msgstr "Перемістити %1$s блок з позиції %2$d до позиції %3$d"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: wp-includes/js/dist/block-editor.js:9105
+msgid "Block %s is at the end of the content and can’t be moved down"
+msgstr "Блок %s знаходиться в самому низу і не може бути переміщений ще нижче"
+
+#. translators: 1: Type of block (i.e. Text, Image etc), 2: Position of
+#. selected block, 3: New position
+#: wp-includes/js/dist/block-editor.js:9099
+msgid "Move %1$s block from position %2$d down to position %3$d"
+msgstr "Перемістити блок %1$s з позиції %2$d до позиції %3$d"
+
+#. translators: %s: Type of block (i.e. Text, Image etc)
+#: wp-includes/js/dist/block-editor.js:9093
+msgid "Block %s is the only block, and cannot be moved"
+msgstr "Блок %s є єдиним блоком і не може бути переміщений"
+
+#: wp-includes/js/dist/block-editor.js:12480
+msgid "Block: %s"
+msgstr "Блок: %s"
+
+#: wp-includes/js/dist/block-editor.js:10006
+msgid "This block contains unexpected or invalid content."
+msgstr "Цей блок містить непередбачений або недійсний вміст."
+
+#. translators: Button to fix block content
+#: wp-includes/js/dist/block-editor.js:9999
+msgctxt "imperative verb"
+msgid "Resolve"
+msgstr "Вирішити"
+
+#: wp-includes/js/dist/block-editor.js:9988
+#: wp-includes/js/dist/block-editor.js:17659
+msgid "Convert to Blocks"
+msgstr "Перетворити в блоки"
+
+#. translators: Dialog title to fix block content
+#: wp-includes/js/dist/block-editor.js:9980
+msgid "Resolve Block"
+msgstr "Виправити блок"
+
+#: wp-includes/js/dist/block-editor.js:9970
+msgid "Convert to Classic Block"
+msgstr "Конвертувати в Класичний Блок"
+
+#: wp-includes/js/dist/block-editor.js:10077
+msgid "This block has encountered an error and cannot be previewed."
+msgstr "Цей блок містить помилку і не може бути переглянутий."
+
+#: wp-includes/js/dist/block-editor.js:11346
+#: wp-includes/js/dist/block-editor.js:12884
+#: wp-includes/js/dist/block-editor.js:12985
+msgid "Add block"
+msgstr "Додати блок"
+
+#: wp-includes/js/dist/block-editor.js:17266
+msgid "No block selected."
+msgstr "Блок не обраний."
+
+#: wp-includes/js/dist/block-editor.js:9886
+msgid "After Conversion"
+msgstr "Після перетворення"
+
+#: wp-includes/js/dist/block-editor.js:9882
+#: wp-includes/js/dist/block-editor.js:10004
+msgid "Convert to HTML"
+msgstr "Перетворити в HTML"
+
+#: wp-includes/js/dist/block-editor.js:9879
+msgid "Current"
+msgstr "Поточний"
+
+#: wp-includes/js/dist/block-editor.js:8001
+msgid "Change Alignment"
+msgstr "Змінити вирівнювання"
+
+#: wp-includes/js/dist/block-editor.js:7974
+msgid "Full width"
+msgstr "На всю ширину"
+
+#: wp-includes/js/dist/block-editor.js:7970
+msgid "Wide width"
+msgstr "По ширині вмісту"
+
+#: wp-includes/js/dist/block-editor.js:7906
+msgid "Change Text Alignment"
+msgstr "Змінити вирівнювання тексту"
+
+#. translators: %s: error message describing the problem
+#: wp-includes/js/dist/components.js:36430
+msgid "Error loading block: %s"
+msgstr "Помилка завантаження блоку: %s"
+
+#: wp-includes/js/dist/components.js:35124
+#: wp-includes/js/dist/block-library.js:19819
+msgid "Number of items"
+msgstr "Кількість елементів"
+
+#: wp-includes/js/dist/components.js:35118 wp-includes/js/dist/editor.js:11606
+msgid "Category"
+msgstr "Категорія"
+
+#. translators: label for ordering posts by title in descending order
+#: wp-includes/js/dist/components.js:35098
+msgid "Z → A"
+msgstr "Я \t А"
+
+#. translators: label for ordering posts by title in ascending order
+#: wp-includes/js/dist/components.js:35094
+msgid "A → Z"
+msgstr "А \t Я"
+
+#: wp-includes/js/dist/components.js:35090
+msgid "Oldest to Newest"
+msgstr "Від старих до нових"
+
+#: wp-includes/js/dist/components.js:35087
+msgid "Newest to Oldest"
+msgstr "Від нових до старих"
+
+#: wp-includes/js/dist/components.js:35084
+msgid "Order by"
+msgstr "Сортувати за"
+
+#: wp-includes/js/dist/components.js:34555
+msgid "Dismiss this notice"
+msgstr "Закрити це повідомлення"
+
+#. translators: 1: term name, 2: term position in a set of terms, 3: total term
+#. set count.
+#: wp-includes/js/dist/components.js:32848
+msgid "%1$s (%2$s of %3$s)"
+msgstr "%1$s (%2$s з %3$s)"
+
+#: wp-includes/js/dist/components.js:33791
+msgid "Remove item"
+msgstr "Видалити пункт"
+
+#: wp-includes/js/dist/components.js:33790
+msgid "Item removed."
+msgstr "Елемент видалений."
+
+#: wp-includes/js/dist/components.js:33789
+msgid "Item added."
+msgstr "Елемент доданий."
+
+#: wp-includes/js/dist/components.js:33755
+msgid "Separate with commas"
+msgstr "Розділити комами"
+
+#: wp-includes/js/dist/components.js:33707
+msgid "Add item"
+msgstr "Додати елемент"
+
+#: wp-includes/js/dist/components.js:32508
+#: wp-includes/js/dist/components.js:32630
+#: wp-includes/js/dist/block-library.js:10370
+msgid "Reset"
+msgstr "Скинути"
+
+#: wp-includes/js/dist/components.js:32568
+msgctxt "font size name"
+msgid "Custom"
+msgstr "Довільний"
+
+#: wp-includes/js/dist/components.js:32568
+#: wp-includes/js/dist/block-editor.js:4051
+msgctxt "font size name"
+msgid "Normal"
+msgstr "Звичайний"
+
+#: wp-includes/js/dist/components.js:32619
+msgid "Custom font size"
+msgstr "Спеціальний розмір шрифту"
+
+#. translators: accessibility text
+#: wp-includes/widgets/class-wp-widget-custom-html.php:313
+#: wp-includes/media-template.php:173
+#: wp-includes/customize/class-wp-customize-nav-menu-locations-control.php:59
+#: wp-includes/functions.php:7030
+#: wp-includes/class-wp-customize-manager.php:4270
+#: wp-includes/class-wp-customize-manager.php:5572
+#: wp-includes/class-wp-customize-manager.php:5593
+#: wp-includes/js/dist/components.js:31986 wp-includes/js/dist/editor.js:9198
+msgid "(opens in a new tab)"
+msgstr "(відкривається у новій вкладці)"
+
+#: wp-includes/js/dist/components.js:30664
+msgid "Minutes"
+msgstr "Хвилини"
+
+#: wp-includes/js/dist/components.js:30794
+msgid "Calendar Help"
+msgstr "Календар довідки"
+
+#: wp-includes/js/dist/components.js:30787
+msgid "Go to the first (home) or last (end) day of a week."
+msgstr "Перейдіть до першого (домашнього) або останнього (кінцевого) дня тижня."
+
+#: wp-includes/js/dist/components.js:30785
+msgid "Home/End"
+msgstr "Home/End"
+
+#: wp-includes/js/dist/components.js:30784
+msgid "Home and End"
+msgstr "Home і End"
+
+#: wp-includes/js/dist/components.js:30783
+msgid "Move backward (PgUp) or forward (PgDn) by one month."
+msgstr "Перемістити назад (PgUp) або вперед (PgDn) на один місяць."
+
+#: wp-includes/js/dist/components.js:30781
+msgid "PgUp/PgDn"
+msgstr "PgUp/PgDn"
+
+#: wp-includes/js/dist/components.js:30780
+msgid "Page Up and Page Down"
+msgstr "Page Up і Page Down"
+
+#: wp-includes/js/dist/components.js:30779
+msgid "Move backward (up) or forward (down) by one week."
+msgstr "Рухайтесь назад (вгору) або вперед (вниз) на один тиждень."
+
+#: wp-includes/js/dist/components.js:30776
+msgid "Up and Down Arrows"
+msgstr "Стрілки Вгору та Вниз"
+
+#: wp-includes/js/dist/components.js:30775
+msgid "Move backward (left) or forward (right) by one day."
+msgstr "Рухайтесь назад (вправо) і вперед (вправо) на один день."
+
+#: wp-includes/js/dist/components.js:30772
+msgid "Left and Right Arrows"
+msgstr "Стрілки Вліво та Вправо"
+
+#: wp-includes/js/dist/components.js:30771
+msgid "Select the date in focus."
+msgstr "Виберіть дату в фокусі."
+
+#: wp-includes/js/dist/components.js:30768
+msgctxt "keyboard button"
+msgid "Enter"
+msgstr "Введіть"
+
+#: wp-includes/js/dist/components.js:30767
+msgid "Navigating with a keyboard"
+msgstr "Навігація за допомогою клавіатури"
+
+#: wp-includes/js/dist/components.js:30767
+msgid "Click the desired day to select it."
+msgstr "Натисніть потрібний день, щоб вибрати його."
+
+#: wp-includes/js/dist/components.js:30767
+msgid "Click the right or left arrows to select other months in the past or the future."
+msgstr "Натисніть стрілки вправо або вліво, щоб вибрати інші місяці минулі або майбутні."
+
+#: wp-includes/js/dist/components.js:30767
+msgid "Click to Select"
+msgstr "Натисніть, щоб вибрати"
+
+#: wp-includes/js/dist/components.js:29887
+msgid "Use your arrow keys to change the base color. Move up to lighten the color, down to darken, left to decrease saturation, and right to increase saturation."
+msgstr "Використовуйте клавіші зі стрілками для зміни кольору. Перемістіть вгору - щоб освітлити колір, вниз - щоб затемнити, вліво - щоб збільшити насиченість, і вправо - щоб зменшити насиченість."
+
+#: wp-includes/js/dist/components.js:29879
+msgid "Choose a shade"
+msgstr "Виберіть відтінок"
+
+#: wp-includes/js/dist/components.js:29634
+msgid "Change color format"
+msgstr "Зміна колірного формату"
+
+#: wp-includes/js/dist/components.js:29587
+msgid "Color value in HSL"
+msgstr "Значення кольору в HSL"
+
+#: wp-includes/js/dist/components.js:29548
+msgid "Color value in RGB"
+msgstr "Значення кольору в RGB"
+
+#: wp-includes/js/dist/components.js:29540
+msgid "Color value in hexadecimal"
+msgstr "Значення кольору в HEX-форматі"
+
+#: wp-includes/js/dist/components.js:29481
+msgid "Hex color mode active"
+msgstr "Режим Hex кольору активний"
+
+#: wp-includes/js/dist/components.js:29475
+msgid "Hue/saturation/lightness mode active"
+msgstr "Режим відтінку / насичення / легкість активний"
+
+#: wp-includes/js/dist/components.js:29470
+#: wp-includes/js/dist/components.js:29486
+msgid "RGB mode active"
+msgstr "Режим RGB активний"
+
+#: wp-includes/js/dist/components.js:29255
+msgid "Move the arrow left or right to change hue."
+msgstr "Перемістіть стрілку вліво або вправо, щоб змінити відтінок."
+
+#: wp-includes/js/dist/components.js:29247
+msgid "Hue value in degrees, from 0 to 359."
+msgstr "Значення відтінку в градусах, від 0 до 359."
+
+#: wp-includes/js/dist/components.js:29015
+msgid "Alpha value, from 0 (transparent) to 1 (fully opaque)."
+msgstr "Значення Альфа від 0 (прозорий) до 1 (повністю непрозорий)."
+
+#. translators: %s: The name of the color e.g: "vivid red".
+#: wp-includes/js/dist/components.js:30107
+msgid "Color: %s"
+msgstr "Колір: %s"
+
+#. translators: %s: color hex code e.g: "#f00".
+#: wp-includes/js/dist/components.js:30100
+#: wp-includes/js/dist/components.js:30108
+msgid "Color code: %s"
+msgstr "Колір: %s"
+
+#: wp-includes/js/dist/components.js:30081
+msgid "Custom color picker"
+msgstr "Довільний вибір кольору"
+
+#: wp-includes/js/dist/components.js:27728
+#: wp-includes/js/dist/components.js:33378
+#: wp-includes/js/dist/block-editor.js:16345
+msgid "No results."
+msgstr "Нет результатов."
+
+#: wp-includes/js/dist/components.js:27726
+#: wp-includes/js/dist/components.js:33376
+#: wp-includes/js/dist/block-editor.js:16343
+msgid "%d result found, use up and down arrow keys to navigate."
+msgid_plural "%d results found, use up and down arrow keys to navigate."
+msgstr[0] "Знайдено %d результат. Використовуйте стрілки на клавіатурі для навігації."
+msgstr[1] "Знайдено  %d результата. Використовуйте стрілки на клавіатурі для навігації."
+msgstr[2] "Знайдено %d результатів. Використовуйте стрілки на клавіатурі для навігації."
+
+#: wp-includes/post.php:279 wp-includes/js/dist/editor.js:6631
+msgid "Block updated."
+msgstr "Блок оновлений."
+
+#: wp-includes/post.php:278
+msgid "Block scheduled."
+msgstr "Блок заплановано."
+
+#: wp-includes/post.php:277
+msgid "Block reverted to draft."
+msgstr "Блок перенесено до чернетки."
+
+#: wp-includes/post.php:276
+msgid "Block published privately."
+msgstr "Блок опубліковано приватно."
+
+#: wp-includes/post.php:275
+msgid "Block published."
+msgstr "Блок опубліковано."
+
+#: wp-includes/post.php:274
+msgid "Blocks list"
+msgstr "Список блоків"
+
+#: wp-includes/post.php:273
+msgid "Blocks list navigation"
+msgstr "Навігація по списку блоків"
+
+#: wp-includes/post.php:272
+msgid "Filter blocks list"
+msgstr "Фільтрувати список блоків"
+
+#: wp-includes/post.php:270 wp-includes/js/dist/block-editor.js:11203
+#: wp-includes/js/dist/edit-post.js:4155
+msgid "No blocks found."
+msgstr "Блоків не знайдено."
+
+#: wp-includes/post.php:268
+msgid "All Blocks"
+msgstr "Усі блоки"
+
+#: wp-includes/post.php:267
+msgid "View Block"
+msgstr "Переглянути блок"
+
+#: wp-includes/post.php:266
+msgid "Edit Block"
+msgstr "Редагувати блок"
+
+#: wp-includes/post.php:265
+msgid "New Block"
+msgstr "Новий блок"
+
+#: wp-includes/post.php:264
+msgid "Add New Block"
+msgstr "Додати новий блок"
+
+#: wp-includes/post.php:263
+msgctxt "Block"
+msgid "Add New"
+msgstr "Додати новий"
+
+#: wp-includes/post.php:262
+msgctxt "add new on admin bar"
+msgid "Block"
+msgstr "Блок"
+
+#: wp-includes/post.php:261
+msgctxt "admin menu"
+msgid "Blocks"
+msgstr "Блоки"
+
+#: wp-includes/post.php:260
+msgctxt "post type singular name"
+msgid "Block"
+msgstr "Блок"
+
+#: wp-includes/post.php:259
+msgctxt "post type general name"
+msgid "Blocks"
+msgstr "Блоки"
+
+#. translators: Abbreviated date/time format, see https://secure.php.net/date
+#: wp-includes/script-loader.php:615
+msgid "M j, Y g:i a"
+msgstr "M j, Y g:i a"
+
+#: wp-includes/js/dist/editor.js:12902
+msgid "Blocks"
+msgstr "Блоки"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:170
+msgid "The rendered block."
+msgstr "Відображаємий блок."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:143
+msgid "Invalid block."
+msgstr "Некоректний блок."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:107
+msgid "Sorry, you are not allowed to read blocks as this user."
+msgstr "На жаль, вам не дозволяється читати блоки як цей користувач."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:97
+msgid "Sorry, you are not allowed to read blocks of this post."
+msgstr "На жаль, вам не дозволено читати блоки цього запису."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:67
+msgid "ID of the post context."
+msgstr "ID контексту запису."
+
+#. translators: %s is the name of the block
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:60
+msgid "Attributes for %s block"
+msgstr "Атрибути для %s блока"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-block-renderer-controller.php:48
+msgid "Unique registered name for the block."
+msgstr "Унікальне, зареєстроване для блоку ім'я."
+
+#: wp-includes/post.php:269
+msgid "Search Blocks"
+msgstr "Пошук блоків"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:171
+msgid "Whether the theme supports responsive embedded content."
+msgstr "Підтримка темою адаптивного вбудованого вмісту."
+
+#. translators: %s: duration
+#: wp-includes/script-loader.php:602
+msgid "%s from now"
+msgstr "%s тому назад"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:194
+msgid "Limit result set to themes assigned one or more statuses."
+msgstr "Граничний результат, встановлений для тем, призначений для одного або декількох статусів."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:166
+msgid "Whether the theme supports post thumbnails."
+msgstr "Незалежно від того, чи тема підтримує мініатюри записів."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:161
+msgid "Post formats supported."
+msgstr "Підтримувані формати запису."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-themes-controller.php:156
+msgid "Features supported by this theme."
+msgstr "Функції, що підтримуються цією темою."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-taxonomies-controller.php:342
+msgid "The visibility settings for the taxonomy."
+msgstr "Налаштування видимості для таксономії."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:354
+msgid "Invalid type parameter."
+msgstr "Неприпустимий параметр типу."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:299
+msgid "Limit results to items of one or more object subtypes."
+msgstr "Обмежити результати на елементи одного або декількох підтипів об&#39;єктів."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:292
+msgid "Limit results to items of an object type."
+msgstr "Обмежити результати елементами типу об'єкта."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:256
+msgid "Object subtype."
+msgstr "Підтип об'єкту."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:249
+msgid "Object type."
+msgstr "Тип об'єкту."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:133
+msgid "Internal search handler error."
+msgstr "Внутрішня помилка функції пошуку."
+
+#. translators: %s: PHP class name
+#: wp-includes/rest-api/endpoints/class-wp-rest-search-controller.php:73
+msgid "REST search handlers must extend the %s class."
+msgstr "Пошукові функції REST повинні розширювати клас %s."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2260
+msgid "The current user can post unfiltered HTML markup and JavaScript."
+msgstr "Поточний користувач може публікувати нефільтрований HTML та JavaScript."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2084
+msgid "Version of the content block format used by the object."
+msgstr "Версія формату блоку вмісту, який використовує об'єкт."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1970
+msgid "Slug automatically generated from the object title."
+msgstr "Частина посилання автоматично генерується з заголовку об'єкта."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:352
+msgid "There is nothing to save. The autosave and the post content are the same."
+msgstr "Нічого зберегти. Вміст запису не відрізняється від автоматично збереженої версії."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:301
+msgid "Preview link for the post."
+msgstr "Посилання для попереднього перегляду запису."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:252
+msgid "There is no autosave revision for this post."
+msgstr "Для цього запису немає автоматично збережених редакцій."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:1963
+msgid "Permalink template for the object."
+msgstr "Постійне посилання шаблону для об'єкту."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:246
+msgid "Invalid parent post ID."
+msgstr "Невірний ID батьківського запису."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-autosaves-controller.php:116
+msgid "The ID for the object."
+msgstr "ID для об'єкта."
+
+#: wp-includes/post.php:1649
+msgid "Page updated."
+msgstr "Сторінка оновлена."
+
+#: wp-includes/post.php:1649
+msgid "Post updated."
+msgstr "Запис оновлено."
+
+#: wp-includes/post.php:1648
+msgid "Page scheduled."
+msgstr "Сторінка запланована."
+
+#: wp-includes/post.php:1648
+msgid "Post scheduled."
+msgstr "Запис запланований."
+
+#: wp-includes/post.php:1647
+msgid "Page reverted to draft."
+msgstr "Сторінка повернута до чернеток."
+
+#: wp-includes/post.php:1647
+msgid "Post reverted to draft."
+msgstr "Запис повернуто в чернетку."
+
+#: wp-includes/post.php:1646
+msgid "Page published privately."
+msgstr "Сторінка опублікована приватно."
+
+#: wp-includes/post.php:1646
+msgid "Post published privately."
+msgstr "Запис опубліковано приватно."
+
+#: wp-includes/post.php:1645
+msgid "Page published."
+msgstr "Сторінку опубліковано."
+
+#: wp-includes/post.php:1645
+msgid "Post published."
+msgstr "Запис опубліковано."
+
+#. translators: %s: block name
+#: wp-includes/class-wp-block-type-registry.php:107
+msgid "Block type \"%s\" is not registered."
+msgstr "Тип блока \"%s\" не зареєстрований."
+
+#. translators: %s: block name
+#: wp-includes/class-wp-block-type-registry.php:77
+msgid "Block type \"%s\" is already registered."
+msgstr "Тип блока \"%s\" вже зареєстрований."
+
+#: wp-includes/class-wp-block-type-registry.php:70
+msgid "Block type names must contain a namespace prefix. Example: my-plugin/my-custom-block-type"
+msgstr "Назви типів блоків повинні містити префікс простору імен. наприклад: my-plugin/my-custom-block"
+
+#: wp-includes/class-wp-block-type-registry.php:63
+msgid "Block type names must not contain uppercase characters."
+msgstr "Назви типів блоків не повинні містити символи верхнього регістру."
+
+#: wp-includes/class-wp-block-type-registry.php:57
+msgid "Block type names must be strings."
+msgstr "Назва типу блоку має бути текстовою."
+
+#: wp-includes/blocks/latest-comments.php:147
+msgid "No comments to show."
+msgstr "Немає коментарів до показу."
+
+#. translators: 1: author name (inside <a> or <span> tag, based on if they have
+#. a URL), 2: post title related to this comment
+#: wp-includes/blocks/latest-comments.php:99
+msgid "%1$s on %2$s"
+msgstr "%1$s до %2$s"
+
+#: wp-includes/blocks/archives.php:104
+msgid "No archives to show."
+msgstr "Немає архівів для показу."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-revisions-controller.php:280
+msgid "The offset number requested is larger than or equal to the number of available revisions."
+msgstr "Запитаний номер зміщення більший або дорівнює кількості доступних редакцій."
+
+#: wp-includes/user.php:3530
+msgid "Unable to send personal data export confirmation email."
+msgstr "Неможливо надіслати електронний лист підтвердження експорту персональних даних."
+
+#: wp-includes/user.php:3421
+msgid "Invalid user request."
+msgstr "Невірний запит користувача."
+
+#. translators: Privacy data request confirmed notification email subject. 1:
+#. Site title, 2: Name of the confirmed action.
+#: wp-includes/user.php:3089
+msgid "[%1$s] Action Confirmed: %2$s"
+msgstr "[%1$s] Дія підтверджена: %2$s"
+
+#. translators: %s: taxonomy name
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2314
+msgid "The current user can create terms in the %s taxonomy."
+msgstr "Поточний користувач може створити елементи в таксономії %s."
+
+#. translators: %s: taxonomy name
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2312
+msgid "The current user can assign terms in the %s taxonomy."
+msgstr "Поточний користувач може призначити елементи в таксономії %s."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2293
+msgid "The current user can change the author on this post."
+msgstr "Поточний користувач може змінити автора цього запису."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2277
+msgid "The current user can sticky this post."
+msgstr "Поточний користувач може закріпити цей запис."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-posts-controller.php:2244
+msgid "The current user can publish this post."
+msgstr "Поточний користувач може оприлюднити цей запис."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:815
+msgid "You have used your space quota. Please delete files before uploading."
+msgstr "Ви використали весь простір. Видаліть файли, перш ніж завантажувати нові."
+
+#. translators: %s: required disk space in kilobytes
+#: wp-includes/rest-api/endpoints/class-wp-rest-attachments-controller.php:803
+msgid "Not enough space to upload. %s KB needed."
+msgstr "Недостатньо простору для завантаження. Необхідно %s кб."
+
+#: wp-includes/user.php:3293
+msgid "The site administrator has been notified. You will receive an email confirmation when they erase your data."
+msgstr "Адміністратора сайту сповіщено. Ви отримаєте підтвердження електронною поштою при видаленні ваших даних."
+
+#: wp-includes/user.php:3292
+msgid "Thanks for confirming your erasure request."
+msgstr "Дякуємо, що підтвердили ваш запит на видалення."
+
+#: wp-includes/user.php:3290
+msgid "The site administrator has been notified. You will receive a link to download your export via email when they fulfill your request."
+msgstr "Адміністратора сайту сповіщено. Ви отримаєте посилання для завантаження файлу експорту даних по електронній пошті коли ваш запит буде виконано."
+
+#: wp-includes/user.php:3289
+msgid "Thanks for confirming your export request."
+msgstr "Дякуємо, що підтвердили ваш запит на експорт даних."
+
+#. translators: Do not translate SITENAME, SITEURL, PRIVACY_POLICY_URL; those
+#. are placeholders.
+#: wp-includes/user.php:3213
+msgid ""
+"Howdy,\n"
+"\n"
+"Your request to erase your personal data on ###SITENAME### has been completed.\n"
+"\n"
+"If you have any follow-up questions or concerns, please contact the site administrator.\n"
+"\n"
+"For more information, you can also read our privacy policy: ###PRIVACY_POLICY_URL###\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"Привіт,\n"
+"\n"
+"Ваш запит на видалення своїх особистих даних на сайті ###SITENAME### виконано.\n"
+"\n"
+"Якщо у вас виникли будь-які запитання чи зауваження, будь ласка, зверніться до адміністратора сайту.\n"
+"\n"
+"Для більш детальної інформації, ви також можете прочитати нашу політику конфіденційності: ###PRIVACY_POLICY_URL###\n"
+"\n"
+"З повагою,\n"
+"Всі з ###SITENAME###\n"
+"###SITEURL###"
+
+#. translators: Do not translate SITENAME, SITEURL; those are placeholders.
+#: wp-includes/user.php:3200
+msgid ""
+"Howdy,\n"
+"\n"
+"Your request to erase your personal data on ###SITENAME### has been completed.\n"
+"\n"
+"If you have any follow-up questions or concerns, please contact the site administrator.\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"Привіт,\n"
+"\n"
+"Ваш запит на видалення особистих даних на сайті ###SITENAME### виконано.\n"
+"\n"
+"Якщо у вас виникли будь-які запитання чи зауваження, будь ласка, зверніться до адміністратора сайту.\n"
+"\n"
+"З повагою,\n"
+"Всі з ###SITENAME###\n"
+"###SITEURL###"
+
+#. translators: Erasure request fulfilled notification email subject. %s: Site
+#. name.
+#: wp-includes/user.php:3173
+msgid "[%s] Erasure Request Fulfilled"
+msgstr "[%s] Запит на видалення виконано"
+
+#. translators: Do not translate SITENAME, USER_EMAIL, DESCRIPTION, MANAGE_URL,
+#. SITEURL; those are placeholders.
+#: wp-includes/user.php:3035
+msgid ""
+"Howdy,\n"
+"\n"
+"A user data privacy request has been confirmed on ###SITENAME###:\n"
+"\n"
+"User: ###USER_EMAIL###\n"
+"Request: ###DESCRIPTION###\n"
+"\n"
+"You can view and manage these data privacy requests here:\n"
+"\n"
+"###MANAGE_URL###\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"Привіт,\n"
+"\n"
+"Запит щодо особистих даних користувача підтверджено на ###SITENAME###:\n"
+"\n"
+"Користувач: ###USER_EMAIL###\n"
+"Запит: ###DESCRIPTION###\n"
+"\n"
+"Ви можете переглянути та керувати цими запитами щодо особистих даних тут:\n"
+"\n"
+"###MANAGE_URL###\n"
+"\n"
+"З повагою,\n"
+"Всі з ###SITENAME###\n"
+"###SITEURL###"
+
+#. translators: Confirm privacy data request notification email subject. 1:
+#. Site title, 2: Name of the action
+#: wp-includes/user.php:3501
+msgid "[%1$s] Confirm Action: %2$s"
+msgstr "[%1$s] Підтвердити дію: %2$s"
+
+#: wp-includes/user.php:3387
+msgid "Erase Personal Data"
+msgstr "Видалення персональних даних"
+
+#: wp-includes/comment-template.php:2290
+msgid "Save my name, email, and website in this browser for the next time I comment."
+msgstr "Зберегти моє ім'я, e-mail, та адресу сайту в цьому браузері для моїх подальших коментарів."
+
+#: wp-includes/user.php:2907
+msgid "User Description"
+msgstr "Опис користувача"
+
+#: wp-includes/user.php:2906
+msgid "User Last Name"
+msgstr "Прізвище користувача"
+
+#: wp-includes/user.php:2905
+msgid "User First Name"
+msgstr "Ім'я користувача"
+
+#: wp-includes/user.php:2904
+msgid "User Nickname"
+msgstr "Нік користувача"
+
+#: wp-includes/user.php:2903
+msgid "User Display Name"
+msgstr "Ім'я користувача для відображення"
+
+#: wp-includes/user.php:2902
+msgid "User Registration Date"
+msgstr "Дата реєстрації користувача"
+
+#: wp-includes/user.php:2901
+msgid "User URL"
+msgstr "URL користувача"
+
+#: wp-includes/user.php:2900
+msgid "User Email"
+msgstr "E-mail користувача"
+
+#: wp-includes/user.php:2899
+msgid "User Nice Name"
+msgstr "Псевдонім користувача"
+
+#: wp-includes/user.php:2898
+msgid "User Login Name"
+msgstr "Ім'я входу користувача"
+
+#: wp-includes/user.php:2897
+msgid "User ID"
+msgstr "ID користувача"
+
+#: wp-includes/user.php:2865
+msgid "WordPress User"
+msgstr "Користувач WordPress"
+
+#: wp-includes/media.php:4115
+msgid "WordPress Media"
+msgstr "Медіафайли WordPress"
+
+#: wp-includes/script-loader.php:1555
+msgid "An error occurred while attempting to export personal data."
+msgstr "Виникла помилка при спробі експорту особистих даних."
+
+#: wp-includes/script-loader.php:1554
+msgid "No personal data export file was generated."
+msgstr "Файл експорту особистих даних не створено."
+
+#: wp-login.php:893
+msgid "User action confirmed."
+msgstr "Дію користувача підтверджено."
+
+#: wp-includes/user.php:3587
+msgid "This link has expired."
+msgstr "Термін дії цього посилання закінчився."
+
+#: wp-includes/user.php:3583
+msgid "Invalid request."
+msgstr "Невірний запит."
+
+#. translators: %s: action name
+#: wp-includes/user.php:3391
+msgid "Confirm the \"%s\" action"
+msgstr "Підтвердити дію \"%s\""
+
+#: wp-includes/user.php:3384
+msgid "Export Personal Data"
+msgstr "Експорт персональних даних"
+
+#: wp-includes/user.php:3332
+msgid "Invalid action name."
+msgstr "Невірна назва дії."
+
+#: wp-includes/user.php:3285
+msgid "The site administrator has been notified and will fulfill your request as soon as possible."
+msgstr "Адміністратора сайту сповіщено і він має опрацювати ваш запит якомога швидше."
+
+#: wp-includes/post.php:242
+msgid "User Request"
+msgstr "Запит користувача"
+
+#: wp-includes/post.php:241
+msgid "User Requests"
+msgstr "Запити користувача"
+
+#. translators: deleted long text
+#: wp-includes/functions.php:6756
+msgid "This content was deleted by the author."
+msgstr "Цей вміст був вилучений автором."
+
+#. translators: deleted text
+#: wp-includes/functions.php:6752
+msgid "[deleted]"
+msgstr "[видалено]"
+
+#. translators: %d: Comment ID
+#: wp-includes/comment.php:3526
+msgid "Comment %d contains personal data but could not be anonymized."
+msgstr "Коментар %d містить особисті дані, але не може бути анонімним."
+
+#: wp-includes/user.php:3284
+msgid "Action has been confirmed."
+msgstr "Дію підтверджено."
+
+#: wp-includes/user.php:3625
+msgid "The confirmation email has expired."
+msgstr "Термін дії електронного листа для підтвердження минув."
+
+#: wp-includes/user.php:3607
+msgid "Invalid action."
+msgstr "Невірна дія."
+
+#. translators: Do not translate DESCRIPTION, CONFIRM_URL, SITENAME, SITEURL:
+#. those are placeholders.
+#: wp-includes/user.php:3450
+msgid ""
+"Howdy,\n"
+"\n"
+"A request has been made to perform the following action on your account:\n"
+"\n"
+"     ###DESCRIPTION###\n"
+"\n"
+"To confirm this, please click on the following link:\n"
+"###CONFIRM_URL###\n"
+"\n"
+"You can safely ignore and delete this email if you do not want to\n"
+"take this action.\n"
+"\n"
+"Regards,\n"
+"All at ###SITENAME###\n"
+"###SITEURL###"
+msgstr ""
+"Привіт,\n"
+"\n"
+"Зроблено запит на виконання наступної дії відносно вашого облікового запису:\n"
+"\n"
+"     ###DESCRIPTION###\n"
+"\n"
+"Щоби підтвердити запит, будь ласка, натисніть наступне посилання:\n"
+"###CONFIRM_URL###\n"
+"\n"
+"Ви можете безпечно проігнорувати та видалити це повідомлення якщо\n"
+"ви не хочете робити цю дію.\n"
+"\n"
+"З повагою,\n"
+"Всі з ###SITENAME###\n"
+"###SITEURL###"
+
+#: wp-includes/script-loader.php:1553
+msgid "An error occurred while attempting to find and erase personal data."
+msgstr "Сталася помилка під час спроби знайти та видалити особисті дані."
+
+#: wp-includes/script-loader.php:1552
+msgid "Personal data was found for this user but some of the personal data found was not erased."
+msgstr "Особисті дані цього користувача знайдено, але деякі знайдені особисті дані не були видалені."
+
+#: wp-includes/script-loader.php:1551
+msgid "Personal data was found for this user but was not erased."
+msgstr "Особисті дані цього користувача знайдено, але не видалено."
+
+#: wp-includes/script-loader.php:1550
+msgid "All of the personal data found for this user was erased."
+msgstr "Усі знайдені особисті дані цього користувача видалено."
+
+#: wp-includes/script-loader.php:1549
+msgid "No personal data was found for this user."
+msgstr "Особистих даних цього користувача не знайдено."
+
+#: wp-includes/post.php:931
+msgid "Completed"
+msgstr "Завершено"
+
+#: wp-includes/post.php:929
+msgid "Confirmed"
+msgstr "Підтверджено"
+
+#: wp-includes/post.php:928
+msgid "Pending"
+msgstr "В очікуванні"
+
+#: wp-includes/post.php:425
+msgctxt "request status"
+msgid "Completed"
+msgstr "Завершений"
+
+#: wp-includes/post.php:414
+msgctxt "request status"
+msgid "Failed"
+msgstr "Невдало"
+
+#: wp-includes/post.php:403
+msgctxt "request status"
+msgid "Confirmed"
+msgstr "Підтверджений"
+
+#: wp-includes/post.php:392
+msgctxt "request status"
+msgid "Pending"
+msgstr "В очікуванні"
+
+#: wp-includes/comment.php:3382
+msgid "Comment URL"
+msgstr "URL коментаря"
+
+#: wp-includes/comment.php:3381
+msgid "Comment Content"
+msgstr "Вміст коментаря"
+
+#: wp-includes/comment.php:3380
+msgid "Comment Date"
+msgstr "Дата коментаря"
+
+#: wp-includes/comment.php:3379
+msgid "Comment Author User Agent"
+msgstr "User Agent автора коментаря"
+
+#: wp-includes/comment.php:3378
+msgid "Comment Author IP"
+msgstr "IP автора коментаря"
+
+#: wp-includes/comment.php:3377
+msgid "Comment Author URL"
+msgstr "URL автора коментаря"
+
+#: wp-includes/comment.php:3376
+msgid "Comment Author Email"
+msgstr "E-mail автора коментаря"
+
+#: wp-includes/comment.php:3375
+msgid "Comment Author"
+msgstr "Автор коментаря"
+
+#: wp-includes/comment.php:3340 wp-includes/comment.php:3449
+msgid "WordPress Comments"
+msgstr "Коментарі WordPress"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:1414
+msgid "Limit result set to users who are considered authors."
+msgstr "Обмежити вибірку користувачами, які вважаються авторами."
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-users-controller.php:211
+msgid "Sorry, you are not allowed to query users by this parameter."
+msgstr "На жаль, вам не дозволено запит користувачів за цим параметром."
+
+#: wp-includes/media.php:3668
+msgctxt "media items"
+msgid "Mine"
+msgstr "Мої"
+
+#: wp-includes/rest-api/endpoints/class-wp-rest-post-types-controller.php:269
+msgid "Whether or not the post type can be viewed."
+msgstr "Чи може тип запису бути доступним для перегляду."
+
+#: wp-includes/functions.php:2917
+msgid "The link you followed has expired."
+msgstr "Термін дії посилання, за яким ви перейшли, закінчився."
+
+#: wp-includes/script-loader.php:1436
+#: wp-includes/class-wp-customize-manager.php:515
+msgid "You need a higher level of permission."
+msgstr "Вам потрібен вищий рівень доступу."
+
+#: wp-includes/script-loader.php:938 wp-includes/script-loader.php:1435
+#: wp-includes/script-loader.php:1523 wp-includes/script-loader.php:1777
+#: wp-includes/class-wp-xmlrpc-server.php:3884 wp-includes/functions.php:2928
+#: wp-includes/class-wp-customize-manager.php:450
+msgid "Something went wrong."
+msgstr "Щось пішло не так."
+
+#. translators: %s: User who is customizing the changeset in customizer.
+#: wp-includes/class-wp-customize-manager.php:4037
+msgid "%s is already customizing this changeset. Do you want to take over?"
+msgstr "Користувач %s вже редагує цей набір змін. Хочете перехопити?"
+
+#. translators: %s: User who is customizing the changeset in customizer.
+#: wp-includes/class-wp-customize-manager.php:4035
+msgid "%s is already customizing this changeset. Please wait until they are done to try customizing. Your latest changes have been autosaved."
+msgstr "Користувач %s вже редагує цей набір змін. Будь ласка, зачекайте поки зміни буде внесено щоби редагувати. Ваші останні зміни збережено."
+
+#: wp-includes/class-wp-customize-manager.php:4243
+msgid "Update anyway, even though it might break your site?"
+msgstr "Все одно оновити, навіть якщо це може зламати ваш сайт?"
+
+#: wp-includes/wp-db.php:1356
+msgid "The query only expected one placeholder, but an array of multiple placeholders was sent."
+msgstr "У запиті очікувався тільки один заповнювач, але був посланий масив з безліччю заповнювачів."
+
+#: wp-includes/script-loader.php:1425
+msgctxt "customizer changeset status"
+msgid "Scheduled"
+msgstr "Відкладено"
+
+#: wp-includes/customize/class-wp-customize-theme-control.php:115
+#: wp-includes/customize/class-wp-customize-theme-control.php:123
+msgctxt "theme"
+msgid "Installed"
+msgstr "Встановлена"
+
+#: wp-includes/rest-api.php:1173
+msgid "%1$s is not a valid property of Object."
+msgstr "%1$s не є правильною властивістю об'єкта."
+
+#. translators: %s: URL to Add Themes admin screen
+#: wp-includes/script-loader.php:1472
+msgid "You won&#8217;t be able to install new themes from here yet since your install requires SFTP credentials. For now, please <a href=\"%s\">add themes in the admin</a>."
+msgstr "Ви не зможете встановлювати нові теми звідси, так як ваше встановлення вимагає введення даних для SFTP входу. Будь ласка, скористайтеся <a href=\"%s\">додаванням тем через консоль</a>."
+
+#. translators: Tab heading when selecting from the most used terms
+#: wp-includes/taxonomy.php:567
+msgctxt "categories"
+msgid "Most Used"
+msgstr "Популярні"
+
+#. translators: Tab heading when selecting from the most used terms
+#: wp-includes/taxonomy.php:567
+msgctxt "tags"
+msgid "Most Used"
+msgstr "Популярні"
+
+#: wp-includes/class-wp-customize-nav-menus.php:1041
+msgid "Click &#8220;Next&#8221; to start adding links to your new menu."
+msgstr "Натисніть &#8220;Далі&#8221;, щоб почати додавати посилання в ваше нове меню."
+
+#. translators: %s: a list of valid video file extensions
+#: wp-includes/widgets/class-wp-widget-media-video.php:50
+msgid "Sorry, we can&#8217;t load the video at the supplied URL. Please check that the URL is for a supported video file (%s) or stream (e.g. YouTube and Vimeo)."
+msgstr "На жаль, не вийшло завантажити відео за вказаною URL. Будь ласка, перевірте, що URL вказує на підтримуваний відео файл (%s) або потік (наприклад YouTube або Vimeo)."
+
+#: wp-includes/script-loader.php:1598
+msgctxt "post action/button label"
+msgid "Schedule"
+msgstr "Відкласти"
+
+#: wp-includes/script-loader.php:1424
+#: wp-includes/class-wp-customize-manager.php:4734
+msgctxt "customizer changeset action/button label"
+msgid "Schedule"
+msgstr "Відкласти"
+
+#: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:84
+msgid "+ Create New Menu"
+msgstr "+ Створити нове меню"
+
+#: wp-includes/customize/class-wp-customize-nav-menu-location-control.php:84
+msgid "Create a menu for this location"
+msgstr "Створити меню для цього розміщення"
+
+#. translators: 1: fopen(), 2: file name
+#: wp-includes/class-wp-http-streams.php:255
+#: wp-includes/class-wp-http-curl.php:195
+msgid "Could not open handle for %1$s to %2$s."
+msgstr "Неможливо відкритий дескриптор для %1$s до %2$s."
+
+#: wp-includes/widgets/class-wp-nav-menu-widget.php:26
+msgid "Add a navigation menu to your sidebar."
+msgstr "Додати меню навігації до бічної колонки."
+
+#. translators: %s: Display name of the user who has taken over the changeset
+#. in customizer.
+#: wp-includes/script-loader.php:1449
+msgid "%s has taken over and is currently customizing."
+msgstr "Користувач %s пе

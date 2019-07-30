@@ -1,0 +1,32 @@
+# Translation of Plugins - WP-LESS - Development (trunk) in Swedish
+# This file is distributed under the same license as the Plugins - WP-LESS - Development (trunk) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-06-03 08:51:35+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: sv_SE\n"
+"Project-Id-Version: Plugins - WP-LESS - Development (trunk)\n"
+
+#. Author URI of the plugin/theme
+msgid "https://oncletom.io/"
+msgstr "https://oncletom.io/"
+
+#. Author of the plugin/theme
+msgid "Oncle Tom"
+msgstr "Oncle Tom"
+
+#. Description of the plugin/theme
+msgid "LESS extends CSS with variables, mixins, operations and nested rules. This plugin magically parse all your <code>*.less</code> files queued with <code>wp_enqueue_style</code> in WordPress."
+msgstr "LESS utökar CSS med hjälp av variabler, mixin, aritmetiska operationer och kapslade regler. Detta tillägg tolkar automagiskt alla dina <code>*.less</code>-filer som har köats med <code>wp_enqueue_style</code> i WordPress."
+
+#. Plugin URI of the plugin/theme
+msgid "http://wordpress.org/extend/plugins/wp-less/"
+msgstr "http://wordpress.org/extend/plugins/wp-less/"
+
+#. Plugin Name of the plugin/theme
+msgid "WP LESS"
+msgstr "WP LESS"

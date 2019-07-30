@@ -1,0 +1,1483 @@
+# Translation of Plugins - Brizy &#8211; Page Builder - Stable (latest release) in Greek
+# This file is distributed under the same license as the Plugins - Brizy &#8211; Page Builder - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-07-13 10:12:12+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: el_GR\n"
+"Project-Id-Version: Plugins - Brizy &#8211; Page Builder - Stable (latest release)\n"
+
+#: languages/texts.php:413
+msgid "You can"
+msgstr "Μπορείτε να"
+
+#: languages/texts.php:415
+msgid "or"
+msgstr "ή"
+
+#: languages/texts.php:414
+msgid "open an issue"
+msgstr "άνοιξε ένα θέμα"
+
+#: languages/texts.php:412
+msgid "An error happened while trying to display this block"
+msgstr "Συνέβη ένα σφάλμα κατά την εμφάνιση αυτού του μπλοκ"
+
+#: languages/texts.php:416
+msgid "remove this block"
+msgstr "Αφαίρεση του μπλοκ"
+
+#: languages/texts.php:318
+msgid "Error"
+msgstr "Σφάλμα"
+
+#: languages/texts.php:407
+msgid "Save"
+msgstr "Αποθήκευση"
+
+#: languages/texts.php:408
+msgid "Saved"
+msgstr "Αποθηκεύτηκε"
+
+#: languages/texts.php:410
+msgid "All Categories"
+msgstr "Όλες οι κατηγορίες"
+
+#: languages/texts.php:319
+msgid "Message sent"
+msgstr "Το μήνυμα εστάλη"
+
+#: languages/texts.php:404
+msgid "Filter By"
+msgstr "Φίλτρο Κατά"
+
+#: languages/texts.php:411
+msgid "Enter Search Keyword"
+msgstr "Γράψτε τη λέξη-κλειδί της αναζήτησης"
+
+#: languages/texts.php:409
+msgid "Global"
+msgstr "Καθολικό"
+
+#: languages/texts.php:406
+msgid "Make it Global"
+msgstr "Κάνε το καθολικό"
+
+#: languages/texts.php:405
+msgid "Block"
+msgstr "Μπλοκ"
+
+#: languages/texts.php:140 languages/texts.php:259
+msgid "Border"
+msgstr "Περίγραμμα"
+
+#: languages/texts.php:145
+msgid "Delete"
+msgstr "Διαγραφή"
+
+#: languages/texts.php:403
+msgid "Comment count"
+msgstr "Πλήθος σχολίων"
+
+#: languages/texts.php:402
+msgid "Parent"
+msgstr "Γονικός"
+
+#: languages/texts.php:401
+msgid "Modified"
+msgstr "Τροποποιήθηκε"
+
+#: languages/texts.php:391
+msgid "Status"
+msgstr "Κατάσταση"
+
+#: languages/texts.php:396
+msgid "Trash"
+msgstr "Απορρίμματα"
+
+#: languages/texts.php:393
+msgid "Draft"
+msgstr "Προσχέδιο"
+
+#: languages/texts.php:394
+msgid "Pending"
+msgstr "Εκκρεμεί"
+
+#: languages/texts.php:395
+msgid "Private"
+msgstr "Ιδιωτικό"
+
+#: languages/texts.php:397
+msgid "Auto-Draft"
+msgstr "Αυτόματο-Προσχέδιο"
+
+#: languages/texts.php:399
+msgid "Meta Key"
+msgstr "Μετα-Κλειδί"
+
+#: languages/texts.php:400
+msgid "Meta Value"
+msgstr "Μετα-Τιμή"
+
+#: languages/texts.php:398
+msgid "Inherit"
+msgstr "Κληρονόμησε"
+
+#: languages/texts.php:388
+msgid "Author"
+msgstr "Συγγραφέας"
+
+#: languages/texts.php:385
+msgid "Post"
+msgstr "Άρθρο"
+
+#: languages/texts.php:384
+msgid "Post Type"
+msgstr "Τύπος Άρθρου"
+
+#: languages/texts.php:383
+msgid "Weight"
+msgstr "Βάρος"
+
+#: languages/texts.php:387
+msgid "Category"
+msgstr "Κατηγορία"
+
+#: languages/texts.php:375
+msgid "Filter"
+msgstr "Φίλτρο"
+
+#: languages/texts.php:376
+msgid "Title"
+msgstr "Τίτλος"
+
+#: languages/texts.php:377
+msgid "Rating"
+msgstr "Αξιολόγηση"
+
+#: languages/texts.php:378
+msgid "Popularity"
+msgstr "Δημοφιλία"
+
+#: languages/texts.php:373
+msgid "My Account"
+msgstr "Ο Λογαριασμός μου"
+
+#: languages/texts.php:370
+msgid "Page"
+msgstr "Σελίδα"
+
+#: languages/texts.php:369
+msgid "Count"
+msgstr "Πλήθος"
+
+#: languages/texts.php:368
+msgid "Description"
+msgstr "Περιγραφή"
+
+#: languages/texts.php:367
+msgid "Slug"
+msgstr "Σύντομο όνομα"
+
+#: languages/texts.php:366
+msgid "Name"
+msgstr "Όνομα"
+
+#: languages/texts.php:365
+msgid "Order By"
+msgstr "Ταξινόμηση Κατά"
+
+#: languages/texts.php:364
+msgid "Desc"
+msgstr "Φθίνουσα"
+
+#: languages/texts.php:363
+msgid "Asc"
+msgstr "Αύξουσα"
+
+#: languages/texts.php:362
+msgid "Order"
+msgstr "Ταξινόμηση"
+
+#: languages/texts.php:361
+msgid "Categories Count"
+msgstr "Πλήθος Κατηγοριών"
+
+#: languages/texts.php:360
+msgid "Columns"
+msgstr "Στήλες"
+
+#: languages/texts.php:358
+msgid "Layout"
+msgstr "Διάταξη"
+
+#: languages/texts.php:357
+msgid "Products Count"
+msgstr "Πλήθος Προϊόντων"
+
+#: languages/texts.php:356
+msgid "Product ID or SKU"
+msgstr "ID ή SKU προϊόντος"
+
+#: languages/texts.php:355
+msgid "Product ID"
+msgstr "ID προϊόντος"
+
+#: languages/texts.php:354
+msgid "Query"
+msgstr "Ερώτημα"
+
+#: languages/texts.php:351
+msgid "MultiPage"
+msgstr "Πολυσέλιδη"
+
+#: languages/texts.php:350
+msgid "Footer"
+msgstr "Υποσέλιδο"
+
+#: languages/texts.php:347
+msgid "Play"
+msgstr "Εκτέλεση"
+
+#: languages/texts.php:345
+msgid "Controls"
+msgstr "Χειριστήρια"
+
+#: languages/texts.php:344
+msgid "Ratio"
+msgstr "Λόγος"
+
+#: languages/texts.php:343
+msgid "Video Link"
+msgstr "Σύνδεσμος βίντεο"
+
+#: languages/texts.php:336
+msgid "Percentage"
+msgstr "Επί τοις εκατό"
+
+#: languages/texts.php:326
+msgid "Paragraph"
+msgstr "Παράγραφος"
+
+#: languages/texts.php:325
+msgid "Number"
+msgstr "Αριθμός"
+
+#: languages/texts.php:324
+msgid "Email"
+msgstr "Email"
+
+#: languages/texts.php:323
+msgid "Required"
+msgstr "Υποχρεωτικό"
+
+#: languages/texts.php:322
+msgid "Go to"
+msgstr "Πήγαινε σε"
+
+#: languages/texts.php:321
+msgid "Redirect"
+msgstr "Ανακατεύθυνση"
+
+#: languages/texts.php:320
+msgid "Message not sent"
+msgstr "Το μήνυμα δεν εστάλη"
+
+#: languages/texts.php:317
+msgid "Success"
+msgstr "Επιτυχία"
+
+#: languages/texts.php:316
+msgid "Message"
+msgstr "Μήνυμα"
+
+#: languages/texts.php:315
+msgid "Label"
+msgstr "Ετικέτα"
+
+#: languages/texts.php:314
+msgid "Field Type"
+msgstr "Τύπος Πεδίου"
+
+#: languages/texts.php:313
+msgid "Field"
+msgstr "Πεδίο"
+
+#: languages/texts.php:311
+msgid "Paste your code here..."
+msgstr "Επικολλήστε τον κώδικά σας εδώ..."
+
+#: languages/texts.php:309
+msgid "End"
+msgstr "Τέλος"
+
+#: languages/texts.php:308
+msgid "Start"
+msgstr "Αρχή"
+
+#: languages/texts.php:306
+msgid "Russian"
+msgstr "Ρώσικα"
+
+#: languages/texts.php:305
+msgid "Dutch"
+msgstr "Ολλανδικά"
+
+#: languages/texts.php:304
+msgid "Italian"
+msgstr "Ιταλικά"
+
+#: languages/texts.php:303
+msgid "French"
+msgstr "Γαλλικά"
+
+#: languages/texts.php:302
+msgid "Spanish"
+msgstr "Ισπανικά"
+
+#: languages/texts.php:301
+msgid "English"
+msgstr "Αγγλικά"
+
+#: languages/texts.php:300
+msgid "German"
+msgstr "Γερμανικά"
+
+#: languages/texts.php:299
+msgid "Language"
+msgstr "Γλώσσα"
+
+#: languages/texts.php:287
+msgid "+ 1:00 (Berlin, Paris)"
+msgstr "+ 1:00 (Βερολίνο, Παρίσι)"
+
+#: languages/texts.php:288
+msgid "+ 2:00 (Athens, Istanbul)"
+msgstr "+ 2:00 (Αθήνα, Κωνσταντινούπολη)"
+
+#: languages/texts.php:286
+msgid "00:00 (London, Dublin)"
+msgstr "00:00 (Λονδίνο, Δουβλίνο)"
+
+#: languages/texts.php:285
+msgid "- 1:00 (Cape Verde)"
+msgstr "- 1:00 (Πράσινο Ακρωτήρι)"
+
+#: languages/texts.php:289
+msgid "+ 3:00 (Moscow, Baghdad)"
+msgstr "+ 3:00 (Μόσχα, Βαγδάτη)"
+
+#: languages/texts.php:274
+msgid "Time Zone"
+msgstr "Ζώνη Ώρας"
+
+#: languages/texts.php:273
+msgid "Minutes"
+msgstr "Λεπτά"
+
+#: languages/texts.php:272
+msgid "Hour"
+msgstr "Ώρα"
+
+#: languages/texts.php:271
+msgid "Date"
+msgstr "Ημερομηνία"
+
+#: languages/texts.php:251
+msgid "Link"
+msgstr "Σύνδεσμος"
+
+#: languages/texts.php:253
+msgid "Link to"
+msgstr "Σύνδεσμος προς"
+
+#: languages/texts.php:260
+msgid "Margin"
+msgstr "Περιθώριο"
+
+#: languages/texts.php:239
+msgid "Gap Below"
+msgstr "Διάστημα Μετά"
+
+#: languages/texts.php:238
+msgid "Gap Above"
+msgstr "Διάστημα Πριν"
+
+#: languages/texts.php:236
+msgid "Bold"
+msgstr "Έντονα"
+
+#: languages/texts.php:235
+msgid "List"
+msgstr "Λίστα"
+
+#: languages/texts.php:234
+msgid "Letter Spc."
+msgstr "Απόσταση χαρακτήρων"
+
+#: languages/texts.php:233
+msgid "Line Hgt."
+msgstr "Ύψος γραμμής"
+
+#: languages/texts.php:232
+msgid "Size"
+msgstr "Μέγεθος"
+
+#: languages/texts.php:231
+msgid "Font Family"
+msgstr "Οικογένεια γραμματοσειράς"
+
+#: languages/texts.php:230
+msgid "Typography"
+msgstr "Τυπογραφεία"
+
+#: languages/texts.php:226
+msgid "Content"
+msgstr "Περιεχόμενο"
+
+#: languages/texts.php:36
+msgid "Progress"
+msgstr "Πρόοδος"
+
+#: languages/texts.php:35
+msgid "Tabs"
+msgstr "Καρτέλες"
+
+#: languages/texts.php:34
+msgid "Countdown"
+msgstr "Αντίστροφη μέτρηση"
+
+#: languages/texts.php:33
+msgid "Counter"
+msgstr "Μετρητής"
+
+#: languages/texts.php:30
+msgid "Form"
+msgstr "Φόρμα"
+
+#: languages/texts.php:28 languages/texts.php:133
+msgid "Map"
+msgstr "Χάρτης"
+
+#: languages/texts.php:27
+msgid "Line"
+msgstr "Γραμμή"
+
+#: languages/texts.php:25 languages/texts.php:126
+msgid "Video"
+msgstr "Βίντεο"
+
+#: languages/texts.php:24 languages/texts.php:122
+msgid "Image"
+msgstr "Εικόνα"
+
+#: languages/texts.php:23
+msgid "Icon"
+msgstr "Εικονίδιο"
+
+#: languages/texts.php:47
+msgid "Posts"
+msgstr "Άρθρα"
+
+#: languages/texts.php:46
+msgid "Menu"
+msgstr "Μενού"
+
+#: languages/texts.php:44
+msgid "Products"
+msgstr "Προϊόντα"
+
+#: languages/texts.php:43
+msgid "Product"
+msgstr "Προϊόν"
+
+#: languages/texts.php:42
+msgid "Pages"
+msgstr "Σελίδες"
+
+#: languages/texts.php:41
+msgid "Categories"
+msgstr "Κατηγορίες"
+
+#: languages/texts.php:40
+msgid "Add to cart"
+msgstr "Προσθήκη στο καλάθι"
+
+#: languages/texts.php:39
+msgid "Column"
+msgstr "Στήλη"
+
+#: languages/texts.php:38
+msgid "Row"
+msgstr "Σειρά"
+
+#: languages/texts.php:37
+msgid "Accordion"
+msgstr "Ακορντεόν"
+
+#: languages/texts.php:72
+msgid "Update"
+msgstr "Ενημέρωση"
+
+#: languages/texts.php:68
+msgid "Back to WordPress"
+msgstr "Επιστροφή στο WordPress"
+
+#: languages/texts.php:67
+msgid "Plugin Settings"
+msgstr "Ρυθμίσεις Πρόσθετου"
+
+#: languages/texts.php:66
+msgid "Back to Brizy"
+msgstr "Επιστροφή στο Brizy"
+
+#: languages/texts.php:65
+msgid "About Brizy"
+msgstr "Περί του Brizy"
+
+#: languages/texts.php:64
+msgid "More"
+msgstr "Περισσότερα"
+
+#: languages/texts.php:90
+msgid "Speed"
+msgstr "Ταχύτητα"
+
+#: languages/texts.php:89
+msgid "Auto Play"
+msgstr "Αυτόματη εκτέλεση"
+
+#: languages/texts.php:83
+msgid "CSS Class"
+msgstr "Κλάση CSS"
+
+#: languages/texts.php:82
+msgid "Z-index"
+msgstr "Z-index"
+
+#: languages/texts.php:78
+msgid "Advanced"
+msgstr "Για προχωρημένους"
+
+#: languages/texts.php:76
+msgid "More Settings"
+msgstr "Περισσότερες ρυθμίσεις"
+
+#: languages/texts.php:73
+msgid "Publish"
+msgstr "Δημοσίευση"
+
+#: languages/texts.php:106
+msgid "Height"
+msgstr "Ύψος"
+
+#: languages/texts.php:105
+msgid "Width"
+msgstr "Πλάτος"
+
+#: languages/texts.php:104
+msgid "Full Height"
+msgstr "Πλήρες ύψος"
+
+#: languages/texts.php:99
+msgid "Heavy"
+msgstr "Βαρύ"
+
+#: languages/texts.php:98
+msgid "Thin"
+msgstr "Λεπτό"
+
+#: languages/texts.php:97
+msgid "Arrows"
+msgstr "Βέλη"
+
+#: languages/texts.php:96
+msgid "Square"
+msgstr "Τετράγωνο"
+
+#: languages/texts.php:95
+msgid "Diamond"
+msgstr "Διαμάντι"
+
+#: languages/texts.php:94
+msgid "Circle"
+msgstr "Κύκλος"
+
+#: languages/texts.php:129
+msgid "Quality"
+msgstr "Ποιότητα"
+
+#: languages/texts.php:131
+msgid "720p"
+msgstr "720p"
+
+#: languages/texts.php:130
+msgid "1080p"
+msgstr "1080p"
+
+#: languages/texts.php:120
+msgid "Background"
+msgstr "Φόντο"
+
+#: languages/texts.php:118
+msgid "Add new column"
+msgstr "Προσθήκη νέας στήλης"
+
+#: languages/texts.php:138
+msgid "Colors"
+msgstr "Χρώματα"
+
+#: languages/texts.php:136
+msgid "Zoom"
+msgstr "Ζουμ"
+
+#: languages/texts.php:134
+msgid "Address"
+msgstr "Διεύθυνση"
+
+#: languages/texts.php:135
+msgid "Enter address"
+msgstr "Γράψτε τη διεύθυνση"
+
+#: languages/texts.php:156
+msgid "Tada"
+msgstr "Ταντά"
+
+#: languages/texts.php:210
+msgid "SlideOutRight"
+msgstr "Ολίσθηση προς τα έξω δεξιά"
+
+#: languages/texts.php:209
+msgid "SlideOutLeft"
+msgstr "Ολίσθηση προς τα έξω αριστερά"
+
+#: languages/texts.php:208
+msgid "SlideOutDown"
+msgstr "Ολίσθηση προς τα έξω κάτω"
+
+#: languages/texts.php:207
+msgid "SlideOutUp"
+msgstr "Ολίσθηση προς τα έξω επάνω"
+
+#: languages/texts.php:206
+msgid "SlideInRight"
+msgstr "Ολίσθηση προς τα μέσα από δεξιά"
+
+#: languages/texts.php:205
+msgid "SlideInLeft"
+msgstr "Ολίσθηση προς τα μέσα από αριστερά"
+
+#: languages/texts.php:204
+msgid "SlideInDown"
+msgstr "Ολίσθηση προς τα μέσα από κάτω"
+
+#: languages/texts.php:203
+msgid "SlideInUp"
+msgstr "Ολίσθηση προς τα μέσα από επάνω"
+
+#: languages/texts.php:198
+msgid "RotateOut"
+msgstr "Περιστροφή προς τα έξω"
+
+#: languages/texts.php:263
+msgid "Spacing"
+msgstr "Διάτημα"
+
+#: languages/texts.php:266
+msgid "Normal"
+msgstr "Κανονικό"
+
+#: languages/texts.php:262
+msgid "Fill"
+msgstr "Γέμισμα"
+
+#: languages/texts.php:261
+msgid "Corner"
+msgstr "Γωνία"
+
+#: languages/texts.php:258
+msgid "Padding"
+msgstr "Γέμισμα"
+
+#: languages/texts.php:254 languages/texts.php:255
+msgid "Open In New Tab"
+msgstr "Άνοιγμα σε νέα καρτέλα"
+
+#: languages/texts.php:248
+msgid "PRE"
+msgstr "PRE"
+
+#: languages/texts.php:247
+msgid "H6"
+msgstr "H6"
+
+#: languages/texts.php:246
+msgid "H5"
+msgstr "H5"
+
+#: languages/texts.php:245
+msgid "H4"
+msgstr "H4"
+
+#: languages/texts.php:278
+msgid "- 8:00 (Los Angeles)"
+msgstr "- 8:00 (Λος Άντζελες)"
+
+#: languages/texts.php:280
+msgid "- 6:00 (Chicago, Dallas)"
+msgstr "- 6:00 (Σικάγο, Ντάλλας)"
+
+#: languages/texts.php:279
+msgid "- 7:00 (Denver, Phoenix)"
+msgstr "- 7:00 (Ντένβερ, Φοίνιξ)"
+
+#: languages/texts.php:277
+msgid "- 9:00 (Anchorage)"
+msgstr "- 9:00 (Άκνορατζ Αλάσκα)"
+
+#: languages/texts.php:276
+msgid "- 10:00 (Honolulu, Papeete)"
+msgstr "- 10:00 (Χονολουλού, Παπίτι)"
+
+#: languages/texts.php:275
+msgid "- 11:00 (Niue)"
+msgstr "- 11:00 (Νιούϊ)"
+
+#: languages/texts.php:281
+msgid "- 5:00 (New York, Miami)"
+msgstr "- 5:00 (Νέα Υόρκη, Μαϊάμι)"
+
+#: languages/texts.php:298
+msgid "+ 12:00 (Auckland)"
+msgstr "+ 12:00 (Ώκλαντ)"
+
+#: languages/texts.php:296
+msgid "+ 10:00 (Sidney, Melbourne)"
+msgstr "+ 10:00 (Σίδνεϋ, Μελβούρνη)"
+
+#: languages/texts.php:295
+msgid "+ 9:00 (Tokyo, Seoul)"
+msgstr "+ 9:00 (Τόκιο, Σεούλ)"
+
+#: languages/texts.php:294
+msgid "+ 8:00 (Singapore, Beijing)"
+msgstr "+ 8:00 (Σιγκαπούρη, Πεκίνο)"
+
+#: languages/texts.php:293
+msgid "+ 7:00 (Bangkok, Jakarta)"
+msgstr "+ 7:00 (Μπανκόνγκ, Τζακάρτα)"
+
+#: languages/texts.php:292
+msgid "+ 6:00 (Astana)"
+msgstr "+ 6:00 (Αστάνα)"
+
+#: languages/texts.php:291
+msgid "+ 5:00 (Yekaterinburg)"
+msgstr "+ 5:00 (Αικατερίνεμπουργκ)"
+
+#: languages/texts.php:290
+msgid "+ 4:00 (Dubai, Baku)"
+msgstr "+ 4:00 Ντουμπάϊ, Μπακού)"
+
+#: languages/texts.php:333
+msgid "Brigh.."
+msgstr "Φωτεινότητα"
+
+#: languages/texts.php:331
+msgid "Opacity"
+msgstr "Διαφάνεια"
+
+#: languages/texts.php:330
+msgid "Style"
+msgstr "Στυλ"
+
+#: languages/texts.php:332
+msgid "Hue"
+msgstr "Απόχρωση"
+
+#: languages/texts.php:334
+msgid "Satur.."
+msgstr "Κορεσμός"
+
+#: languages/texts.php:327
+msgid "Select"
+msgstr "Επιλογή"
+
+#: languages/texts.php:340
+msgid "SoundCloud"
+msgstr "SoundCloud"
+
+#: languages/texts.php:341
+msgid "SoundCloud Link"
+msgstr "Σύνδεσμος στο SoundCloud"
+
+#: languages/texts.php:371
+msgid "Cart"
+msgstr "Καλάθι"
+
+#: languages/texts.php:372
+msgid "Checkout"
+msgstr "Ταμείο"
+
+#: languages/texts.php:359
+msgid "Style Add to Cart"
+msgstr "Στυλ Προσθήκη στο Καλάθι"
+
+#: languages/texts.php:381
+msgid "ID"
+msgstr "ID"
+
+#: languages/texts.php:380
+msgid "Random"
+msgstr "Τυχαίο"
+
+#: languages/texts.php:379
+msgid "Menu Order"
+msgstr "Σειρά μενού"
+
+#: languages/texts.php:374
+msgid "Order Tracking"
+msgstr "Παρακολούθηση Παραγγελίας"
+
+#: languages/texts.php:392
+msgid "Future"
+msgstr "Μελλοντικό"
+
+#: languages/texts.php:389
+msgid "Include"
+msgstr "Περίλαβε"
+
+#: languages/texts.php:390
+msgid "Exclude"
+msgstr "Απόκλεισε"
+
+#: languages/texts.php:227
+msgid "Align"
+msgstr "Ευθυγράμμιση"
+
+#: languages/texts.php:228
+msgid "Position"
+msgstr "Τοποθέτηση"
+
+#: languages/texts.php:237
+msgid "Italic"
+msgstr "Πλάγια"
+
+#: languages/texts.php:240
+msgid "HTML Tag"
+msgstr "Ετικέτα HTML"
+
+#: languages/texts.php:216
+msgid "ZoomOut"
+msgstr "Ζουμ προς τα έξω"
+
+#: languages/texts.php:193
+msgid "RotateIn"
+msgstr "Περιστροφή προς τα μέσα"
+
+#: languages/texts.php:187
+msgid "Flip"
+msgstr "Αναποδογύρισμα"
+
+#: languages/texts.php:169
+msgid "FadeIn"
+msgstr "Σβήσιμο προς τα μέσα"
+
+#: languages/texts.php:155
+msgid "Swing"
+msgstr "Ταλάντευση"
+
+#: languages/texts.php:154
+msgid "Shake"
+msgstr "Δόνηση"
+
+#: languages/texts.php:153
+msgid "RubberBand"
+msgstr "Σταυρόνημα"
+
+#: languages/texts.php:164
+msgid "BounceOut"
+msgstr "Αναπηδώ προς τα έξω"
+
+#: languages/texts.php:159
+msgid "BounceIn"
+msgstr "Αναπηδώ προς τα μέσα"
+
+#: languages/texts.php:158
+msgid "Jello"
+msgstr "Τρεμουλιάζω"
+
+#: languages/texts.php:157
+msgid "Wobble"
+msgstr "Αμφιταλαντεύομαι"
+
+#: languages/texts.php:152
+msgid "Pulse"
+msgstr "Πάλλομαι"
+
+#: languages/texts.php:151
+msgid "Flash"
+msgstr "Αναλάμπω"
+
+#: languages/texts.php:124
+msgid "Fixed"
+msgstr "Σταθερό"
+
+#: languages/texts.php:123
+msgid "Parallax"
+msgstr "Παράλλαξη"
+
+#: languages/texts.php:114
+msgid "Could not find"
+msgstr "Δεν βρέθηκε"
+
+#: languages/texts.php:109
+msgid "Custom"
+msgstr "Προσαρμοσμένο"
+
+#: languages/texts.php:110
+msgid "Full"
+msgstr "Πλήρες"
+
+#: languages/texts.php:108
+msgid "Auto"
+msgstr "Αυτόματο"
+
+#: languages/texts.php:93
+msgid "None"
+msgstr "Κανένα"
+
+#: languages/texts.php:100
+msgid "Tail"
+msgstr "Ουρά"
+
+#: languages/texts.php:92
+msgid "Dots"
+msgstr "Τελίτσες"
+
+#: languages/texts.php:382
+msgid "Paste your wordpress shortcode here..."
+msgstr "Επικολλήστε εδώ το wordpress shortcode σας..."
+
+#: languages/texts.php:338
+msgid "Bar"
+msgstr "Μπάρα"
+
+#: languages/texts.php:297
+msgid "+ 11:00 (Ponape)"
+msgstr "+ 11:00 (Ponape)"
+
+#: languages/texts.php:284
+msgid "- 2:00 (Noronha)"
+msgstr "- 2:00 (Noronha)"
+
+#: languages/texts.php:283
+msgid "- 3:00 (Brasilia, Santiago)"
+msgstr "- 3:00 (Μπραζίλια, Σαντιάγκο)"
+
+#: languages/texts.php:282
+msgid "- 4:00 (Halifax, Manaus)"
+msgstr "- 4:00 (Χάλιφαξ, Μαναούς)"
+
+#: languages/texts.php:244
+msgid "H3"
+msgstr "H3"
+
+#: languages/texts.php:243
+msgid "H2"
+msgstr "H2"
+
+#: languages/texts.php:242
+msgid "H1"
+msgstr "H1"
+
+#: languages/texts.php:241
+msgid "P"
+msgstr "P"
+
+#: languages/texts.php:211
+msgid "ZoomIn"
+msgstr "Ζουμ προς τα μέσα"
+
+#: languages/texts.php:252
+msgid "Anchor"
+msgstr "Αγκύρωση"
+
+#: languages/texts.php:249
+msgid "Editable Text"
+msgstr "Επεξεργάσιμο Κείμενο"
+
+#: languages/texts.php:224
+msgid "RollOut"
+msgstr "Κύλιση προς τα έξω"
+
+#: languages/texts.php:223
+msgid "RollIn"
+msgstr "Κύλιση προς τα μέσα"
+
+#: languages/texts.php:222
+msgid "JackInTheBox"
+msgstr "Φασουλής"
+
+#: languages/texts.php:221
+msgid "Hinge"
+msgstr "Κρέμασμα"
+
+#: languages/texts.php:220
+msgid "ZoomOutUp"
+msgstr "Ζουμ προς τα έξω και επάνω"
+
+#: languages/texts.php:219
+msgid "ZoomOutRight"
+msgstr "Ζουμ προς τα έξω και δεξιά"
+
+#: languages/texts.php:218
+msgid "ZoomOutLeft"
+msgstr "Ζουμ προς τα έξω και αριστερά"
+
+#: languages/texts.php:217
+msgid "ZoomOutDown"
+msgstr "Ζουμ προς τα έξω και κάτω"
+
+#: languages/texts.php:213
+msgid "ZoomInLeft"
+msgstr "Ζουμ προς τα μέσα από αριστερά"
+
+#: languages/texts.php:212
+msgid "ZoomInDown"
+msgstr "Ζουμ προς τα μέσα από κάτω"
+
+#: languages/texts.php:202
+msgid "RotateOutUpRight"
+msgstr "Περιστροφή προς τα έξω επάνω δεξιά"
+
+#: languages/texts.php:201
+msgid "RotateOutUpLeft"
+msgstr "Περιστροφή προς τα έξω επάνω αριστερά"
+
+#: languages/texts.php:200
+msgid "RotateOutDownRight"
+msgstr "Περιστροφή προς τα έξω κάτω δεξιά"
+
+#: languages/texts.php:199
+msgid "RotateOutDownLeft"
+msgstr "Περιστροφή προς τα έξω κάτω αριστερά"
+
+#: languages/texts.php:197
+msgid "RotateInUpRight"
+msgstr "Περιστροφή προς τα μέσα επάνω δεξιά"
+
+#: languages/texts.php:196
+msgid "RotateInUpLeft"
+msgstr "Περιστροφή προς τα μέσα επάνω αριστερά"
+
+#: languages/texts.php:195
+msgid "RotateInDownRight"
+msgstr "Περιστροφή προς τα μέσα κάτω δεξιά"
+
+#: languages/texts.php:194
+msgid "RotateInDownLeft"
+msgstr "Περιστροφή προς τα μέσα κάτω αριστερά"
+
+#: languages/texts.php:191
+msgid "FlipOutY"
+msgstr "Αναποδογύρισμα προς τα έξω άξονας Υ"
+
+#: languages/texts.php:190
+msgid "FlipOutX"
+msgstr "Αναποδογύρισμα προς τα έξω άξονας Χ"
+
+#: languages/texts.php:189
+msgid "FlipInY"
+msgstr "Αναποδογύρισμα προς τα μέσα άξονας Υ"
+
+#: languages/texts.php:188
+msgid "FlipInX"
+msgstr "Αναποδογύρισμα προς τα έξω άξονας Χ"
+
+#: languages/texts.php:176
+msgid "FadeInUp"
+msgstr "Σβήσιμο προς τα μέσα και επάνω"
+
+#: languages/texts.php:178
+msgid "FadeOut"
+msgstr "Σβήσιμο προς τα έξω"
+
+#: languages/texts.php:168
+msgid "BounceOutUp"
+msgstr "Αναπήδηση προς τα έξω και επάνω"
+
+#: languages/texts.php:167
+msgid "BounceOutRight"
+msgstr "Αναπήδηση προς τα έξω και δεξιά"
+
+#: languages/texts.php:166
+msgid "BounceOutLeft"
+msgstr "Αναπήδηση προς τα έξω και αριστερά"
+
+#: languages/texts.php:165
+msgid "BounceOutDown"
+msgstr "Αναπήδηση προς τα έξω και κάτω"
+
+#: languages/texts.php:163
+msgid "BounceInUp"
+msgstr "Αναπήδηση προς τα μέσα και επάνω"
+
+#: languages/texts.php:162
+msgid "BounceInRight"
+msgstr "Αναπήδηση προς τα μέσα και δεξιά"
+
+#: languages/texts.php:161
+msgid "BounceInLeft"
+msgstr "Αναπήδηση προς τα μέσα και αριστερά"
+
+#: languages/texts.php:160
+msgid "BounceInDown"
+msgstr "Αναπήδηση προς τα μέσα και κάτω"
+
+#: languages/texts.php:150
+msgid "Bounce"
+msgstr "Αναπήδηση"
+
+#: languages/texts.php:149
+msgid "Delay"
+msgstr "Καθυστέρηση"
+
+#: languages/texts.php:148
+msgid "Duration"
+msgstr "Διάρκεια"
+
+#: languages/texts.php:139
+msgid "Overlay"
+msgstr "Επικάλυψη"
+
+#: languages/texts.php:147
+msgid "Animation"
+msgstr "Κίνηση"
+
+#: languages/texts.php:125
+msgid "Animated"
+msgstr "Κινούμενος"
+
+#: languages/texts.php:132
+msgid "Loop"
+msgstr "Βρόγχος"
+
+#: languages/texts.php:128
+msgid "YouTube or Vimeo"
+msgstr "YouTube ή Vimeo"
+
+#: languages/texts.php:127
+msgid "URL"
+msgstr "URL"
+
+#: languages/texts.php:121
+msgid "Bg Size"
+msgstr "Μέγεθος φόντου"
+
+#: languages/texts.php:115
+msgid "component"
+msgstr "δομικό στοιχείο"
+
+#: languages/texts.php:101
+msgid "Round"
+msgstr "Στρογγυλό"
+
+#: languages/texts.php:107
+msgid "Boxed"
+msgstr "Εγκλωβισμένο"
+
+#: languages/texts.php:113
+msgid "Missing Element"
+msgstr "Στοιχείο που λείπει"
+
+#: languages/texts.php:102
+msgid "Outline"
+msgstr "Περίγραμμα"
+
+#: languages/texts.php:91
+msgid "Navigation"
+msgstr "Πλοήγηση"
+
+#: languages/texts.php:81
+msgid "Enable on Mobile"
+msgstr "Ενεργοποίηση σε Κινητό"
+
+#: languages/texts.php:80
+msgid "Disable on Mobile"
+msgstr "Απενεργοποίηση σε Κινητό"
+
+#: languages/texts.php:79
+msgid "Show on Desktop"
+msgstr "Εμφάνιση σε Επιτραπέζιο"
+
+#: languages/texts.php:71
+msgid "Save HTML"
+msgstr "Αποθήκευση HTML"
+
+#: languages/texts.php:62
+msgid "Mobile"
+msgstr "Κινητό"
+
+#: languages/texts.php:61
+msgid "Desktop"
+msgstr "Επιτραπέζιο"
+
+#: languages/texts.php:60
+msgid "Mobile view"
+msgstr "Όψη κινητού"
+
+#: languages/texts.php:58
+msgid "New Style #%s"
+msgstr "Νέο Στυλ #%s"
+
+#: languages/texts.php:57
+msgid "Add New"
+msgstr "Προσθήκη Νέου"
+
+#: languages/texts.php:56
+msgid "Add new option"
+msgstr "Επιλογή προσθήκη νέου"
+
+#: languages/texts.php:55
+msgid "Type font name"
+msgstr "Όνομα γραμματοσειράς τύπου"
+
+#: languages/texts.php:54
+msgid "Add New Google Font"
+msgstr "Προσθήκη νέας γραμματοσειράς Google"
+
+#: languages/texts.php:51
+msgid "Drag to reorder"
+msgstr "Σύρετε για αναδιάταξη"
+
+#: languages/texts.php:50
+msgid "Reorder Blocks"
+msgstr "Αναδιάταξη Μπλοκ"
+
+#: languages/texts.php:48
+msgid "Sidebar"
+msgstr "Πλευρική στήλη"
+
+#: languages/texts.php:45
+msgid "Shortcode"
+msgstr "Shortcode"
+
+#: languages/texts.php:32
+msgid "SndCloud"
+msgstr "SndCloud"
+
+#: languages/texts.php:31
+msgid "Icon Box"
+msgstr "Κουτί εικονιδίου"
+
+#: languages/texts.php:21 languages/texts.php:328
+msgid "Text"
+msgstr "Κείμενο"
+
+#: languages/texts.php:20
+msgid "Add Elements"
+msgstr "Προσθήκη Στοιχείων"
+
+#: languages/texts.php:16
+msgid "Press the button to add blocks"
+msgstr "Πατήστε το πλήκτρο για να προσθέσετε μπλοκ"
+
+#: languages/texts.php:15
+msgid "Add a new block"
+msgstr "Προσθήκη νέου μπλοκ"
+
+#: languages/texts.php:9
+msgid "START BUILDING YOUR PAGE"
+msgstr "ΞΕΚΙΝΗΣΤΕ ΝΑ ΔΗΜΙΟΥΡΓΕΙΤΕ ΤΗΝ ΙΣΤΟΣΕΛΙΔΑ ΣΑΣ"
+
+#: languages/texts.php:26
+msgid "Spacer"
+msgstr "Αποστατήρας"
+
+#: languages/texts.php:86
+msgid "Slider"
+msgstr "Slider"
+
+#: languages/texts.php:88
+msgid "Make it a Slider"
+msgstr "Κάνε το Slider"
+
+#: languages/texts.php:215
+msgid "ZoomInUp"
+msgstr "Ζουμ προσ τα μέσα και επάνω"
+
+#: languages/texts.php:214
+msgid "ZoomInRight"
+msgstr "Ζουμ προς τα μέσα και δεξιά"
+
+#: languages/texts.php:12
+msgid "Switch to desktop to add blocks"
+msgstr "Αλλάξτε σε επιτραπέζια προβολή για να προσθέσετε μπλοκ"
+
+#: languages/texts.php:11
+msgid "SWITCH TO DESKTOP"
+msgstr "ΑΛΛΑΞΤΕ ΣΕ ΕΠΙΤΡΑΠΕΖΙΑ ΠΡΟΒΟΛΗ"
+
+#: languages/texts.php:10
+msgid "Press the button above to add blocks"
+msgstr "Πατήστε το πλήκτρο από πάνω για να προσθέσετε μπλοκ"
+
+#: languages/texts.php:183
+msgid "FadeOutRight"
+msgstr "Σβήσιμο προς τα έξω και δεξιά"
+
+#: languages/texts.php:181
+msgid "FadeOutLeft"
+msgstr "Σβήσιμο προς τα έξω και αριστερά"
+
+#: languages/texts.php:179
+msgid "FadeOutDown"
+msgstr "Σβήσιμο προς τα έξω και κάτω"
+
+#: languages/texts.php:170
+msgid "FadeInDown"
+msgstr "Σβήσιμο προς τα μέσα και κάτω"
+
+#: languages/texts.php:172
+msgid "FadeInLeft"
+msgstr "Σβήσιμο προς τα μέσα και αριστερά"
+
+#: languages/texts.php:174
+msgid "FadeInRight"
+msgstr "Σβήσιμο προς τα μέσα και δεξιά"
+
+#: languages/texts.php:175
+msgid "FadeInRightBig"
+msgstr "Σβήσιμο προς τα μέσα και δεξιά έντονα"
+
+#: languages/texts.php:177
+msgid "FadeInUpBig"
+msgstr "Σβήσιμο προς τα μέσα και επάνω έντονα"
+
+#: languages/texts.php:180
+msgid "FadeOutDownBig"
+msgstr "Σβήσιμο προς τα έξω και κάτω έντονα"
+
+#: languages/texts.php:182
+msgid "FadeOutLeftBig"
+msgstr "Σβήσιμο προς τα έξω και αριστερά έντονα"
+
+#: languages/texts.php:173
+msgid "FadeInLeftBig"
+msgstr "Σβήσιμο προς τα μέσα και αριστερά έντονα"
+
+#: languages/texts.php:171
+msgid "FadeInDownBig"
+msgstr "Σβήσιμο προς τα μέσα και κάτω έντονα"
+
+#: languages/texts.php:186
+msgid "FadeOutUpBig"
+msgstr "Σβήσιμο προς τα έξω και επάνω έντονα"
+
+#: languages/texts.php:185
+msgid "FadeOutUp"
+msgstr "Σβήσιμο προς τα έξω και επάνω"
+
+#: languages/texts.php:184
+msgid "FadeOutRightBig"
+msgstr "Σβήσιμο προς τα έξω και δεξιά έντονα"
+
+#: languages/texts.php:192
+msgid "LightSpeedIn"
+msgstr "Αστραπιαία προς τα μέσα"
+
+#: languages/texts.php:29
+msgid "Embed"
+msgstr "Ένθετο"
+
+#: languages/texts.php:22
+msgid "Button"
+msgstr "Κουμπί"
+
+#: languages/texts.php:337
+msgid "Show Percentage"
+msgstr "Εμφάνιση ποσοστού"
+
+#: languages/texts.php:53 languages/texts.php:77
+msgid "Styling"
+msgstr "Στυλ"
+
+#: languages/texts.php:144
+msgid "Duplicate"
+msgstr "Δημιουργία αντιγράφου"
+
+#: languages/texts.php:386
+msgid "Number posts"
+msgstr "Αριθμός άρθρων"
+
+#: public/hooks.php:34
+msgid "Brizy Template"
+msgstr "Πρότυπο του Brizy"
+
+#: editor/post.php:400
+msgid "Default"
+msgstr "Προεπιλογή"
+
+#: admin/views/settings/view.php:64
+msgid "Save Changes"
+msgstr "Αποθήκευση Αλλαγών"
+
+#: admin/views/settings/view.php:16
+msgid "Post Types"
+msgstr "Τύποι Άρθρων"
+
+#: admin/main.php:156 languages/texts.php:142
+msgid "Settings"
+msgstr "Ρυθμίσεις"
+
+#. Author of the plugin/theme
+msgid "Brizy.io"
+msgstr "Brizy.io"
+
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Plugin URI of the plugin/theme
+#. #-#-#-#-#  brizy-code.pot (Brizy 1.0.18)  #-#-#-#-#
+#. Author URI of the plugin/theme
+msgid "https://brizy.io/"
+msgstr "https://brizy.io/"
+
+#. Plugin Name of the plugin/theme
+msgid "Brizy"
+msgstr "Brizy"
+
+#: public/main.php:84
+msgid "Preview"
+msgstr "Προεπισκόπηση"
+
+#: public/main.php:95
+msgid "View"
+msgstr "Προβολή"
+
+#: public/views/error.php:10
+msgid "Go back"
+msgstr "Επιστροφή"
+
+#: admin/views/settings/view.php:34
+msgid "Exclude for roles"
+msgstr "Απόκλεισε για τους ρόλους"
+
+#: admin/views/button.php:45 admin/views/editor.php:21
+msgid "Continue to edit with"
+msgstr "Συνέχισε την τροποποίηση με"
+
+#: admin/main.php:448
+msgid "Auto Draft"
+msgstr "Αυτόματο προσχέδιο"
+
+#: admin/main.php:352
+msgid "Edit with Brizy"
+msgstr "Τροποποίηση με το Brizy"
+
+#. Description of the plugin/theme
+msgid "A free drag & drop front-end page builder to help you create WordPress pages lightning fast. It's easy with Brizy."
+msgstr "Ένας δωρεάν κατασκευαστής σελίδων, σύρε κι άσε, άμεσης προβολής, που σας βοηθάει να δημιουργήσετε σελίδες στο WordPress με αστραπιαία ταχύτητα. Είναι εύκολο με το Brizy."
